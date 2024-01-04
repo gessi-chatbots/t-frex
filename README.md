@@ -43,7 +43,7 @@ The ```data``` folder contains two files:
 
 
 
-- **reviews.json** - Original JSON file containing the complete set of reviews used in this research before pre-processing, obtained from Motger et al. [1]
+- **reviews.json** - Original JSON file containing the complete set of reviews used in this research before pre-processing, obtained from Motger et al. [1]. *(Note: the file is available in the latest release package as it exceeds the 100GB maximum size limit for GitHub storage).*
 
 - **reviews_annotated.txt** - Generated CoNLL file containing the complete set of reviews after pre-processing and feature transfer.
 
