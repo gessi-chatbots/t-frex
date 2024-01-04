@@ -12,7 +12,7 @@ T-FREX is a transformer-based feature extraction method for mobile app reviews b
 
 
 
-This package is structured in 4 main folders:
+This repository is structured in 3 main folders:
 
 
 
@@ -22,13 +22,16 @@ This package is structured in 4 main folders:
 
 - **evaluation** - Contains extended data on the evaluation results of T-FREX.
 
-- **models** - Contains the checkpoint for all LLMs resulted from the fine-tuning process.
-
-
-
 In the upcoming sections we refer to the practical use of each of the previous artefacts.
 
+Additionally, we published the fine-tuned versions of the models used for experimentation in the original research, which are ready to be used for model inference:
 
+- [**t-frex-bert-base-uncased**](https://huggingface.co/quim-motger/t-frex-bert-base-uncased)
+- [**t-frex-bert-large-uncased**](https://huggingface.co/quim-motger/t-frex-bert-large-uncased)
+- [**t-frex-roberta-base**](https://huggingface.co/quim-motger/t-frex-roberta-base)
+- [**t-frex-roberta-large**](https://huggingface.co/quim-motger/t-frex-roberta-large)
+- [**t-frex-xlnet-base-cased**](https://huggingface.co/quim-motger/t-frex-xlnet-base-cased)
+- [**t-frex-xlnet-large-cased**](https://huggingface.co/quim-motger/t-frex-xlnet-large-cased)
 
 ## Data Pre-processing and Feature Transfer
 
@@ -84,9 +87,7 @@ In addition to the complete dataset of reviews and features, the ```data``` fold
 
 ## Model fine-tuning
 
-The previous folders can be used as input files for experimentation and fine-tuning of multiple LLMs. For simplicity, in this replication package we provide the code for running 1 single fine-tuning scennario. Replication of the evaluation tasks can be conducted through automatic runs of the provided code with different parameters.
-
-
+The previous folders can be used as input files for experimentation and fine-tuning of multiple LLMs. For simplicity, in this repository we provide the code for running 1 single fine-tuning scennario. Replication of the evaluation tasks can be conducted through automatic runs of the provided code with different parameters.
 
 Below we provide the complete list of LLMs and the specific checkpoints (from https://huggingface.co/) used for experimentation. Additionally, we detail the parameters we used for training. Experiments were conducted on two NVIDIA GeForce RTX 4090 GPUs.
 
@@ -100,7 +101,6 @@ Below we provide the complete list of LLMs and the specific checkpoints (from ht
 | **xlnet-base-cased**   | ~16 GB         |  110 M |                   2 |          3e-5 |         16 |
 | **xlnet-large-cased**  | ~113 GB        |  340 M |                   2 |          3e-5 |          8 |
 
-
 The usage of the fine-tuning script is illustrated below:
 
 ```python .\code\fine_tuning.py -m [model] -if [input_folder] -of [output_folder] -e [eval] -ep [epochs] -lr [learning_rate] -bs [batch_size]```
@@ -112,8 +112,6 @@ We refer to the required parameters in the following list:
 - **input_folder** - Path to the subfolder (from ```data/T-FREX/in-domain``` or  ```data/T-FREX/out-of-domain```) used for training and testing. E.g.: ```.\data\T-FREX\out-of-domain\PRODUCTIVITY\```
 
 - **output_folder** - Path to the folder to save the model checkpoints. E.g.: ```.\models\bert-base-uncased``` 
-
-	***(WARNING: to avoid overriding the provided models in this replication package please change this path)***
 
 - **eval** - Evaluation function used to measure quality metrics. It must be either ```token-level``` (i.e., metrics are computed for each token) or ```feature-level``` (i.e., metrics are computed for each feature).
 
