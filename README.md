@@ -6,9 +6,7 @@ T-FREX is a transformer-based feature extraction method for mobile app reviews b
 
 
 
-![T-FREX design\label{t-frex}](design.PNG)
-
-
+![T-FREX design\label{t-frex}](design.png)
 
 ## Structure
 
