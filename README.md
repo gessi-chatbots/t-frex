@@ -33,6 +33,8 @@ Additionally, we published the fine-tuned versions of the models used for experi
 - [**t-frex-xlnet-base-cased**](https://huggingface.co/quim-motger/t-frex-xlnet-base-cased)
 - [**t-frex-xlnet-large-cased**](https://huggingface.co/quim-motger/t-frex-xlnet-large-cased)
 
+Instructions on how to load these models and use them for inference are available [here](https://huggingface.co/docs/transformers/tasks/token_classification#inference).
+
 ## Data Pre-processing and Feature Transfer
 
 
