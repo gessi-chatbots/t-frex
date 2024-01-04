@@ -1,0 +1,131 @@
+<doc id="cd07445c-38c7-41c2-9d36-ebdb5fed1166_s4" package_name="habittracker.todolist.tickit.daily.planner" app_name="Habit Tracker - Habit Diary" app_category="['Task Manager']" google_play_category="['LIFESTYLE']">
+
+1	Also	also	ADV	RB	_	0	_	_	start_char=184|end_char=188	O
+2	please	please	INTJ	UH	_	1	_	_	start_char=189|end_char=195	O
+3	add	add	VERB	VB	Mood=Imp|VerbForm=Fin	2	_	_	start_char=196|end_char=199	O
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=200|end_char=201	O
+5	feature	feature	NOUN	NN	Number=Sing	4	_	_	start_char=202|end_char=209	O
+6	to	to	PART	TO	_	5	_	_	start_char=210|end_char=212	O
+7	arrange	arrange	VERB	VB	VerbForm=Inf	6	_	_	start_char=213|end_char=220	O
+8	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	_	_	start_char=221|end_char=223	O
+9	like	like	ADP	IN	_	8	_	_	start_char=224|end_char=228	O
+10	a	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=229|end_char=230	O
+11	daily	daily	ADJ	JJ	Degree=Pos	10	_	_	start_char=231|end_char=236	O
+12	planner	planner	NOUN	NN	Number=Sing	11	_	_	start_char=237|end_char=244	B-feature
+13	,	,	PUNCT	,	_	12	_	_	start_char=244|end_char=245	O
+14	(	(	PUNCT	-LRB-	_	13	_	_	start_char=246|end_char=247	O
+15	i.e.	i.e.	ADV	FW	Abbr=Yes	14	_	_	start_char=247|end_char=251	O
+16	starting	start	VERB	VBG	VerbForm=Ger	15	_	_	start_char=252|end_char=260	O
+17	from	from	ADP	IN	_	16	_	_	start_char=261|end_char=265	O
+18	5:00	5:00	NUM	CD	NumForm=Digit|NumType=Card	17	_	_	start_char=266|end_char=270	O
+19	am	am	NOUN	NN	Number=Sing	18	_	_	start_char=271|end_char=273	O
+20	and	and	CCONJ	CC	_	19	_	_	start_char=274|end_char=277	O
+21	so	so	ADV	RB	_	20	_	_	start_char=278|end_char=280	O
+22	on	on	ADV	RB	_	21	_	_	start_char=281|end_char=283	O
+23	)	)	PUNCT	-RRB-	_	22	_	_	start_char=283|end_char=284	O
+24	because	because	SCONJ	IN	_	23	_	_	start_char=285|end_char=292	O
+25	your	you	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	24	_	_	start_char=293|end_char=297	O
+26	daily	daily	ADJ	JJ	Degree=Pos	25	_	_	start_char=298|end_char=303	O
+27	routine	routine	NOUN	NN	Number=Sing	26	_	_	start_char=304|end_char=311	O
+28	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	_	_	start_char=312|end_char=314	O
+29	your	you	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	28	_	_	start_char=315|end_char=319	O
+30	daily	daily	ADJ	JJ	Degree=Pos	29	_	_	start_char=320|end_char=325	O
+31	habits	habit	NOUN	NNS	Number=Plur	30	_	_	start_char=326|end_char=332	O
+32	.	.	PUNCT	.	_	31	_	_	start_char=332|end_char=333	O
+
+</doc>
+
+<doc id="061246ec-9d36-4543-87a3-6be70b703abc_s1" package_name="net.daylio" app_name="Daylio Journal - Mood Tracker" app_category="['Task Manager']" google_play_category="['LIFESTYLE']">
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=21|end_char=24	O
+2	best	good	ADJ	JJS	Degree=Sup	1	_	_	start_char=25|end_char=29	O
+3	kind	kind	NOUN	NN	Number=Sing	2	_	_	start_char=30|end_char=34	O
+4	of	of	ADP	IN	_	3	_	_	start_char=35|end_char=37	O
+5	daily	daily	ADJ	JJ	Degree=Pos	4	_	_	start_char=38|end_char=43	O
+6	diary	diary	NOUN	NN	Number=Sing	5	_	_	start_char=44|end_char=49	O
+7	and	and	CCONJ	CC	_	6	_	_	start_char=50|end_char=53	O
+8	goal	goal	NOUN	NN	Number=Sing	7	_	_	start_char=54|end_char=58	O
+9	planner	planner	NOUN	NN	Number=Sing	8	_	_	start_char=59|end_char=66	B-feature
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	_	_	start_char=67|end_char=68	O
+11	've	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	_	_	start_char=68|end_char=71	O
+12	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=72|end_char=76	O
+13	.	.	PUNCT	.	_	12	_	_	start_char=76|end_char=77	O
+
+</doc>
+
+<doc id="25687cef-ece5-4fca-ae39-66856a3c983d_s1" package_name="net.daylio" app_name="Daylio Journal - Mood Tracker" app_category="['Task Manager']" google_play_category="['LIFESTYLE']">
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=70|end_char=74	O
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=75|end_char=77	O
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=78|end_char=81	O
+4	BEST	good	ADJ	JJS	Degree=Sup	3	_	_	start_char=82|end_char=86	O
+5	mood	mood	NOUN	NN	Number=Sing	4	_	_	start_char=87|end_char=91	B-feature
+6	tracking	tracking	NOUN	NN	Number=Sing	5	_	_	start_char=92|end_char=100	I-feature
+7	app	app	NOUN	NN	Number=Sing	6	_	_	start_char=101|end_char=104	O
+8	for	for	ADP	IN	_	7	_	_	start_char=105|end_char=108	O
+9	those	that	PRON	DT	Number=Plur|PronType=Dem	8	_	_	start_char=109|end_char=114	O
+10	who	who	PRON	WP	PronType=Rel	9	_	_	start_char=115|end_char=118	O
+11	just	just	ADV	RB	_	10	_	_	start_char=119|end_char=123	O
+12	want	want	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=124|end_char=128	O
+13	to	to	PART	TO	_	12	_	_	start_char=129|end_char=131	O
+14	track	track	VERB	VB	VerbForm=Inf	13	_	_	start_char=132|end_char=137	O
+15	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	_	_	start_char=138|end_char=140	O
+16	,	,	PUNCT	,	_	15	_	_	start_char=140|end_char=141	O
+17	not	not	PART	RB	_	16	_	_	start_char=142|end_char=145	O
+18	be	be	AUX	VB	VerbForm=Inf	17	_	_	start_char=146|end_char=148	O
+19	pushed	push	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	18	_	_	start_char=149|end_char=155	O
+20	in	in	ADP	IN	_	19	_	_	start_char=156|end_char=158	O
+21	any	any	DET	DT	_	20	_	_	start_char=159|end_char=162	O
+22	direction	direction	NOUN	NN	Number=Sing	21	_	_	start_char=163|end_char=172	O
+23	except	except	ADP	IN	_	22	_	_	start_char=173|end_char=179	O
+24	consistency	consistency	NOUN	NN	Number=Sing	23	_	_	start_char=180|end_char=191	O
+25	.	.	PUNCT	.	_	24	_	_	start_char=191|end_char=192	O
+
+</doc>
+
+<doc id="809d51fa-121b-43a2-896e-7e46afd63ef8_s0" package_name="com.bigheadtechies.diary" app_name="Daybook - Diary, Journal, Note" app_category="['Task Manager']" google_play_category="['LIFESTYLE']">
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=0|end_char=4	O
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=5|end_char=7	O
+3	what	what	PRON	WP	PronType=Int	2	_	_	start_char=8|end_char=12	O
+4	Ive	ive	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	_	_	start_char=13|end_char=16	O
+5	been	be	AUX	VBN	Tense=Past|VerbForm=Part	4	_	_	start_char=17|end_char=21	O
+6	looking	look	VERB	VBG	Tense=Pres|VerbForm=Part	5	_	_	start_char=22|end_char=29	O
+7	for	for	ADP	IN	_	6	_	_	start_char=30|end_char=33	O
+8	as	as	ADP	IN	_	7	_	_	start_char=34|end_char=36	O
+9	replacement	replacement	NOUN	NN	Number=Sing	8	_	_	start_char=37|end_char=48	O
+10	for	for	ADP	IN	_	9	_	_	start_char=49|end_char=52	O
+11	a	a	DET	DT	Definite=Ind|PronType=Art	10	_	_	start_char=53|end_char=54	O
+12	diary	diary	NOUN	NN	Number=Sing	11	_	_	start_char=55|end_char=60	O
+13	/	/	SYM	,	_	12	_	_	start_char=60|end_char=61	O
+14	planner	planner	NOUN	NN	Number=Sing	13	_	_	start_char=61|end_char=68	B-feature
+
+</doc>
+
+<doc id="42f12f15-ac7d-4d01-93e3-22322e318e67_s1" package_name="com.google.android.apps.chromecast.app" app_name="Google Home" app_category="['GPS/Maps']" google_play_category="['LIFESTYLE']">
+
+1	Anti-consumer	anti-consumer	ADJ	JJ	Degree=Pos	0	_	_	start_char=14|end_char=27	O
+2	practices	practice	NOUN	NNS	Number=Plur	1	_	_	start_char=28|end_char=37	O
+3	like	like	SCONJ	IN	_	2	_	_	start_char=38|end_char=42	O
+4	removing	remove	VERB	VBG	VerbForm=Ger	3	_	_	start_char=43|end_char=51	O
+5	IFTTT	ifttt	NOUN	NN	Number=Sing	4	_	_	start_char=52|end_char=57	B-feature
+6	integration	integration	NOUN	NN	Number=Sing	5	_	_	start_char=58|end_char=69	I-feature
+7	,	,	PUNCT	,	_	6	_	_	start_char=69|end_char=70	O
+8	no	no	DET	DT	_	7	_	_	start_char=71|end_char=73	O
+9	actual	actual	ADJ	JJ	Degree=Pos	8	_	_	start_char=74|end_char=80	O
+10	support	support	NOUN	NN	Number=Sing	9	_	_	start_char=81|end_char=88	O
+11	except	except	ADP	IN	_	10	_	_	start_char=89|end_char=95	O
+12	forums	forum	NOUN	NNS	Number=Plur	11	_	_	start_char=96|end_char=102	O
+13	with	with	ADP	IN	_	12	_	_	start_char=103|end_char=107	O
+14	other	other	ADJ	JJ	Degree=Pos	13	_	_	start_char=108|end_char=113	O
+15	people	people	NOUN	NNS	Number=Plur	14	_	_	start_char=114|end_char=120	O
+16	upset	upset	ADJ	JJ	Degree=Pos	15	_	_	start_char=121|end_char=126	O
+17	with	with	ADP	IN	_	16	_	_	start_char=127|end_char=131	O
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=132|end_char=135	O
+19	same	same	ADJ	JJ	Degree=Pos	18	_	_	start_char=136|end_char=140	O
+20	issues	issue	NOUN	NNS	Number=Plur	19	_	_	start_char=141|end_char=147	O
+21	etc	etc	NOUN	FW	Abbr=Yes|Number=Sing	20	_	_	start_char=148|end_char=151	O
+22	.	.	PUNCT	.	_	21	_	_	start_char=151|end_char=152	O
+
+</doc>
+

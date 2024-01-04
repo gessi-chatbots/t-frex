@@ -1,0 +1,857 @@
+<doc id="76d09e77-c0f4-4e9f-82c0-29a6c928076b_s0" package_name="com.whatsapp.wallpaper" app_name="WhatsApp Wallpaper" app_category="['Instant Messaging']" google_play_category="['PERSONALIZATION']">
+
+1	WhatsApp	WhatsApp	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=8	O
+2	should	should	AUX	MD	VerbForm=Fin	1	_	_	start_char=9|end_char=15	O
+3	need	need	VERB	VB	VerbForm=Inf	2	_	_	start_char=16|end_char=20	O
+4	to	to	PART	TO	_	3	_	_	start_char=21|end_char=23	O
+5	make	make	VERB	VB	VerbForm=Inf	4	_	_	start_char=24|end_char=28	O
+6	personal	personal	ADJ	JJ	Degree=Pos	5	_	_	start_char=29|end_char=37	O
+7	stickers	sticker	NOUN	NNS	Number=Plur	6	_	_	start_char=38|end_char=46	B-feature
+8	adding	add	VERB	VBG	VerbForm=Ger	7	_	_	start_char=47|end_char=53	O
+9	option	option	NOUN	NN	Number=Sing	8	_	_	start_char=54|end_char=60	O
+10	in	in	ADP	IN	_	9	_	_	start_char=61|end_char=63	O
+11	WhatsApp	WhatsApp	PROPN	NNP	Number=Sing	10	_	_	start_char=64|end_char=72	O
+12	aap	aap	NOUN	NN	Number=Sing	11	_	_	start_char=73|end_char=76	O
+13	.	.	PUNCT	.	_	12	_	_	start_char=76|end_char=77	O
+
+</doc>
+
+<doc id="f0eea5a2-86bd-4ef4-b6a6-671ea41c98fc_s0" package_name="com.whatsapp.wallpaper" app_name="WhatsApp Wallpaper" app_category="['Instant Messaging']" google_play_category="['PERSONALIZATION']">
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=0|end_char=1	O
+2	want	want	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2|end_char=6	O
+3	any	any	DET	DT	_	2	_	_	start_char=7|end_char=10	O
+4	indresting	indresting	ADJ	JJ	Degree=Pos	3	_	_	start_char=11|end_char=21	O
+5	stickers	sticker	NOUN	NNS	Number=Plur	4	_	_	start_char=22|end_char=30	B-feature
+
+</doc>
+
+<doc id="96fa807e-a43e-4caf-855a-c73b3f829721_s0" package_name="com.whatsapp.wallpaper" app_name="WhatsApp Wallpaper" app_category="['Instant Messaging']" google_play_category="['PERSONALIZATION']">
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=0|end_char=1	O
+2	would	would	AUX	MD	VerbForm=Fin	1	_	_	start_char=2|end_char=7	O
+3	have	have	AUX	VB	VerbForm=Inf	2	_	_	start_char=8|end_char=12	O
+4	given	give	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=13|end_char=18	O
+5	no	no	DET	DT	_	4	_	_	start_char=19|end_char=21	O
+6	star	star	NOUN	NN	Number=Sing	5	_	_	start_char=22|end_char=26	O
+7	...	...	PUNCT	,	_	6	_	_	start_char=26|end_char=29	O
+8	but	but	CCONJ	CC	_	7	_	_	start_char=29|end_char=32	O
+9	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	_	_	start_char=33|end_char=34	O
+10	have	have	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	_	_	start_char=35|end_char=39	O
+11	to	to	PART	TO	_	10	_	_	start_char=40|end_char=42	O
+12	give	give	VERB	VB	VerbForm=Inf	11	_	_	start_char=43|end_char=47	O
+13	two	two	NUM	CD	NumForm=Word|NumType=Card	12	_	_	start_char=48|end_char=51	O
+14	because	because	ADP	IN	_	13	_	_	start_char=52|end_char=59	O
+15	of	of	ADP	IN	_	14	_	_	start_char=60|end_char=62	O
+16	ur	you	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	15	_	_	start_char=63|end_char=65	O
+17	good	good	ADJ	JJ	Degree=Pos	16	_	_	start_char=66|end_char=70	O
+18	wallpapers	wallpaper	NOUN	NNS	Number=Plur	17	_	_	start_char=71|end_char=81	O
+19	but	but	CCONJ	CC	_	18	_	_	start_char=82|end_char=85	O
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=86|end_char=89	O
+21	problem	problem	NOUN	NN	Number=Sing	20	_	_	start_char=90|end_char=97	O
+22	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	_	_	start_char=98|end_char=100	O
+23	there	there	PRON	EX	_	22	_	_	start_char=101|end_char=106	O
+24	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	_	_	start_char=107|end_char=109	O
+25	a	a	DET	DT	Definite=Ind|PronType=Art	24	_	_	start_char=110|end_char=111	O
+26	notification	notification	NOUN	NN	Number=Sing	25	_	_	start_char=112|end_char=124	B-feature
+27	coming	come	VERB	VBG	VerbForm=Ger	26	_	_	start_char=125|end_char=131	O
+28	"	"	PUNCT	``	_	27	_	_	start_char=131|end_char=132	O
+29	can't	can't	NOUN	NN	Number=Sing	28	_	_	start_char=133|end_char=138	O
+30	load	load	NOUN	NN	Number=Sing	29	_	_	start_char=139|end_char=143	O
+31	pls	pls	NOUN	NNS	Number=Plur	30	_	_	start_char=144|end_char=147	O
+32	retry	retry	VERB	VB	VerbForm=Inf	31	_	_	start_char=148|end_char=153	O
+33	"	"	PUNCT	''	_	32	_	_	start_char=153|end_char=154	O
+34	every	every	DET	DT	_	33	_	_	start_char=155|end_char=160	O
+35	time	time	NOUN	NN	Number=Sing	34	_	_	start_char=161|end_char=165	O
+
+</doc>
+
+<doc id="4b71ea68-c34d-4c46-b3cc-df64876085c7_s0" package_name="com.whatsapp.wallpaper" app_name="WhatsApp Wallpaper" app_category="['Instant Messaging']" google_play_category="['PERSONALIZATION']">
+
+1	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=0|end_char=2	O
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=3|end_char=5	O
+3	soooooo	soo	ADV	RB	_	2	_	_	start_char=6|end_char=13	O
+4	bad	bad	ADJ	JJ	Degree=Pos	3	_	_	start_char=14|end_char=17	O
+5	when	when	ADV	WRB	PronType=Int	4	_	_	start_char=18|end_char=22	O
+6	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	_	_	start_char=23|end_char=24	O
+7	choose	choose	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	_	_	start_char=25|end_char=31	O
+8	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	_	_	start_char=32|end_char=34	O
+9	wallpaper	wallpaper	NOUN	NN	Number=Sing	8	_	_	start_char=35|end_char=44	O
+10	there	there	PRON	EX	_	9	_	_	start_char=45|end_char=50	O
+11	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=51|end_char=53	O
+12	an	a	DET	DT	Definite=Ind|PronType=Art	11	_	_	start_char=54|end_char=56	O
+13	notification	notification	NOUN	NN	Number=Sing	12	_	_	start_char=57|end_char=69	B-feature
+14	on	on	ADP	IN	_	13	_	_	start_char=70|end_char=72	O
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=73|end_char=76	O
+16	screen	screen	NOUN	NN	Number=Sing	15	_	_	start_char=77|end_char=83	O
+17	cant	cant	NOUN	NN	Number=Sing	16	_	_	start_char=84|end_char=88	O
+18	load	load	NOUN	NN	Number=Sing	17	_	_	start_char=89|end_char=93	O
+19	please	please	INTJ	UH	_	18	_	_	start_char=94|end_char=100	O
+20	try	try	VERB	VB	Mood=Imp|VerbForm=Fin	19	_	_	start_char=101|end_char=104	O
+21	again	again	ADV	RB	_	20	_	_	start_char=105|end_char=110	O
+22	and	and	CCONJ	CC	_	21	_	_	start_char=111|end_char=114	O
+23	then	then	ADV	RB	PronType=Dem	22	_	_	start_char=115|end_char=119	O
+24	when	when	ADV	WRB	PronType=Int	23	_	_	start_char=120|end_char=124	O
+25	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	24	_	_	start_char=125|end_char=126	O
+26	try	try	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	25	_	_	start_char=127|end_char=130	O
+27	again	again	ADV	RB	_	26	_	_	start_char=131|end_char=136	O
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=137|end_char=140	O
+29	same	same	ADJ	JJ	Degree=Pos	28	_	_	start_char=141|end_char=145	O
+30	notification	notification	NOUN	NN	Number=Sing	29	_	_	start_char=146|end_char=158	B-feature
+31	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	30	_	_	start_char=159|end_char=162	O
+32	there	there	ADV	RB	PronType=Dem	31	_	_	start_char=163|end_char=168	O
+33	and	and	CCONJ	CC	_	32	_	_	start_char=169|end_char=172	O
+34	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	33	_	_	start_char=173|end_char=175	O
+35	preahious	preahious	ADJ	JJ	Degree=Pos	34	_	_	start_char=176|end_char=185	O
+36	wallpaper	wallpaper	NOUN	NN	Number=Sing	35	_	_	start_char=186|end_char=195	O
+37	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	36	_	_	start_char=196|end_char=199	O
+38	also	also	ADV	RB	_	37	_	_	start_char=200|end_char=204	O
+39	gone	gone	ADJ	JJ	Degree=Pos	38	_	_	start_char=205|end_char=209	O
+40	and	and	CCONJ	CC	_	39	_	_	start_char=210|end_char=213	O
+41	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	40	_	_	start_char=214|end_char=215	O
+42	hate	hate	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	41	_	_	start_char=216|end_char=220	O
+43	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	42	_	_	start_char=221|end_char=223	O
+44	so	so	ADV	RB	_	43	_	_	start_char=224|end_char=226	O
+45	please	please	INTJ	UH	_	44	_	_	start_char=227|end_char=233	O
+46	fix	fix	VERB	VB	Mood=Imp|VerbForm=Fin	45	_	_	start_char=234|end_char=237	O
+47	this	this	DET	DT	Number=Sing|PronType=Dem	46	_	_	start_char=238|end_char=242	O
+48	problem	problem	NOUN	NN	Number=Sing	47	_	_	start_char=243|end_char=250	O
+
+</doc>
+
+<doc id="bc71a7c0-3b55-445b-8a92-bf66dd16dbd2_s0" package_name="com.whatsapp.wallpaper" app_name="WhatsApp Wallpaper" app_category="['Instant Messaging']" google_play_category="['PERSONALIZATION']">
+
+1	Please	please	INTJ	UH	_	0	_	_	start_char=0|end_char=6	O
+2	add	add	VERB	VB	Mood=Imp|VerbForm=Fin	1	_	_	start_char=7|end_char=10	O
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=11|end_char=12	O
+4	lot	lot	NOUN	NN	Number=Sing	3	_	_	start_char=13|end_char=16	O
+5	of	of	ADP	IN	_	4	_	_	start_char=17|end_char=19	O
+6	sticker	sticker	NOUN	NN	Number=Sing	5	_	_	start_char=20|end_char=27	B-feature
+7	because	because	SCONJ	IN	_	6	_	_	start_char=28|end_char=35	O
+8	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	_	_	start_char=36|end_char=38	O
+9	have	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=39|end_char=43	O
+10	less	less	ADJ	JJR	Degree=Cmp	9	_	_	start_char=44|end_char=48	O
+11	sticker	sticker	NOUN	NN	Number=Sing	10	_	_	start_char=49|end_char=56	B-feature
+12	,	,	PUNCT	,	_	11	_	_	start_char=57|end_char=58	O
+13	im	im	INTJ	UH	_	12	_	_	start_char=59|end_char=61	O
+14	iranian	Aranian	PROPN	NNP	Number=Sing	13	_	_	start_char=62|end_char=69	O
+15	!	!	PUNCT	.	_	14	_	_	start_char=69|end_char=70	O
+
+</doc>
+
+<doc id="ea830662-9964-4d2c-844f-3cc778cac3e8_s2" package_name="com.whatsapp.wallpaper" app_name="WhatsApp Wallpaper" app_category="['Instant Messaging']" google_play_category="['PERSONALIZATION']">
+
+1	1	1	NUM	LS	_	0	_	_	start_char=78|end_char=79	O
+2	.	.	PUNCT	.	_	1	_	_	start_char=79|end_char=80	O
+3	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	_	_	start_char=81|end_char=83	O
+4	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=84|end_char=88	O
+5	n't	not	PART	RB	_	4	_	_	start_char=88|end_char=91	O
+6	let	let	VERB	VB	VerbForm=Inf	5	_	_	start_char=92|end_char=95	O
+7	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	_	_	start_char=96|end_char=99	O
+8	test	test	VERB	VB	VerbForm=Inf	7	_	_	start_char=100|end_char=104	O
+9	emojis	emojis	NOUN	NNS	Number=Plur	8	_	_	start_char=105|end_char=111	O
+10	or	or	CCONJ	CC	_	9	_	_	start_char=112|end_char=114	O
+11	stickers	sticker	NOUN	NNS	Number=Plur	10	_	_	start_char=115|end_char=123	B-feature
+12	,	,	PUNCT	,	_	11	_	_	start_char=123|end_char=124	O
+13	just	just	ADV	RB	_	12	_	_	start_char=125|end_char=129	O
+14	that	that	DET	DT	Number=Sing|PronType=Dem	13	_	_	start_char=130|end_char=134	O
+15	default	default	NOUN	NN	Number=Sing	14	_	_	start_char=135|end_char=142	O
+16	message	message	NOUN	NN	Number=Sing	15	_	_	start_char=143|end_char=150	B-feature
+17	;	;	PUNCT	,	_	16	_	_	start_char=150|end_char=151	O
+18	2	2	NUM	LS	_	17	_	_	start_char=152|end_char=153	O
+19	.	.	PUNCT	.	_	18	_	_	start_char=153|end_char=154	O
+20	There	there	PRON	EX	_	19	_	_	start_char=155|end_char=160	O
+21	are	be	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	_	_	start_char=161|end_char=164	O
+22	only	only	ADV	RB	_	21	_	_	start_char=165|end_char=169	O
+23	a	a	DET	DT	Definite=Ind|PronType=Art	22	_	_	start_char=170|end_char=171	O
+24	few	few	ADJ	JJ	Degree=Pos	23	_	_	start_char=172|end_char=175	O
+25	backgrounds	background	NOUN	NNS	Number=Plur	24	_	_	start_char=176|end_char=187	O
+26	,	,	PUNCT	,	_	25	_	_	start_char=187|end_char=188	O
+27	without	without	ADP	IN	_	26	_	_	start_char=189|end_char=196	O
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=197|end_char=200	O
+29	possibility	possibility	NOUN	NN	Number=Sing	28	_	_	start_char=201|end_char=212	O
+30	of	of	SCONJ	IN	_	29	_	_	start_char=213|end_char=215	O
+31	adding	add	VERB	VBG	VerbForm=Ger	30	_	_	start_char=216|end_char=222	O
+32	more	more	ADJ	JJR	Degree=Cmp	31	_	_	start_char=223|end_char=227	O
+33	,	,	PUNCT	,	_	32	_	_	start_char=227|end_char=228	O
+34	from	from	ADP	IN	_	33	_	_	start_char=229|end_char=233	O
+35	your	you	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	34	_	_	start_char=234|end_char=238	O
+36	gallery	gallery	NOUN	NN	Number=Sing	35	_	_	start_char=239|end_char=246	O
+37	;	;	PUNCT	,	_	36	_	_	start_char=246|end_char=247	O
+38	3	3	NUM	LS	_	37	_	_	start_char=248|end_char=249	O
+39	.	.	PUNCT	.	_	38	_	_	start_char=249|end_char=250	O
+40	There	there	PRON	EX	_	39	_	_	start_char=251|end_char=256	O
+41	are	be	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	40	_	_	start_char=257|end_char=260	O
+42	no	no	DET	DT	_	41	_	_	start_char=261|end_char=263	O
+43	settings	setting	NOUN	NNS	Number=Plur	42	_	_	start_char=264|end_char=272	O
+44	or	or	CCONJ	CC	_	43	_	_	start_char=273|end_char=275	O
+45	ways	way	NOUN	NNS	Number=Plur	44	_	_	start_char=276|end_char=280	O
+46	to	to	PART	TO	_	45	_	_	start_char=281|end_char=283	O
+47	adjust	adjust	VERB	VB	VerbForm=Inf	46	_	_	start_char=284|end_char=290	O
+48	those	that	DET	DT	Number=Plur|PronType=Dem	47	_	_	start_char=291|end_char=296	O
+49	backgrounds	background	NOUN	NNS	Number=Plur	48	_	_	start_char=297|end_char=308	O
+50	,	,	PUNCT	,	_	49	_	_	start_char=308|end_char=309	O
+51	like	like	ADP	IN	_	50	_	_	start_char=310|end_char=314	O
+52	lighting	lighting	NOUN	NN	Number=Sing	51	_	_	start_char=315|end_char=323	O
+53	or	or	CCONJ	CC	_	52	_	_	start_char=324|end_char=326	O
+54	quality	quality	NOUN	NN	Number=Sing	53	_	_	start_char=327|end_char=334	O
+55	.	.	PUNCT	.	_	54	_	_	start_char=334|end_char=335	O
+
+</doc>
+
+<doc id="8c31af6a-b000-4cf3-93cf-04c5ff232b8e_s0" package_name="com.tomer.alwayson" app_name="Always On AMOLED" app_category="['Notes']" google_play_category="['PERSONALIZATION']">
+
+1	Why	why	ADV	WRB	PronType=Int	0	_	_	start_char=0|end_char=3	O
+2	this	this	DET	DT	Number=Sing|PronType=Dem	1	_	_	start_char=4|end_char=8	O
+3	fsukin	fsukin	ADJ	JJ	Degree=Pos	2	_	_	start_char=9|end_char=15	O
+4	notification	notification	NOUN	NN	Number=Sing	3	_	_	start_char=16|end_char=28	B-feature
+
+</doc>
+
+<doc id="2c70720a-5add-421a-9915-789522ffe211_s0" package_name="com.tomer.alwayson" app_name="Always On AMOLED" app_category="['Notes']" google_play_category="['PERSONALIZATION']">
+
+1	Terrible	terrible	ADJ	JJ	Degree=Pos	0	_	_	start_char=0|end_char=8	O
+2	app	app	NOUN	NN	Number=Sing	1	_	_	start_char=9|end_char=12	O
+3	for	for	ADP	IN	_	2	_	_	start_char=13|end_char=16	O
+4	coloured	coloured	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=17|end_char=25	O
+5	notifications	notification	NOUN	NNS	Number=Plur	4	_	_	start_char=26|end_char=39	B-feature
+6	.	.	PUNCT	.	_	5	_	_	start_char=39|end_char=40	O
+
+</doc>
+
+<doc id="5c5e13d8-7b86-438a-a6e5-f233d383c5a5_s2" package_name="com.tomer.alwayson" app_name="Always On AMOLED" app_category="['Notes']" google_play_category="['PERSONALIZATION']">
+
+1	All	all	DET	DT	_	0	_	_	start_char=37|end_char=40	O
+2	had	have	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=41|end_char=44	O
+3	too	too	ADV	RB	_	2	_	_	start_char=45|end_char=48	O
+4	many	many	ADJ	JJ	Degree=Pos	3	_	_	start_char=49|end_char=53	O
+5	ads	ad	NOUN	NNS	Number=Plur	4	_	_	start_char=54|end_char=57	O
+6	,	,	PUNCT	,	_	5	_	_	start_char=57|end_char=58	O
+7	poor	poor	ADJ	JJ	Degree=Pos	6	_	_	start_char=59|end_char=63	O
+8	lighting	lighting	NOUN	NN	Number=Sing	7	_	_	start_char=64|end_char=72	O
+9	,	,	PUNCT	,	_	8	_	_	start_char=72|end_char=73	O
+10	or	or	CCONJ	CC	_	9	_	_	start_char=74|end_char=76	O
+11	lousy	lousy	ADJ	JJ	Degree=Pos	10	_	_	start_char=77|end_char=82	O
+12	notifications	notification	NOUN	NNS	Number=Plur	11	_	_	start_char=83|end_char=96	B-feature
+13	.	.	PUNCT	.	_	12	_	_	start_char=96|end_char=97	O
+
+</doc>
+
+<doc id="fd8aa135-cdf9-4b49-b702-22fe352f6115_s2" package_name="com.tomer.alwayson" app_name="Always On AMOLED" app_category="['Notes']" google_play_category="['PERSONALIZATION']">
+
+1	Does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	start_char=136|end_char=140	O
+2	n't	not	PART	RB	_	1	_	_	start_char=140|end_char=143	O
+3	show	show	VERB	VB	VerbForm=Inf	2	_	_	start_char=144|end_char=148	O
+4	notifications	notification	NOUN	NNS	Number=Plur	3	_	_	start_char=149|end_char=162	B-feature
+5	.	.	PUNCT	.	_	4	_	_	start_char=162|end_char=163	O
+
+</doc>
+
+<doc id="764d36f0-8c7b-44f7-9d80-36d3e2b54c9d_s0" package_name="com.tomer.alwayson" app_name="Always On AMOLED" app_category="['Notes']" google_play_category="['PERSONALIZATION']">
+
+1	If	if	SCONJ	IN	_	0	_	_	start_char=0|end_char=2	O
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	1	_	_	start_char=3|end_char=6	O
+3	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	_	_	start_char=6|end_char=9	O
+4	like	like	ADP	IN	_	3	_	_	start_char=10|end_char=14	O
+5	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	_	_	start_char=15|end_char=17	O
+6	and	and	CCONJ	CC	_	5	_	_	start_char=18|end_char=21	O
+7	can't	can't	PART	RB	_	6	_	_	start_char=22|end_char=27	O
+8	stand	stand	VERB	VB	VerbForm=Inf	7	_	_	start_char=28|end_char=33	O
+9	to	to	PART	TO	_	8	_	_	start_char=34|end_char=36	O
+10	have	have	VERB	VB	VerbForm=Inf	9	_	_	start_char=37|end_char=41	O
+11	a	a	DET	DT	Definite=Ind|PronType=Art	10	_	_	start_char=42|end_char=43	O
+12	blank	blank	ADJ	JJ	Degree=Pos	11	_	_	start_char=44|end_char=49	O
+13	screen	screen	NOUN	NN	Number=Sing	12	_	_	start_char=50|end_char=56	O
+14	when	when	ADV	WRB	PronType=Int	13	_	_	start_char=57|end_char=61	O
+15	your	you	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	14	_	_	start_char=62|end_char=66	O
+16	phone	phone	NOUN	NN	Number=Sing	15	_	_	start_char=67|end_char=72	O
+17	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=73|end_char=75	O
+18	off	off	ADV	RB	_	17	_	_	start_char=76|end_char=79	O
+19	and	and	CCONJ	CC	_	18	_	_	start_char=80|end_char=83	O
+20	want	want	VERB	VB	VerbForm=Fin	19	_	_	start_char=84|end_char=88	O
+21	consistent	consistent	ADJ	JJ	Degree=Pos	20	_	_	start_char=89|end_char=99	O
+22	access	access	NOUN	NN	Number=Sing	21	_	_	start_char=100|end_char=106	O
+23	to	to	ADP	IN	_	22	_	_	start_char=107|end_char=109	O
+24	your	you	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	23	_	_	start_char=110|end_char=114	O
+25	notifications	notification	NOUN	NNS	Number=Plur	24	_	_	start_char=115|end_char=128	B-feature
+26	,	,	PUNCT	,	_	25	_	_	start_char=128|end_char=129	O
+27	this	this	PRON	DT	Number=Sing|PronType=Dem	26	_	_	start_char=130|end_char=134	O
+28	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	_	_	start_char=135|end_char=137	O
+29	the	the	DET	DT	Definite=Def|PronType=Art	28	_	_	start_char=138|end_char=141	O
+30	app	app	NOUN	NN	Number=Sing	29	_	_	start_char=142|end_char=145	O
+31	for	for	ADP	IN	_	30	_	_	start_char=146|end_char=149	O
+32	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	31	_	_	start_char=150|end_char=153	O
+33	.	.	PUNCT	.	_	32	_	_	start_char=153|end_char=154	O
+
+</doc>
+
+<doc id="764d36f0-8c7b-44f7-9d80-36d3e2b54c9d_s2" package_name="com.tomer.alwayson" app_name="Always On AMOLED" app_category="['Notes']" google_play_category="['PERSONALIZATION']">
+
+1	If	if	SCONJ	IN	_	0	_	_	start_char=243|end_char=245	O
+2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	_	_	start_char=246|end_char=248	O
+3	were	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	_	_	start_char=249|end_char=253	O
+4	n't	not	PART	RB	_	3	_	_	start_char=253|end_char=256	O
+5	for	for	ADP	IN	_	4	_	_	start_char=257|end_char=260	O
+6	this	this	DET	DT	Number=Sing|PronType=Dem	5	_	_	start_char=261|end_char=265	O
+7	app	app	NOUN	NN	Number=Sing	6	_	_	start_char=266|end_char=269	O
+8	,	,	PUNCT	,	_	7	_	_	start_char=269|end_char=270	O
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	_	_	start_char=271|end_char=272	O
+10	'd	would	AUX	MD	VerbForm=Fin	9	_	_	start_char=272|end_char=274	O
+11	never	never	ADV	RB	_	10	_	_	start_char=275|end_char=280	O
+12	know	know	VERB	VB	VerbForm=Inf	11	_	_	start_char=281|end_char=285	O
+13	when	when	ADV	WRB	PronType=Int	12	_	_	start_char=286|end_char=290	O
+14	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	_	_	start_char=291|end_char=292	O
+15	have	have	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	_	_	start_char=293|end_char=297	O
+16	notifications	notification	NOUN	NNS	Number=Plur	15	_	_	start_char=298|end_char=311	B-feature
+17	unless	unless	SCONJ	IN	_	16	_	_	start_char=312|end_char=318	O
+18	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	_	_	start_char=319|end_char=320	O
+19	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	_	_	start_char=321|end_char=324	O
+20	next	next	ADV	RB	_	19	_	_	start_char=325|end_char=329	O
+21	to	to	ADP	IN	_	20	_	_	start_char=330|end_char=332	O
+22	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	_	_	start_char=333|end_char=335	O
+23	to	to	PART	TO	_	22	_	_	start_char=336|end_char=338	O
+24	hear	hear	VERB	VB	VerbForm=Inf	23	_	_	start_char=339|end_char=343	O
+25	every	every	DET	DT	_	24	_	_	start_char=344|end_char=349	O
+26	sound	sound	NOUN	NN	Number=Sing	25	_	_	start_char=350|end_char=355	O
+27	.	.	PUNCT	.	_	26	_	_	start_char=355|end_char=356	O
+
+</doc>
+
+<doc id="3cd26cec-4828-43f2-b1c1-0b03063c2788_s0" package_name="com.tomer.alwayson" app_name="Always On AMOLED" app_category="['Notes']" google_play_category="['PERSONALIZATION']">
+
+1	Working	work	VERB	VBG	VerbForm=Ger	0	_	_	start_char=0|end_char=7	O
+2	fine	fine	ADV	RB	_	1	_	_	start_char=8|end_char=12	O
+3	but	but	CCONJ	CC	_	2	_	_	start_char=13|end_char=16	O
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=17|end_char=20	O
+5	notification	notification	NOUN	NN	Number=Sing	4	_	_	start_char=21|end_char=33	B-feature
+6	icons	icon	NOUN	NNS	Number=Plur	5	_	_	start_char=34|end_char=39	O
+7	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=40|end_char=43	O
+8	not	not	PART	RB	_	7	_	_	start_char=44|end_char=47	O
+9	using	use	VERB	VBG	Tense=Pres|VerbForm=Part	8	_	_	start_char=48|end_char=53	O
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=54|end_char=57	O
+11	brightness	brightness	NOUN	NN	Number=Sing	10	_	_	start_char=58|end_char=68	O
+12	setting	setting	NOUN	NN	Number=Sing	11	_	_	start_char=69|end_char=76	O
+13	set	set	VERB	VBN	Tense=Past|VerbForm=Part	12	_	_	start_char=77|end_char=80	O
+14	for	for	ADP	IN	_	13	_	_	start_char=81|end_char=84	O
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=85|end_char=88	O
+16	clock	clock	NOUN	NN	Number=Sing	15	_	_	start_char=89|end_char=94	O
+17	,	,	PUNCT	,	_	16	_	_	start_char=94|end_char=95	O
+18	can	can	AUX	MD	VerbForm=Fin	17	_	_	start_char=96|end_char=99	O
+19	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	_	_	start_char=100|end_char=102	O
+20	be	be	AUX	VB	VerbForm=Inf	19	_	_	start_char=103|end_char=105	O
+21	fixed	fix	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	20	_	_	start_char=106|end_char=111	O
+22	?	?	PUNCT	.	_	21	_	_	start_char=111|end_char=112	O
+
+</doc>
+
+<doc id="74dccff1-565d-44d6-8df2-268c9fc6c9b7_s0" package_name="com.tomer.alwayson" app_name="Always On AMOLED" app_category="['Notes']" google_play_category="['PERSONALIZATION']">
+
+1	app	app	NOUN	NN	Number=Sing	0	_	_	start_char=0|end_char=3	O
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=4|end_char=6	O
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=7|end_char=8	O
+4	big	big	ADJ	JJ	Degree=Pos	3	_	_	start_char=9|end_char=12	O
+5	battery	battery	NOUN	NN	Number=Sing	4	_	_	start_char=13|end_char=20	O
+6	hog	hog	NOUN	NN	Number=Sing	5	_	_	start_char=21|end_char=24	O
+7	,	,	PUNCT	,	_	6	_	_	start_char=24|end_char=25	O
+8	Developer	developer	NOUN	NN	Number=Sing	7	_	_	start_char=26|end_char=35	O
+9	never	never	ADV	RB	_	8	_	_	start_char=36|end_char=41	O
+10	responds	respond	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=42|end_char=50	O
+11	to	to	ADP	IN	_	10	_	_	start_char=51|end_char=53	O
+12	any	any	DET	DT	_	11	_	_	start_char=54|end_char=57	O
+13	emails	email	NOUN	NNS	Number=Plur	12	_	_	start_char=58|end_char=64	O
+14	Notification	notification	NOUN	NN	Number=Sing	13	_	_	start_char=65|end_char=77	B-feature
+15	Wake	wake	NOUN	NN	Number=Sing	14	_	_	start_char=78|end_char=82	O
+16	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=83|end_char=86	O
+17	not	not	PART	RB	_	16	_	_	start_char=87|end_char=90	O
+18	work	work	VERB	VB	VerbForm=Inf	17	_	_	start_char=91|end_char=95	O
+19	on	on	ADP	IN	_	18	_	_	start_char=96|end_char=98	O
+20	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	19	_	_	start_char=99|end_char=101	O
+21	S21	s21	NOUN	NN	Number=Sing	20	_	_	start_char=102|end_char=105	O
+
+</doc>
+
+<doc id="4e913b7c-4f75-489c-ad79-51accbcffd82_s1" package_name="com.tomer.alwayson" app_name="Always On AMOLED" app_category="['Notes']" google_play_category="['PERSONALIZATION']">
+
+1	Simulation	simulation	NOUN	NN	Number=Sing	0	_	_	start_char=11|end_char=21	O
+2	of	of	ADP	IN	_	1	_	_	start_char=22|end_char=24	O
+3	Notifications	notification	NOUN	NNS	Number=Plur	2	_	_	start_char=25|end_char=38	B-feature
+4	LED	LED	NOUN	NN	Number=Sing	3	_	_	start_char=39|end_char=42	O
+5	&	&	CCONJ	CC	_	4	_	_	start_char=43|end_char=44	O
+6	shifting	shifting	NOUN	NN	Number=Sing	5	_	_	start_char=45|end_char=53	O
+7	of	of	ADP	IN	_	6	_	_	start_char=54|end_char=56	O
+8	AOD	aod	NOUN	NN	Number=Sing	7	_	_	start_char=57|end_char=60	O
+9	to	to	PART	TO	_	8	_	_	start_char=61|end_char=63	O
+10	Prevent	prevent	VERB	VB	VerbForm=Inf	9	_	_	start_char=64|end_char=71	O
+11	pixel	pixel	NOUN	NN	Number=Sing	10	_	_	start_char=72|end_char=77	O
+12	burn	burn	NOUN	NN	Number=Sing	11	_	_	start_char=78|end_char=82	O
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=83|end_char=85	O
+14	Great	great	ADJ	JJ	Degree=Pos	13	_	_	start_char=86|end_char=91	O
+15	&	&	CCONJ	CC	_	14	_	_	start_char=92|end_char=93	O
+16	make	make	VERB	VB	VerbForm=Inf	15	_	_	start_char=94|end_char=98	O
+17	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	_	_	start_char=99|end_char=101	O
+18	upto	upto	ADP	IN	_	17	_	_	start_char=102|end_char=106	O
+19	OEM	oem	NOUN	NN	Number=Sing	18	_	_	start_char=107|end_char=110	O
+20	standards	standard	NOUN	NNS	Number=Plur	19	_	_	start_char=111|end_char=120	O
+21	,	,	PUNCT	,	_	20	_	_	start_char=120|end_char=121	O
+22	Using	use	VERB	VBG	VerbForm=Ger	21	_	_	start_char=122|end_char=127	O
+23	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	22	_	_	start_char=128|end_char=130	O
+24	on	on	ADP	IN	_	23	_	_	start_char=131|end_char=133	O
+25	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	24	_	_	start_char=134|end_char=136	O
+26	new	new	ADJ	JJ	Degree=Pos	25	_	_	start_char=137|end_char=140	O
+27	OnePlus	OnePlus	PROPN	NNP	Number=Sing	26	_	_	start_char=141|end_char=148	O
+28	7	7	NUM	CD	NumForm=Digit|NumType=Card	27	_	_	start_char=149|end_char=150	O
+
+</doc>
+
+<doc id="661b727c-902f-4a08-beef-fe8226110982_s0" package_name="com.tomer.alwayson" app_name="Always On AMOLED" app_category="['Notes']" google_play_category="['PERSONALIZATION']">
+
+1	Good	good	ADJ	JJ	Degree=Pos	0	_	_	start_char=0|end_char=4	O
+2	for	for	ADP	IN	_	1	_	_	start_char=5|end_char=8	O
+3	phones	phone	NOUN	NNS	Number=Plur	2	_	_	start_char=9|end_char=15	O
+4	that	that	PRON	WDT	PronType=Rel	3	_	_	start_char=16|end_char=20	O
+5	do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=21|end_char=23	O
+6	n't	not	PART	RB	_	5	_	_	start_char=23|end_char=26	O
+7	have	have	VERB	VB	VerbForm=Inf	6	_	_	start_char=27|end_char=31	O
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=32|end_char=33	O
+9	notification	notification	NOUN	NN	Number=Sing	8	_	_	start_char=34|end_char=46	B-feature
+10	LED	LED	NOUN	NN	Number=Sing	9	_	_	start_char=47|end_char=50	O
+11	.	.	PUNCT	.	_	10	_	_	start_char=50|end_char=51	O
+
+</doc>
+
+<doc id="5e5d47f0-df59-4209-974b-d6fe49439e9f_s0" package_name="com.tomer.alwayson" app_name="Always On AMOLED" app_category="['Notes']" google_play_category="['PERSONALIZATION']">
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=0|end_char=3	O
+2	notification	notification	NOUN	NN	Number=Sing	1	_	_	start_char=4|end_char=16	B-feature
+3	icons	icon	NOUN	NNS	Number=Plur	2	_	_	start_char=17|end_char=22	O
+4	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=23|end_char=26	O
+5	getting	get	VERB	VBG	Tense=Pres|VerbForm=Part	4	_	_	start_char=27|end_char=34	O
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=35|end_char=38	O
+7	text	text	NOUN	NN	Number=Sing	6	_	_	start_char=39|end_char=43	O
+8	color	color	NOUN	NN	Number=Sing	7	_	_	start_char=44|end_char=49	O
+9	regardless	regardless	ADV	RB	_	8	_	_	start_char=50|end_char=60	O
+10	of	of	SCONJ	IN	_	9	_	_	start_char=61|end_char=63	O
+11	selecting	select	VERB	VBG	VerbForm=Ger	10	_	_	start_char=64|end_char=73	O
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=74|end_char=77	O
+13	app	app	NOUN	NN	Number=Sing	12	_	_	start_char=78|end_char=81	O
+14	color	color	NOUN	NN	Number=Sing	13	_	_	start_char=82|end_char=87	O
+15	option	option	NOUN	NN	Number=Sing	14	_	_	start_char=88|end_char=94	O
+16	in	in	ADP	IN	_	15	_	_	start_char=95|end_char=97	O
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=98|end_char=101	O
+18	settings	setting	NOUN	NNS	Number=Plur	17	_	_	start_char=102|end_char=110	O
+19	.	.	PUNCT	.	_	18	_	_	start_char=110|end_char=111	O
+
+</doc>
+
+<doc id="a264c20d-3934-4fc9-9cac-b3b3eb294b50_s0" package_name="com.tomer.alwayson" app_name="Always On AMOLED" app_category="['Notes']" google_play_category="['PERSONALIZATION']">
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=0|end_char=3	O
+2	AOD	aod	NOUN	NN	Number=Sing	1	_	_	start_char=4|end_char=7	O
+3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=8|end_char=11	O
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=12|end_char=15	O
+5	features	feature	NOUN	NNS	Number=Plur	4	_	_	start_char=16|end_char=24	O
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	_	_	start_char=25|end_char=26	O
+7	love	love	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	_	_	start_char=27|end_char=31	O
+8	,	,	PUNCT	,	_	7	_	_	start_char=31|end_char=32	O
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	_	_	start_char=33|end_char=34	O
+10	can	can	AUX	MD	VerbForm=Fin	9	_	_	start_char=35|end_char=38	O
+11	get	get	VERB	VB	VerbForm=Inf	10	_	_	start_char=39|end_char=42	O
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=43|end_char=46	O
+13	notification	notification	NOUN	NN	Number=Sing	12	_	_	start_char=47|end_char=59	B-feature
+14	display	display	NOUN	NN	Number=Sing	13	_	_	start_char=60|end_char=67	O
+15	without	without	ADP	IN	_	14	_	_	start_char=68|end_char=75	O
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=76|end_char=79	O
+17	clock	clock	NOUN	NN	Number=Sing	16	_	_	start_char=80|end_char=85	O
+18	.	.	PUNCT	.	_	17	_	_	start_char=85|end_char=86	O
+
+</doc>
+
+<doc id="1508ae2d-c48e-41f9-9728-ef7a12d55293_s0" package_name="com.tomer.alwayson" app_name="Always On AMOLED" app_category="['Notes']" google_play_category="['PERSONALIZATION']">
+
+1	Issues	issue	NOUN	NNS	Number=Plur	0	_	_	start_char=0|end_char=6	O
+2	with	with	ADP	IN	_	1	_	_	start_char=7|end_char=11	O
+3	notification	notification	NOUN	NN	Number=Sing	2	_	_	start_char=12|end_char=24	B-feature
+4	.	.	PUNCT	.	_	3	_	_	start_char=24|end_char=25	O
+
+</doc>
+
+<doc id="1508ae2d-c48e-41f9-9728-ef7a12d55293_s1" package_name="com.tomer.alwayson" app_name="Always On AMOLED" app_category="['Notes']" google_play_category="['PERSONALIZATION']">
+
+1	Tested	test	VERB	VBN	Tense=Past|VerbForm=Part	0	_	_	start_char=26|end_char=32	O
+2	with	with	ADP	IN	_	1	_	_	start_char=33|end_char=37	O
+3	whatsapp	whatsapp	NOUN	NN	Number=Sing	2	_	_	start_char=38|end_char=46	O
+4	notification	notification	NOUN	NN	Number=Sing	3	_	_	start_char=47|end_char=59	B-feature
+5	;	;	PUNCT	,	_	4	_	_	start_char=59|end_char=60	O
+6	but	but	CCONJ	CC	_	5	_	_	start_char=60|end_char=63	O
+7	its	its	PRON	PRP	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	_	_	start_char=64|end_char=67	O
+8	not	not	PART	RB	_	7	_	_	start_char=68|end_char=71	O
+9	visible	visible	ADJ	JJ	Degree=Pos	8	_	_	start_char=72|end_char=79	O
+10	on	on	ADP	IN	_	9	_	_	start_char=80|end_char=82	O
+11	always	always	ADV	RB	_	10	_	_	start_char=83|end_char=89	O
+12	on	on	ADP	IN	_	11	_	_	start_char=90|end_char=92	O
+13	screen	screen	NOUN	NN	Number=Sing	12	_	_	start_char=93|end_char=99	O
+14	.	.	PUNCT	.	_	13	_	_	start_char=99|end_char=100	O
+
+</doc>
+
+<doc id="3cecb840-6ea6-4cae-9ee2-a63edfbf267c_s3" package_name="com.tomer.alwayson" app_name="Always On AMOLED" app_category="['Notes']" google_play_category="['PERSONALIZATION']">
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=180|end_char=181	O
+2	would	would	AUX	MD	VerbForm=Fin	1	_	_	start_char=182|end_char=187	O
+3	also	also	ADV	RB	_	2	_	_	start_char=188|end_char=192	O
+4	like	like	VERB	VB	VerbForm=Inf	3	_	_	start_char=193|end_char=197	O
+5	to	to	PART	TO	_	4	_	_	start_char=198|end_char=200	O
+6	see	see	VERB	VB	VerbForm=Inf	5	_	_	start_char=201|end_char=204	O
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=205|end_char=208	O
+8	notification	notification	NOUN	NN	Number=Sing	7	_	_	start_char=209|end_char=221	B-feature
+9	icons	icon	NOUN	NNS	Number=Plur	8	_	_	start_char=222|end_char=227	O
+10	appear	appear	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=228|end_char=234	O
+11	in	in	ADP	IN	_	10	_	_	start_char=235|end_char=237	O
+12	their	they	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	_	_	start_char=238|end_char=243	O
+13	original	original	ADJ	JJ	Degree=Pos	12	_	_	start_char=244|end_char=252	O
+14	colors	color	NOUN	NNS	Number=Plur	13	_	_	start_char=253|end_char=259	O
+15	.	.	PUNCT	.	_	14	_	_	start_char=259|end_char=260	O
+
+</doc>
+
+<doc id="50246769-b0f5-4edb-a11d-639f63ee819f_s0" package_name="com.tomer.alwayson" app_name="Always On AMOLED" app_category="['Notes']" google_play_category="['PERSONALIZATION']">
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=0|end_char=1	O
+2	love	love	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2|end_char=6	O
+3	this	this	DET	DT	Number=Sing|PronType=Dem	2	_	_	start_char=7|end_char=11	O
+4	app	app	NOUN	NN	Number=Sing	3	_	_	start_char=12|end_char=15	O
+5	and	and	CCONJ	CC	_	4	_	_	start_char=16|end_char=19	O
+6	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	_	_	start_char=20|end_char=21	O
+7	want	want	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	_	_	start_char=22|end_char=26	O
+8	to	to	PART	TO	_	7	_	_	start_char=27|end_char=29	O
+9	give	give	VERB	VB	VerbForm=Inf	8	_	_	start_char=30|end_char=34	O
+10	5	5	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=35|end_char=36	O
+11	star	star	NOUN	NN	Number=Sing	10	_	_	start_char=37|end_char=41	O
+12	but	but	CCONJ	CC	_	11	_	_	start_char=42|end_char=45	O
+13	only	only	ADV	RB	_	12	_	_	start_char=46|end_char=50	O
+14	one	one	NUM	CD	NumForm=Word|NumType=Card	13	_	_	start_char=51|end_char=54	O
+15	problem	problem	NOUN	NN	Number=Sing	14	_	_	start_char=55|end_char=62	O
+16	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	_	_	start_char=63|end_char=65	O
+17	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=66|end_char=70	O
+18	n't	not	PART	RB	_	17	_	_	start_char=70|end_char=73	O
+19	show	show	VERB	VB	VerbForm=Inf	18	_	_	start_char=74|end_char=78	O
+20	notification	notification	NOUN	NN	Number=Sing	19	_	_	start_char=79|end_char=91	B-feature
+21	icon	icon	NOUN	NN	Number=Sing	20	_	_	start_char=92|end_char=96	O
+22	as	as	SCONJ	IN	_	21	_	_	start_char=97|end_char=99	O
+23	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	22	_	_	start_char=100|end_char=101	O
+24	already	already	ADV	RB	_	23	_	_	start_char=102|end_char=109	O
+25	turned	turn	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	24	_	_	start_char=110|end_char=116	O
+26	on	on	ADP	IN	_	25	_	_	start_char=117|end_char=119	O
+27	notification	notification	NOUN	NN	Number=Sing	26	_	_	start_char=120|end_char=132	B-feature
+28	for	for	ADP	IN	_	27	_	_	start_char=133|end_char=136	O
+29	other	other	ADJ	JJ	Degree=Pos	28	_	_	start_char=137|end_char=142	O
+30	apps	app	NOUN	NNS	Number=Plur	29	_	_	start_char=143|end_char=147	O
+31	but	but	CCONJ	CC	_	30	_	_	start_char=148|end_char=151	O
+32	no	no	DET	DT	_	31	_	_	start_char=152|end_char=154	O
+33	and	and	CCONJ	CC	_	32	_	_	start_char=155|end_char=158	O
+34	edge	edge	NOUN	NN	Number=Sing	33	_	_	start_char=159|end_char=163	O
+35	glow	glow	NOUN	NN	Number=Sing	34	_	_	start_char=164|end_char=168	O
+36	effect	effect	NOUN	NN	Number=Sing	35	_	_	start_char=169|end_char=175	O
+37	also	also	ADV	RB	_	36	_	_	start_char=176|end_char=180	O
+38	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	37	_	_	start_char=181|end_char=185	O
+39	n't	not	PART	RB	_	38	_	_	start_char=185|end_char=188	O
+40	work	work	VERB	VB	VerbForm=Inf	39	_	_	start_char=189|end_char=193	O
+41	or	or	CCONJ	CC	_	40	_	_	start_char=194|end_char=196	O
+42	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	41	_	_	start_char=197|end_char=199	O
+43	Infinix	Infinix	PROPN	NNP	Number=Sing	42	_	_	start_char=200|end_char=207	O
+44	mobile	mobile	NOUN	NN	Number=Sing	43	_	_	start_char=208|end_char=214	O
+
+</doc>
+
+<doc id="c9bcf18f-e107-4ff9-8f25-1c96e9200df3_s1" package_name="com.tomer.alwayson" app_name="Always On AMOLED" app_category="['Notes']" google_play_category="['PERSONALIZATION']">
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=103|end_char=104	O
+2	only	only	ADV	RB	_	1	_	_	start_char=105|end_char=109	O
+3	want	want	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=110|end_char=114	O
+4	to	to	PART	TO	_	3	_	_	start_char=115|end_char=117	O
+5	make	make	VERB	VB	VerbForm=Inf	4	_	_	start_char=118|end_char=122	O
+6	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	_	_	start_char=123|end_char=125	O
+7	phone	phone	NOUN	NN	Number=Sing	6	_	_	start_char=126|end_char=131	O
+8	show	show	NOUN	NN	Number=Sing	7	_	_	start_char=132|end_char=136	O
+9	time	time	NOUN	NN	Number=Sing	8	_	_	start_char=137|end_char=141	O
+10	when	when	ADV	WRB	PronType=Int	9	_	_	start_char=142|end_char=146	O
+11	notification	notification	NOUN	NN	Number=Sing	10	_	_	start_char=147|end_char=159	B-feature
+12	arrives	arrive	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=160|end_char=167	O
+13	or	or	CCONJ	CC	_	12	_	_	start_char=168|end_char=170	O
+14	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	_	_	start_char=171|end_char=172	O
+15	tap	tap	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	_	_	start_char=173|end_char=176	O
+16	/	/	SYM	,	_	15	_	_	start_char=176|end_char=177	O
+17	double	double	ADJ	JJ	Degree=Pos	16	_	_	start_char=177|end_char=183	O
+18	tap	tap	NOUN	NN	Number=Sing	17	_	_	start_char=184|end_char=187	O
+19	on	on	ADP	IN	_	18	_	_	start_char=188|end_char=190	O
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=191|end_char=194	O
+21	screen	screen	NOUN	NN	Number=Sing	20	_	_	start_char=195|end_char=201	O
+22	.....	.....	PUNCT	.	_	21	_	_	start_char=201|end_char=206	O
+
+</doc>
+
+<doc id="e866f1c8-2af5-4bd7-8d80-962f03b824e9_s0" package_name="com.top.anime.stickers" app_name="Anime Stickers for Whatsapp" app_category="['Instant Messaging']" google_play_category="['PERSONALIZATION']">
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=0|end_char=3	O
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=4|end_char=7	O
+3	stickers	sticker	NOUN	NNS	Number=Plur	2	_	_	start_char=8|end_char=16	B-feature
+4	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=17|end_char=20	O
+5	so	so	ADV	RB	_	4	_	_	start_char=21|end_char=23	O
+6	funny	funny	ADJ	JJ	Degree=Pos	5	_	_	start_char=24|end_char=29	O
+7	and	and	CCONJ	CC	_	6	_	_	start_char=30|end_char=33	O
+8	cool	cool	ADJ	JJ	Degree=Pos	7	_	_	start_char=34|end_char=38	O
+
+</doc>
+
+<doc id="ae767ddf-9bf4-424a-a18c-b06a41298d2b_s0" package_name="com.top.anime.stickers" app_name="Anime Stickers for Whatsapp" app_category="['Instant Messaging']" google_play_category="['PERSONALIZATION']">
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=0|end_char=1	O
+2	downloaded	download	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	1	_	_	start_char=2|end_char=12	O
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=13|end_char=14	O
+4	some	some	DET	DT	_	3	_	_	start_char=15|end_char=19	O
+5	stickers	sticker	NOUN	NNS	Number=Plur	4	_	_	start_char=20|end_char=28	B-feature
+6	and	and	CCONJ	CC	_	5	_	_	start_char=29|end_char=32	O
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	_	_	start_char=33|end_char=34	O
+8	wanted	want	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	7	_	_	start_char=35|end_char=41	O
+9	to	to	PART	TO	_	8	_	_	start_char=42|end_char=44	O
+10	show	show	VERB	VB	VerbForm=Inf	9	_	_	start_char=45|end_char=49	O
+11	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	10	_	_	start_char=50|end_char=52	O
+12	friend	friend	NOUN	NN	Number=Sing	11	_	_	start_char=53|end_char=59	O
+13	on	on	ADP	IN	_	12	_	_	start_char=60|end_char=62	O
+14	WhatsApp	WhatsApp	PROPN	NNP	Number=Sing	13	_	_	start_char=63|end_char=71	O
+15	but	but	CCONJ	CC	_	14	_	_	start_char=72|end_char=75	O
+16	there	there	PRON	EX	_	15	_	_	start_char=76|end_char=81	O
+17	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	_	_	start_char=82|end_char=85	O
+18	n't	not	PART	RB	_	17	_	_	start_char=85|end_char=88	O
+19	any	any	DET	DT	_	18	_	_	start_char=89|end_char=92	O
+20	please	please	INTJ	UH	_	19	_	_	start_char=93|end_char=99	O
+21	fix	fix	VERB	VB	VerbForm=Inf	20	_	_	start_char=100|end_char=103	O
+22	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	_	_	start_char=104|end_char=106	O
+
+</doc>
+
+<doc id="dee99ec1-4f2a-419e-8129-ed5c1e20cf65_s0" package_name="com.top.anime.stickers" app_name="Anime Stickers for Whatsapp" app_category="['Instant Messaging']" google_play_category="['PERSONALIZATION']">
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=0|end_char=2	O
+2	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=3|end_char=6	O
+3	stickers	sticker	NOUN	NNS	Number=Plur	2	_	_	start_char=7|end_char=15	B-feature
+4	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	_	_	start_char=16|end_char=17	O
+5	guess	guess	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	_	_	start_char=18|end_char=23	O
+
+</doc>
+
+<doc id="e034a48b-fc69-4c6c-a614-dc85588d227c_s0" package_name="com.top.anime.stickers" app_name="Anime Stickers for Whatsapp" app_category="['Instant Messaging']" google_play_category="['PERSONALIZATION']">
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=0|end_char=1	O
+2	like	like	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2|end_char=6	O
+3	this	this	DET	DT	Number=Sing|PronType=Dem	2	_	_	start_char=7|end_char=11	O
+4	stickers	sticker	NOUN	NNS	Number=Plur	3	_	_	start_char=12|end_char=20	B-feature
+5	!	!	PUNCT	.	_	4	_	_	start_char=20|end_char=21	O
+
+</doc>
+
+<doc id="d70997cd-b944-4e6c-a359-72ccd8984789_s0" package_name="com.top.anime.stickers" app_name="Anime Stickers for Whatsapp" app_category="['Instant Messaging']" google_play_category="['PERSONALIZATION']">
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=0|end_char=1	O
+2	really	really	ADV	RB	_	1	_	_	start_char=2|end_char=8	O
+3	love	love	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=9|end_char=13	O
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=14|end_char=17	O
+5	app	app	NOUN	NN	Number=Sing	4	_	_	start_char=18|end_char=21	O
+6	stickers	sticker	NOUN	NNS	Number=Plur	5	_	_	start_char=22|end_char=30	B-feature
+7	and	and	CCONJ	CC	_	6	_	_	start_char=31|end_char=34	O
+8	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	_	_	start_char=35|end_char=38	O
+9	funny	funny	ADJ	JJ	Degree=Pos	8	_	_	start_char=39|end_char=44	O
+10	too	too	ADV	RB	_	9	_	_	start_char=45|end_char=48	O
+
+</doc>
+
+<doc id="3623ff38-f658-4625-9bd6-88d2f79905a4_s0" package_name="com.top.anime.stickers" app_name="Anime Stickers for Whatsapp" app_category="['Instant Messaging']" google_play_category="['PERSONALIZATION']">
+
+1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=0|end_char=4	O
+2	app	app	NOUN	NN	Number=Sing	1	_	_	start_char=5|end_char=8	O
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=9|end_char=11	O
+4	the	the	DET	DT	Definite=Def|PronType=Art	3	_	_	start_char=12|end_char=15	O
+5	best	good	ADJ	JJS	Degree=Sup	4	_	_	start_char=16|end_char=20	O
+6	for	for	ADP	IN	_	5	_	_	start_char=21|end_char=24	O
+7	whatsapp	whatsapp	PROPN	NNP	Number=Sing	6	_	_	start_char=25|end_char=33	O
+8	stickers	sticker	NOUN	NNS	Number=Plur	7	_	_	start_char=34|end_char=42	B-feature
+
+</doc>
+
+<doc id="5cd848a9-d93a-452b-b766-e4625ee5c7a0_s0" package_name="com.top.anime.stickers" app_name="Anime Stickers for Whatsapp" app_category="['Instant Messaging']" google_play_category="['PERSONALIZATION']">
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=0|end_char=1	O
+2	love	love	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2|end_char=6	O
+3	D	D	PROPN	NNP	Number=Sing	2	_	_	start_char=7|end_char=8	O
+4	stickers	sticker	NOUN	NNS	Number=Plur	3	_	_	start_char=9|end_char=17	B-feature
+5	buh	buh	INTJ	UH	_	4	_	_	start_char=18|end_char=21	O
+6	too	too	ADV	RB	_	5	_	_	start_char=22|end_char=25	O
+7	much	much	ADJ	JJ	Degree=Pos	6	_	_	start_char=26|end_char=30	O
+8	ad😅bummer	ad😅bummer	NOUN	NN	Number=Sing	7	_	_	start_char=31|end_char=40	O
+
+</doc>
+
+<doc id="0686418f-2a44-4629-9b7b-f81bc6d2a553_s0" package_name="com.top.anime.stickers" app_name="Anime Stickers for Whatsapp" app_category="['Instant Messaging']" google_play_category="['PERSONALIZATION']">
+
+1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=0|end_char=4	O
+2	app	app	NOUN	NN	Number=Sing	1	_	_	start_char=5|end_char=8	O
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=9|end_char=11	O
+4	amazing	amazing	ADJ	JJ	Degree=Pos	3	_	_	start_char=12|end_char=19	O
+5	and	and	CCONJ	CC	_	4	_	_	start_char=20|end_char=23	O
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	_	_	start_char=24|end_char=25	O
+7	can	can	AUX	MD	VerbForm=Fin	6	_	_	start_char=26|end_char=29	O
+8	find	find	VERB	VB	VerbForm=Inf	7	_	_	start_char=30|end_char=34	O
+9	any	any	DET	DT	_	8	_	_	start_char=35|end_char=38	O
+10	anime	anime	NOUN	NN	Number=Sing	9	_	_	start_char=39|end_char=44	O
+11	stickers	sticker	NOUN	NNS	Number=Plur	10	_	_	start_char=45|end_char=53	B-feature
+12	😍	😍	PUNCT	.	_	11	_	_	start_char=54|end_char=55	O
+
+</doc>
+
+<doc id="a0baeae6-4383-4d3f-b32e-d12251cbef43_s0" package_name="com.top.anime.stickers" app_name="Anime Stickers for Whatsapp" app_category="['Instant Messaging']" google_play_category="['PERSONALIZATION']">
+
+1	There	there	PRON	EX	_	0	_	_	start_char=0|end_char=5	O
+2	are	be	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=6|end_char=9	O
+3	so	so	ADV	RB	_	2	_	_	start_char=10|end_char=12	O
+4	many	many	ADJ	JJ	Degree=Pos	3	_	_	start_char=13|end_char=17	O
+5	good	good	ADJ	JJ	Degree=Pos	4	_	_	start_char=18|end_char=22	O
+6	stickers	sticker	NOUN	NNS	Number=Plur	5	_	_	start_char=23|end_char=31	B-feature
+7	omg	omg	INTJ	UH	_	6	_	_	start_char=32|end_char=35	O
+8	😭😭	😭😭	PUNCT	,	_	7	_	_	start_char=36|end_char=38	O
+9	Anyways	anyways	INTJ	UH	_	8	_	_	start_char=39|end_char=46	O
+10	u	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	_	_	start_char=47|end_char=48	O
+11	shud	sho	AUX	MD	VerbForm=Fin	10	_	_	start_char=49|end_char=53	O
+12	download	download	VERB	VB	VerbForm=Inf	11	_	_	start_char=54|end_char=62	O
+13	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	_	_	start_char=63|end_char=65	O
+14	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	_	_	start_char=66|end_char=69	O
+15	amazing	amazing	ADJ	JJ	Degree=Pos	14	_	_	start_char=70|end_char=77	O
+
+</doc>
+
+<doc id="d4b27cf9-844e-4e97-b952-d36b910d2306_s0" package_name="com.top.anime.stickers" app_name="Anime Stickers for Whatsapp" app_category="['Instant Messaging']" google_play_category="['PERSONALIZATION']">
+
+1	Stickers	sticker	NOUN	NNS	Number=Plur	0	_	_	start_char=0|end_char=8	B-feature
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=9|end_char=12	O
+3	good	good	ADJ	JJ	Degree=Pos	2	_	_	start_char=13|end_char=17	O
+4	but	but	CCONJ	CC	_	3	_	_	start_char=18|end_char=21	O
+5	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	_	_	start_char=22|end_char=26	O
+6	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=27|end_char=30	O
+7	unavailable	unavailable	ADJ	JJ	Degree=Pos	6	_	_	start_char=31|end_char=42	O
+8	after	after	ADP	IN	_	7	_	_	start_char=43|end_char=48	O
+9	2	2	NUM	CD	NumForm=Digit|NumType=Card	8	_	_	start_char=49|end_char=50	O
+10	days	day	NOUN	NNS	Number=Plur	9	_	_	start_char=50|end_char=54	O
+11	in	in	ADP	IN	_	10	_	_	start_char=55|end_char=57	O
+12	whatsapp	whatsapp	PROPN	NNP	Number=Sing	11	_	_	start_char=58|end_char=66	O
+13	.	.	PUNCT	.	_	12	_	_	start_char=66|end_char=67	O
+
+</doc>
+
+<doc id="7adf8f7c-40d3-482a-9118-d0ecfc97f1f4_s0" package_name="com.top.anime.stickers" app_name="Anime Stickers for Whatsapp" app_category="['Instant Messaging']" google_play_category="['PERSONALIZATION']">
+
+1	Ca	can	AUX	MD	VerbForm=Fin	0	_	_	start_char=0|end_char=2	O
+2	n't	not	PART	RB	_	1	_	_	start_char=2|end_char=5	O
+3	add	add	VERB	VB	Mood=Imp|VerbForm=Fin	2	_	_	start_char=6|end_char=9	O
+4	ONE	one	NUM	CD	NumForm=Word|NumType=Card	3	_	_	start_char=10|end_char=13	O
+5	PIECE	piece	NOUN	NN	Number=Sing	4	_	_	start_char=14|end_char=19	O
+6	sticker	sticker	NOUN	NN	Number=Sing	5	_	_	start_char=20|end_char=27	B-feature
+7	😶	😶	PUNCT	.	_	6	_	_	start_char=28|end_char=29	O
+
+</doc>
+
+<doc id="23e529be-7fae-40d1-979a-a9514235c67a_s1" package_name="com.top.anime.stickers" app_name="Anime Stickers for Whatsapp" app_category="['Instant Messaging']" google_play_category="['PERSONALIZATION']">
+
+1	Ca	can	AUX	MD	VerbForm=Fin	0	_	_	start_char=6|end_char=8	O
+2	n't	not	PART	RB	_	1	_	_	start_char=8|end_char=11	O
+3	even	even	ADV	RB	_	2	_	_	start_char=12|end_char=16	O
+4	download	download	VERB	VB	VerbForm=Inf	3	_	_	start_char=17|end_char=25	O
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=26|end_char=27	O
+6	sticker	sticker	NOUN	NN	Number=Sing	5	_	_	start_char=28|end_char=35	B-feature
+7	take	take	VERB	VB	Mood=Imp|VerbForm=Fin	6	_	_	start_char=36|end_char=40	O
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=41|end_char=42	O
+9	whole	whole	ADJ	JJ	Degree=Pos	8	_	_	start_char=43|end_char=48	O
+10	eternity	eternity	NOUN	NN	Number=Sing	9	_	_	start_char=49|end_char=57	O
+11	to	to	PART	TO	_	10	_	_	start_char=58|end_char=60	O
+12	"	"	PUNCT	``	_	11	_	_	start_char=61|end_char=62	O
+13	please	please	INTJ	UH	_	12	_	_	start_char=62|end_char=68	O
+14	wait	wait	VERB	VB	VerbForm=Inf	13	_	_	start_char=69|end_char=73	O
+15	"	"	PUNCT	''	_	14	_	_	start_char=73|end_char=74	O
+
+</doc>
+
+<doc id="a1f10a20-821e-4e46-8020-5e3a65177bb9_s1" package_name="com.rawleeks.manager" app_name="Manager Watch Face" app_category="['Sports Activity']" google_play_category="['PERSONALIZATION']">
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=47|end_char=48	O
+2	set	set	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=49|end_char=52	O
+3	checkbox	checkbox	NOUN	NN	Number=Sing	2	_	_	start_char=53|end_char=61	O
+4	custom	custom	NOUN	NN	Number=Sing	3	_	_	start_char=62|end_char=68	O
+5	,	,	PUNCT	,	_	4	_	_	start_char=68|end_char=69	O
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	_	_	start_char=70|end_char=71	O
+7	tap	tap	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	_	_	start_char=72|end_char=75	O
+8	custom	custom	ADJ	JJ	Degree=Pos	7	_	_	start_char=76|end_char=82	O
+9	location	location	NOUN	NN	Number=Sing	8	_	_	start_char=83|end_char=91	O
+10	,	,	PUNCT	,	_	9	_	_	start_char=91|end_char=92	O
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	_	_	start_char=93|end_char=94	O
+12	enter	enter	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	_	_	start_char=95|end_char=100	O
+13	London	London	PROPN	NNP	Number=Sing	12	_	_	start_char=101|end_char=107	O
+14	,	,	PUNCT	,	_	13	_	_	start_char=107|end_char=108	O
+15	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	_	_	start_char=109|end_char=110	O
+16	see	see	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	_	_	start_char=111|end_char=114	O
+17	London	London	PROPN	NNP	Number=Sing	16	_	_	start_char=115|end_char=121	O
+18	in	in	ADP	IN	_	17	_	_	start_char=122|end_char=124	O
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=125|end_char=128	O
+20	app's	app	NOUN	NN	Number=Sing	19	_	_	start_char=129|end_char=134	O
+21	custom	custom	ADJ	JJ	Degree=Pos	20	_	_	start_char=135|end_char=141	O
+22	dialig	dialig	NOUN	NN	Number=Sing	21	_	_	start_char=142|end_char=148	O
+23	box	box	NOUN	NN	Number=Sing	22	_	_	start_char=149|end_char=152	O
+24	,	,	PUNCT	,	_	23	_	_	start_char=152|end_char=153	O
+25	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	24	_	_	start_char=154|end_char=155	O
+26	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	25	_	_	start_char=156|end_char=158	O
+27	n't	not	PART	RB	_	26	_	_	start_char=158|end_char=161	O
+28	see	see	VERB	VB	VerbForm=Inf	27	_	_	start_char=162|end_char=165	O
+29	any	any	DET	DT	_	28	_	_	start_char=166|end_char=169	O
+30	other	other	ADJ	JJ	Degree=Pos	29	_	_	start_char=170|end_char=175	O
+31	controls	control	NOUN	NNS	Number=Plur	30	_	_	start_char=176|end_char=184	O
+32	to	to	PART	TO	_	31	_	_	start_char=185|end_char=187	O
+33	apply	apply	VERB	VB	VerbForm=Inf	32	_	_	start_char=188|end_char=193	O
+34	this	this	DET	DT	Number=Sing|PronType=Dem	33	_	_	start_char=194|end_char=198	O
+35	custom	custom	ADJ	JJ	Degree=Pos	34	_	_	start_char=199|end_char=205	O
+36	value	value	NOUN	NN	Number=Sing	35	_	_	start_char=206|end_char=211	O
+37	London	London	PROPN	NNP	Number=Sing	36	_	_	start_char=212|end_char=218	O
+38	,	,	PUNCT	,	_	37	_	_	start_char=218|end_char=219	O
+39	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	38	_	_	start_char=220|end_char=221	O
+40	tried	try	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	39	_	_	start_char=222|end_char=227	O
+41	to	to	PART	TO	_	40	_	_	start_char=228|end_char=230	O
+42	swipe	swipe	VERB	VB	VerbForm=Inf	41	_	_	start_char=231|end_char=236	O
+43	left	left	ADJ	JJ	Degree=Pos	42	_	_	start_char=237|end_char=241	O
+44	,	,	PUNCT	,	_	43	_	_	start_char=241|end_char=242	O
+45	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	44	_	_	start_char=243|end_char=244	O
+46	tried	try	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	45	_	_	start_char=245|end_char=250	O
+47	to	to	PART	TO	_	46	_	_	start_char=251|end_char=253	O
+48	press	press	VERB	VB	VerbForm=Inf	47	_	_	start_char=254|end_char=259	O
+49	the	the	DET	DT	Definite=Def|PronType=Art	48	_	_	start_char=260|end_char=263	O
+50	back	back	NOUN	NN	Number=Sing	49	_	_	start_char=264|end_char=268	O
+51	button	button	NOUN	NN	Number=Sing	50	_	_	start_char=269|end_char=275	O
+52	-	-	PUNCT	,	_	51	_	_	start_char=276|end_char=277	O
+53	in	in	ADP	IN	_	52	_	_	start_char=278|end_char=280	O
+54	all	all	DET	DT	_	53	_	_	start_char=281|end_char=284	O
+55	cases	case	NOUN	NNS	Number=Plur	54	_	_	start_char=285|end_char=290	O
+56	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	55	_	_	start_char=291|end_char=292	O
+57	constantly	constantly	ADV	RB	_	56	_	_	start_char=293|end_char=303	O
+58	see	see	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	57	_	_	start_char=304|end_char=307	O
+59	the	the	DET	DT	Definite=Def|PronType=Art	58	_	_	start_char=308|end_char=311	O
+60	old	old	ADJ	JJ	Degree=Pos	59	_	_	start_char=312|end_char=315	O
+61	Mountain	Mountain	PROPN	NNP	Number=Sing	60	_	_	start_char=316|end_char=324	O
+62	View	View	PROPN	NNP	Number=Sing	61	_	_	start_char=325|end_char=329	O
+63	location	location	NOUN	NN	Number=Sing	62	_	_	start_char=330|end_char=338	O
+64	without	without	ADP	IN	_	63	_	_	start_char=339|end_char=346	O
+65	any	any	DET	DT	_	64	_	_	start_char=347|end_char=350	O
+66	notifications	notification	NOUN	NNS	Number=Plur	65	_	_	start_char=351|end_char=364	B-feature
+67	,	,	PUNCT	,	_	66	_	_	start_char=364|end_char=365	O
+68	payment	payment	NOUN	NN	Number=Sing	67	_	_	start_char=366|end_char=373	O
+69	requirements	requirement	NOUN	NNS	Number=Plur	68	_	_	start_char=374|end_char=386	O
+70	or	or	CCONJ	CC	_	69	_	_	start_char=387|end_char=389	O
+71	etc	etc	NOUN	FW	Abbr=Yes|Number=Sing	70	_	_	start_char=390|end_char=393	O
+72	.	.	PUNCT	.	_	71	_	_	start_char=393|end_char=394	O
+
+</doc>
+

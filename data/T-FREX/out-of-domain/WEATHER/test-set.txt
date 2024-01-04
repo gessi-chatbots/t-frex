@@ -1,0 +1,1549 @@
+<doc id="4e27d17a-e713-4752-99f3-6d1d5468745a_s0" package_name="com.shahul3d.indiasatelliteweather" app_name="India Satellite Weather" app_category="['GPS/Maps']" google_play_category="['WEATHER']">
+
+1	Best	good	ADJ	JJS	Degree=Sup	0	_	_	start_char=0|end_char=4	O
+2	,	,	PUNCT	,	_	1	_	_	start_char=4|end_char=5	O
+3	wish	wish	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	_	_	start_char=5|end_char=9	O
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	_	_	start_char=10|end_char=12	O
+5	have	have	VERB	VB	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=13|end_char=17	O
+6	some	some	DET	DT	_	5	_	_	start_char=18|end_char=22	O
+7	more	more	ADJ	JJR	Degree=Cmp	6	_	_	start_char=23|end_char=27	O
+8	options	option	NOUN	NNS	Number=Plur	7	_	_	start_char=28|end_char=35	O
+9	to	to	PART	TO	_	8	_	_	start_char=36|end_char=38	O
+10	alarm	alarm	VERB	VB	VerbForm=Inf	9	_	_	start_char=39|end_char=44	B-feature
+11	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	10	_	_	start_char=45|end_char=47	O
+12	about	about	ADP	IN	_	11	_	_	start_char=48|end_char=53	O
+13	windspeed	windspeed	NOUN	NN	Number=Sing	12	_	_	start_char=54|end_char=63	O
+14	and	and	CCONJ	CC	_	13	_	_	start_char=64|end_char=67	O
+15	related	related	ADJ	JJ	Degree=Pos	14	_	_	start_char=68|end_char=75	O
+16	,	,	PUNCT	,	_	15	_	_	start_char=75|end_char=76	O
+17	preset	preset	VERB	VB	VerbForm=Inf	16	_	_	start_char=76|end_char=82	O
+18	a	a	DET	DT	Definite=Ind|PronType=Art	17	_	_	start_char=83|end_char=84	O
+19	preferred	prefer	VERB	VBN	Tense=Past|VerbForm=Part	18	_	_	start_char=85|end_char=94	O
+20	windspeed	windspeed	NOUN	NN	Number=Sing	19	_	_	start_char=95|end_char=104	O
+21	and	and	CCONJ	CC	_	20	_	_	start_char=105|end_char=108	O
+22	related	related	ADJ	JJ	Degree=Pos	21	_	_	start_char=109|end_char=116	O
+23	values	value	NOUN	NNS	Number=Plur	22	_	_	start_char=117|end_char=123	O
+24	and	and	CCONJ	CC	_	23	_	_	start_char=124|end_char=127	O
+25	notify	notify	VERB	VB	VerbForm=Inf	24	_	_	start_char=128|end_char=134	O
+26	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	25	_	_	start_char=135|end_char=137	O
+27	when	when	ADV	WRB	PronType=Int	26	_	_	start_char=138|end_char=142	O
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=143|end_char=146	O
+29	threshold	threshold	NOUN	NN	Number=Sing	28	_	_	start_char=147|end_char=156	O
+30	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	_	_	start_char=157|end_char=159	O
+31	breached	breach	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	30	_	_	start_char=160|end_char=168	O
+
+</doc>
+
+<doc id="75636cbb-0d97-44fe-a0d5-6b57a217efcc_s0" package_name="com.shahul3d.indiasatelliteweather" app_name="India Satellite Weather" app_category="['GPS/Maps']" google_play_category="['WEATHER']">
+
+1	Sounding	sound	VERB	VBG	VerbForm=Ger	0	_	_	start_char=0|end_char=8	O
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=9|end_char=12	O
+3	alarm	alarm	NOUN	NN	Number=Sing	2	_	_	start_char=13|end_char=18	B-feature
+4	by	by	SCONJ	IN	_	3	_	_	start_char=19|end_char=21	O
+5	connecting	connect	VERB	VBG	VerbForm=Ger	4	_	_	start_char=22|end_char=32	O
+6	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	5	_	_	start_char=33|end_char=35	O
+7	to	to	ADP	IN	_	6	_	_	start_char=36|end_char=38	O
+8	nature	nature	NOUN	NN	Number=Sing	7	_	_	start_char=39|end_char=45	O
+9	.	.	PUNCT	.	_	8	_	_	start_char=45|end_char=46	O
+
+</doc>
+
+<doc id="0de6e3ba-1253-42fd-98db-f71438bdf40e_s1" package_name="com.tregware.radar" app_name="Weather Radar Widget" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	Displays	display	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	start_char=41|end_char=49	O
+2	correct	correct	ADJ	JJ	Degree=Pos	1	_	_	start_char=50|end_char=57	O
+3	location	location	NOUN	NN	Number=Sing	2	_	_	start_char=58|end_char=66	O
+4	scrolling	scroll	VERB	VBG	VerbForm=Ger	3	_	_	start_char=67|end_char=76	O
+5	across	across	ADP	IN	_	4	_	_	start_char=77|end_char=83	O
+6	screen	screen	NOUN	NN	Number=Sing	5	_	_	start_char=84|end_char=90	O
+7	,	,	PUNCT	,	_	6	_	_	start_char=90|end_char=91	O
+8	but	but	CCONJ	CC	_	7	_	_	start_char=92|end_char=95	O
+9	map	map	NOUN	NN	Number=Sing	8	_	_	start_char=96|end_char=99	O
+10	ALWAYS	always	ADV	RB	_	9	_	_	start_char=100|end_char=106	O
+11	shows	show	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=107|end_char=112	O
+12	tablet	tablet	NOUN	NN	Number=Sing	11	_	_	start_char=113|end_char=119	O
+13	location	location	NOUN	NN	Number=Sing	12	_	_	start_char=120|end_char=128	O
+14	35	35	NUM	CD	NumForm=Digit|NumType=Card	13	_	_	start_char=129|end_char=131	O
+15	-	-	SYM	SYM	_	14	_	_	start_char=131|end_char=132	O
+16	50	50	NUM	CD	NumForm=Digit|NumType=Card	15	_	_	start_char=132|end_char=134	O
+17	miles	mile	NOUN	NNS	Number=Plur	16	_	_	start_char=135|end_char=140	O
+18	away	away	ADV	RB	_	17	_	_	start_char=141|end_char=145	O
+19	rendering	rendering	VERB	VBG	VerbForm=Ger	18	_	_	start_char=146|end_char=155	B-feature
+20	app	app	NOUN	NN	Number=Sing	19	_	_	start_char=156|end_char=159	O
+21	virtually	virtually	ADV	RB	_	20	_	_	start_char=160|end_char=169	O
+22	useless	useless	ADJ	JJ	Degree=Pos	21	_	_	start_char=170|end_char=177	O
+23	.	.	PUNCT	.	_	22	_	_	start_char=177|end_char=178	O
+
+</doc>
+
+<doc id="278300ec-a744-44ee-98f1-ded48bcd5463_s0" package_name="com.walb.android.weather" app_name="WALB First Alert Weather" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	start_char=0|end_char=2	O
+2	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=3|end_char=7	O
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=8|end_char=9	O
+4	tornado	tornado	NOUN	NN	Number=Sing	3	_	_	start_char=10|end_char=17	O
+5	warning	warning	NOUN	NN	Number=Sing	4	_	_	start_char=18|end_char=25	O
+6	with	with	ADP	IN	_	5	_	_	start_char=26|end_char=30	O
+7	no	no	DET	DT	_	6	_	_	start_char=31|end_char=33	O
+8	alarm	alarm	NOUN	NN	Number=Sing	7	_	_	start_char=34|end_char=39	B-feature
+9	sounded	sound	VERB	VBN	Tense=Past|VerbForm=Part	8	_	_	start_char=40|end_char=47	O
+10	and	and	CCONJ	CC	_	9	_	_	start_char=48|end_char=51	O
+11	no	no	DET	DT	_	10	_	_	start_char=52|end_char=54	O
+12	local	local	ADJ	JJ	Degree=Pos	11	_	_	start_char=55|end_char=60	O
+13	news	news	NOUN	NN	Number=Sing	12	_	_	start_char=61|end_char=65	O
+14	coverage	coverage	NOUN	NN	Number=Sing	13	_	_	start_char=66|end_char=74	O
+15	for	for	ADP	IN	_	14	_	_	start_char=75|end_char=78	O
+16	said	say	VERB	VBN	Tense=Past|VerbForm=Part	15	_	_	start_char=79|end_char=83	O
+17	weather	weather	NOUN	NN	Number=Sing	16	_	_	start_char=84|end_char=91	O
+18	.	.	PUNCT	.	_	17	_	_	start_char=91|end_char=92	O
+
+</doc>
+
+<doc id="41d30c8c-c72b-4e6c-8530-8ceaea2f3ac6_s0" package_name="com.wunderground.android.weather" app_name="Weather data & microclimate : " app_category="['Weather', 'Air quality']" google_play_category="['WEATHER']">
+
+1	Once	once	ADV	RB	NumType=Mult	0	_	_	start_char=0|end_char=4	O
+2	familiar	familiar	ADJ	JJ	Degree=Pos	1	_	_	start_char=5|end_char=13	O
+3	with	with	ADP	IN	_	2	_	_	start_char=14|end_char=18	O
+4	extended	extend	VERB	VBN	Tense=Past|VerbForm=Part	3	_	_	start_char=19|end_char=27	O
+5	functions	function	NOUN	NNS	Number=Plur	4	_	_	start_char=28|end_char=37	O
+6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	_	_	start_char=38|end_char=40	O
+7	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=40|end_char=42	O
+8	very	very	ADV	RB	_	7	_	_	start_char=43|end_char=47	O
+9	good	good	ADJ	JJ	Degree=Pos	8	_	_	start_char=48|end_char=52	O
+10	,	,	PUNCT	,	_	9	_	_	start_char=52|end_char=53	O
+11	and	and	CCONJ	CC	_	10	_	_	start_char=54|end_char=57	O
+12	that	that	PRON	DT	Number=Sing|PronType=Dem	11	_	_	start_char=58|end_char=62	O
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=63|end_char=65	O
+14	also	also	ADV	RB	_	13	_	_	start_char=66|end_char=70	O
+15	for	for	ADP	IN	_	14	_	_	start_char=71|end_char=74	O
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=75|end_char=78	O
+17	full	full	ADJ	JJ	Degree=Pos	16	_	_	start_char=79|end_char=83	O
+18	web	web	NOUN	NN	Number=Sing	17	_	_	start_char=84|end_char=87	B-feature
+19	service	service	NOUN	NN	Number=Sing	18	_	_	start_char=88|end_char=95	I-feature
+20	.	.	PUNCT	.	_	19	_	_	start_char=95|end_char=96	O
+
+</doc>
+
+<doc id="26a0c65a-7314-4aaa-ab42-7a7e35d313de_s0" package_name="com.forecast.thermometer.weatherapp21" app_name="Weather, Forecast, Thermometer" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	This	this	DET	DT	Number=Sing|PronType=Dem	0	_	_	start_char=0|end_char=4	O
+2	app	app	NOUN	NN	Number=Sing	1	_	_	start_char=5|end_char=8	O
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=9|end_char=11	O
+4	great	great	ADJ	JJ	Degree=Pos	3	_	_	start_char=12|end_char=17	O
+5	👌	👌	PUNCT	,	_	4	_	_	start_char=18|end_char=19	O
+6	but	but	CCONJ	CC	_	5	_	_	start_char=20|end_char=23	O
+7	there	there	PRON	EX	_	6	_	_	start_char=24|end_char=29	O
+8	's	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=29|end_char=31	O
+9	a	a	DET	DT	Definite=Ind|PronType=Art	8	_	_	start_char=32|end_char=33	O
+10	one	one	NUM	CD	NumForm=Word|NumType=Card	9	_	_	start_char=34|end_char=37	O
+11	problem	problem	NOUN	NN	Number=Sing	10	_	_	start_char=38|end_char=45	O
+12	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	_	_	start_char=46|end_char=47	O
+13	set	set	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	_	_	start_char=48|end_char=51	O
+14	alarm	alarm	NOUN	NN	Number=Sing	13	_	_	start_char=52|end_char=57	B-feature
+15	of	of	ADP	IN	_	14	_	_	start_char=58|end_char=60	O
+16	remind	remind	VERB	VB	VerbForm=Inf	15	_	_	start_char=61|end_char=67	O
+17	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	16	_	_	start_char=68|end_char=70	O
+18	before	before	ADP	IN	_	17	_	_	start_char=71|end_char=77	O
+19	1	1	NUM	CD	NumForm=Digit|NumType=Card	18	_	_	start_char=78|end_char=79	O
+20	hour	hour	NOUN	NN	Number=Sing	19	_	_	start_char=80|end_char=84	O
+21	but	but	CCONJ	CC	_	20	_	_	start_char=85|end_char=88	O
+22	when	when	ADV	WRB	PronType=Int	21	_	_	start_char=89|end_char=93	O
+23	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	22	_	_	start_char=94|end_char=95	O
+24	check	check	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	23	_	_	start_char=96|end_char=101	O
+25	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	24	_	_	start_char=102|end_char=104	O
+26	again	again	ADV	RB	_	25	_	_	start_char=105|end_char=110	O
+27	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	26	_	_	start_char=111|end_char=113	O
+28	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	_	_	start_char=113|end_char=115	O
+29	turned	turn	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	28	_	_	start_char=116|end_char=122	O
+30	into	into	ADP	IN	_	29	_	_	start_char=123|end_char=127	O
+31	10	10	NUM	CD	NumForm=Digit|NumType=Card	30	_	_	start_char=128|end_char=130	O
+32	minutes	minute	NOUN	NNS	Number=Plur	31	_	_	start_char=131|end_char=138	O
+33	automatically	automatically	ADV	RB	_	32	_	_	start_char=139|end_char=152	O
+34	so	so	ADV	RB	_	33	_	_	start_char=153|end_char=155	O
+35	do	do	VERB	VB	Mood=Imp|VerbForm=Fin	34	_	_	start_char=156|end_char=158	O
+36	something	something	NOUN	NN	Number=Sing	35	_	_	start_char=159|end_char=168	O
+
+</doc>
+
+<doc id="9fa48190-c03c-468f-b5e2-11725d9ecb24_s0" package_name="com.graph.weather.forecast.channel" app_name="Weather forecast" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	Clock	clock	NOUN	NN	Number=Sing	0	_	_	start_char=0|end_char=5	O
+2	time	time	NOUN	NN	Number=Sing	1	_	_	start_char=6|end_char=10	O
+3	freezes	freeze	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=11|end_char=18	O
+4	also	also	ADV	RB	_	3	_	_	start_char=19|end_char=23	O
+5	if	if	SCONJ	IN	_	4	_	_	start_char=24|end_char=26	O
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	_	_	start_char=27|end_char=30	O
+7	tap	tap	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	_	_	start_char=31|end_char=34	O
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=35|end_char=38	O
+9	clock	clock	NOUN	NN	Number=Sing	8	_	_	start_char=39|end_char=44	O
+10	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	_	_	start_char=45|end_char=47	O
+11	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=48|end_char=52	O
+12	n't	not	PART	RB	_	11	_	_	start_char=52|end_char=55	O
+13	go	go	VERB	VB	VerbForm=Inf	12	_	_	start_char=56|end_char=58	O
+14	to	to	PART	TO	_	13	_	_	start_char=59|end_char=61	O
+15	clock	clock	VERB	VB	VerbForm=Inf	14	_	_	start_char=62|end_char=67	O
+16	and	and	CCONJ	CC	_	15	_	_	start_char=68|end_char=71	O
+17	timers	timer	NOUN	NNS	Number=Plur	16	_	_	start_char=72|end_char=78	B-feature
+18	like	like	ADP	IN	_	17	_	_	start_char=79|end_char=83	O
+19	other	other	ADJ	JJ	Degree=Pos	18	_	_	start_char=84|end_char=89	O
+20	weather	weather	NOUN	NN	Number=Sing	19	_	_	start_char=90|end_char=97	O
+21	widgets	widget	NOUN	NNS	Number=Plur	20	_	_	start_char=98|end_char=105	O
+22	do	do	PUNCT	.	_	21	_	_	start_char=106|end_char=108	O
+
+</doc>
+
+<doc id="84b889ea-c0b4-4ad1-8859-5bc391351251_s0" package_name="com.graph.weather.forecast.channel" app_name="Weather forecast" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	Horrible	horrible	ADJ	JJ	Degree=Pos	0	_	_	start_char=0|end_char=8	O
+2	ads	ad	NOUN	NNS	Number=Plur	1	_	_	start_char=9|end_char=12	O
+3	,	,	PUNCT	,	_	2	_	_	start_char=12|end_char=13	O
+4	clicking	click	VERB	VBG	VerbForm=Ger	3	_	_	start_char=14|end_char=22	O
+5	on	on	ADP	IN	_	4	_	_	start_char=23|end_char=25	O
+6	clock	clock	NOUN	NN	Number=Sing	5	_	_	start_char=26|end_char=31	O
+7	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=32|end_char=36	O
+8	n't	not	PART	RB	_	7	_	_	start_char=36|end_char=39	O
+9	redirect	redirect	VERB	VB	VerbForm=Inf	8	_	_	start_char=40|end_char=48	O
+10	to	to	ADP	IN	_	9	_	_	start_char=49|end_char=51	O
+11	alarms	alarm	NOUN	NNS	Number=Plur	10	_	_	start_char=52|end_char=58	B-feature
+12	.	.	PUNCT	.	_	11	_	_	start_char=58|end_char=59	O
+
+</doc>
+
+<doc id="17b08e92-b242-4641-98b3-3313dee0cb08_s0" package_name="com.graph.weather.forecast.channel" app_name="Weather forecast" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	Good	good	ADJ	JJ	Degree=Pos	0	_	_	start_char=0|end_char=4	O
+2	luck	luck	NOUN	NN	Number=Sing	1	_	_	start_char=5|end_char=9	O
+3	.add	.add	PUNCT	,	_	2	_	_	start_char=10|end_char=14	O
+4	some	some	DET	DT	_	3	_	_	start_char=15|end_char=19	O
+5	clock	clock	NOUN	NN	Number=Sing	4	_	_	start_char=20|end_char=25	B-feature
+6	widget	widget	NOUN	NN	Number=Sing	5	_	_	start_char=26|end_char=32	I-feature
+7	too	too	ADV	RB	_	6	_	_	start_char=33|end_char=36	O
+
+</doc>
+
+<doc id="6f0fe919-9c84-47a6-b712-9871aab186cd_s0" package_name="com.nice.accurate.weather" app_name="Weather Forecast" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	A	a	DET	DT	Definite=Ind|PronType=Art	0	_	_	start_char=0|end_char=1	O
+2	ALARM	alarm	NOUN	NN	Number=Sing	1	_	_	start_char=2|end_char=7	B-feature
+3	FOR	for	ADP	IN	_	2	_	_	start_char=8|end_char=11	O
+4	RAIN	rain	NOUN	NN	Number=Sing	3	_	_	start_char=12|end_char=16	O
+5	.	.	PUNCT	.	_	4	_	_	start_char=17|end_char=18	O
+
+</doc>
+
+<doc id="a5b01cba-4410-4ba5-b1a5-01fd4cf70045_s0" package_name="com.devexpert.weather" app_name="Weather & Clock Widget" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	Best	good	ADJ	JJS	Degree=Sup	0	_	_	start_char=0|end_char=4	O
+2	application	application	NOUN	NN	Number=Sing	1	_	_	start_char=5|end_char=16	O
+3	for	for	ADP	IN	_	2	_	_	start_char=17|end_char=20	O
+4	weather	weather	NOUN	NN	Number=Sing	3	_	_	start_char=21|end_char=28	O
+5	&	&	CCONJ	CC	_	4	_	_	start_char=29|end_char=30	O
+6	clock	clock	NOUN	NN	Number=Sing	5	_	_	start_char=31|end_char=36	B-feature
+7	widget	widget	NOUN	NN	Number=Sing	6	_	_	start_char=37|end_char=43	I-feature
+
+</doc>
+
+<doc id="f4952503-b947-42ff-9b24-66219a9cbd4b_s0" package_name="com.devexpert.weather" app_name="Weather & Clock Widget" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	Absolutely	absolutely	ADV	RB	_	0	_	_	start_char=0|end_char=10	O
+2	everything	everything	PRON	NN	Number=Sing|PronType=Tot	1	_	_	start_char=11|end_char=21	O
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	_	_	start_char=22|end_char=23	O
+4	wanted	want	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	_	_	start_char=24|end_char=30	O
+5	in	in	ADP	IN	_	4	_	_	start_char=31|end_char=33	O
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=34|end_char=35	O
+7	weather	weather	NOUN	NN	Number=Sing	6	_	_	start_char=36|end_char=43	O
+8	appp	appp	NOUN	NN	Number=Sing	7	_	_	start_char=44|end_char=48	O
+9	with	with	ADP	IN	_	8	_	_	start_char=49|end_char=53	O
+10	clock	clock	NOUN	NN	Number=Sing	9	_	_	start_char=54|end_char=59	O
+11	and	and	CCONJ	CC	_	10	_	_	start_char=60|end_char=63	O
+12	alarm	alarm	NOUN	NN	Number=Sing	11	_	_	start_char=64|end_char=69	B-feature
+13	functionality	functionality	NOUN	NN	Number=Sing	12	_	_	start_char=70|end_char=83	O
+14	!!	!!	PUNCT	.	_	13	_	_	start_char=83|end_char=85	O
+
+</doc>
+
+<doc id="a859a98d-273a-49dc-8428-c1a5f0cef95b_s4" package_name="com.devexpert.weather" app_name="Weather & Clock Widget" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	There	there	PRON	EX	_	0	_	_	start_char=236|end_char=241	O
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=242|end_char=244	O
+3	also	also	ADV	RB	_	2	_	_	start_char=245|end_char=249	O
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=250|end_char=251	O
+5	ghost	ghost	NOUN	NN	Number=Sing	4	_	_	start_char=252|end_char=257	O
+6	alarm	alarm	NOUN	NN	Number=Sing	5	_	_	start_char=258|end_char=263	B-feature
+7	that	that	PRON	WDT	PronType=Rel	6	_	_	start_char=264|end_char=268	O
+8	daily	daily	ADJ	JJ	Degree=Pos	7	_	_	start_char=269|end_char=274	O
+9	displays	display	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	_	_	start_char=275|end_char=283	O
+10	on	on	ADP	IN	_	9	_	_	start_char=284|end_char=286	O
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=287|end_char=290	O
+12	widget	widget	NOUN	NN	Number=Sing	11	_	_	start_char=291|end_char=297	O
+13	"	"	PUNCT	``	_	12	_	_	start_char=298|end_char=299	O
+14	10:21	10:21	NUM	CD	NumForm=Digit|NumType=Card	13	_	_	start_char=299|end_char=304	O
+15	am	am	NOUN	NN	Number=Sing	14	_	_	start_char=304|end_char=306	O
+16	"	"	PUNCT	''	_	15	_	_	start_char=306|end_char=307	O
+17	.	.	PUNCT	.	_	16	_	_	start_char=307|end_char=308	O
+
+</doc>
+
+<doc id="a859a98d-273a-49dc-8428-c1a5f0cef95b_s6" package_name="com.devexpert.weather" app_name="Weather & Clock Widget" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	Neither	neither	DET	DT	_	0	_	_	start_char=345|end_char=352	O
+2	of	of	ADP	IN	_	1	_	_	start_char=353|end_char=355	O
+3	which	which	PRON	WDT	PronType=Rel	2	_	_	start_char=356|end_char=361	O
+4	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=362|end_char=365	O
+5	an	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=366|end_char=368	O
+6	alarm	alarm	NOUN	NN	Number=Sing	5	_	_	start_char=369|end_char=374	B-feature
+7	set	set	NOUN	NN	Number=Sing	6	_	_	start_char=375|end_char=378	O
+8	for	for	ADP	IN	_	7	_	_	start_char=379|end_char=382	O
+9	that	that	DET	DT	Number=Sing|PronType=Dem	8	_	_	start_char=383|end_char=387	O
+10	time	time	NOUN	NN	Number=Sing	9	_	_	start_char=388|end_char=392	O
+11	.	.	PUNCT	.	_	10	_	_	start_char=392|end_char=393	O
+
+</doc>
+
+<doc id="6dc9e9f5-3435-4790-9ae8-d6f7238c9bea_s0" package_name="com.devexpert.weather" app_name="Weather & Clock Widget" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	Always	Always	ADV	RB	_	0	_	_	start_char=0|end_char=6	O
+2	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	_	_	start_char=7|end_char=9	O
+3	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	2	_	_	start_char=10|end_char=15	O
+4	choice	choice	NOUN	NN	Number=Sing	3	_	_	start_char=16|end_char=22	O
+5	for	for	ADP	IN	_	4	_	_	start_char=23|end_char=26	O
+6	weather	weather	NOUN	NN	Number=Sing	5	_	_	start_char=27|end_char=34	O
+7	and	and	CCONJ	CC	_	6	_	_	start_char=35|end_char=38	O
+8	clock	clock	NOUN	NN	Number=Sing	7	_	_	start_char=39|end_char=44	B-feature
+9	widget	widget	NOUN	NN	Number=Sing	8	_	_	start_char=45|end_char=51	I-feature
+10	on	on	ADP	IN	_	9	_	_	start_char=52|end_char=54	O
+11	every	every	DET	DT	_	10	_	_	start_char=55|end_char=60	O
+12	of	of	ADP	IN	_	11	_	_	start_char=61|end_char=63	O
+13	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	12	_	_	start_char=64|end_char=66	O
+14	phones	phone	NOUN	NNS	Number=Plur	13	_	_	start_char=67|end_char=73	O
+15	and	and	CCONJ	CC	_	14	_	_	start_char=74|end_char=77	O
+16	tablet	tablet	NOUN	NN	Number=Sing	15	_	_	start_char=78|end_char=84	O
+17	.	.	PUNCT	.	_	16	_	_	start_char=84|end_char=85	O
+
+</doc>
+
+<doc id="231a859b-21f8-43c9-96e5-129b93da1478_s5" package_name="com.devexpert.weather" app_name="Weather & Clock Widget" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=232|end_char=235	O
+2	only	only	ADJ	JJ	Degree=Pos	1	_	_	start_char=236|end_char=240	O
+3	down	down	ADJ	JJ	Degree=Pos	2	_	_	start_char=241|end_char=245	O
+4	side	side	NOUN	NN	Number=Sing	3	_	_	start_char=246|end_char=250	O
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=251|end_char=253	O
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=254|end_char=257	O
+7	text	text	NOUN	NN	Number=Sing	6	_	_	start_char=258|end_char=262	O
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=263|end_char=265	O
+9	too	too	ADV	RB	_	8	_	_	start_char=266|end_char=269	O
+10	small	small	ADJ	JJ	Degree=Pos	9	_	_	start_char=270|end_char=275	O
+11	for	for	ADP	IN	_	10	_	_	start_char=276|end_char=279	O
+12	info	info	NOUN	NN	Number=Sing	11	_	_	start_char=280|end_char=284	O
+13	like	like	ADP	IN	_	12	_	_	start_char=285|end_char=289	O
+14	next	next	ADJ	JJ	Degree=Pos	13	_	_	start_char=290|end_char=294	O
+15	alarm	alarm	NOUN	NN	Number=Sing	14	_	_	start_char=295|end_char=300	B-feature
+16	,	,	PUNCT	,	_	15	_	_	start_char=300|end_char=301	O
+17	min/max	min/max	NOUN	NN	Number=Sing	16	_	_	start_char=302|end_char=309	O
+18	temp	temp	NOUN	NN	Number=Sing	17	_	_	start_char=310|end_char=314	O
+19	,	,	PUNCT	,	_	18	_	_	start_char=314|end_char=315	O
+20	sunrise	sunrise	NOUN	NN	Number=Sing	19	_	_	start_char=316|end_char=323	O
+21	/	/	SYM	,	_	20	_	_	start_char=323|end_char=324	O
+22	set	set	NOUN	NN	Number=Sing	21	_	_	start_char=324|end_char=327	O
+23	etc	etc	NOUN	FW	Abbr=Yes|Number=Sing	22	_	_	start_char=328|end_char=331	O
+24	.	.	PUNCT	.	_	23	_	_	start_char=331|end_char=332	O
+
+</doc>
+
+<doc id="ab519d41-8919-4860-ace8-a7675f02430c_s1" package_name="com.devexpert.weather" app_name="Weather & Clock Widget" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	Use	use	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	_	_	start_char=14|end_char=17	O
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=18|end_char=21	O
+3	large	large	ADJ	JJ	Degree=Pos	2	_	_	start_char=22|end_char=27	O
+4	widget	widget	NOUN	NN	Number=Sing	3	_	_	start_char=28|end_char=34	O
+5	on	on	ADP	IN	_	4	_	_	start_char=35|end_char=37	O
+6	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	_	_	start_char=38|end_char=40	O
+7	homescreen	homescreen	NOUN	NN	Number=Sing	6	_	_	start_char=41|end_char=51	O
+8	for	for	ADP	IN	_	7	_	_	start_char=52|end_char=55	O
+9	time	time	NOUN	NN	Number=Sing	8	_	_	start_char=56|end_char=60	O
+10	,	,	PUNCT	,	_	9	_	_	start_char=60|end_char=61	O
+11	weather	weather	NOUN	NN	Number=Sing	10	_	_	start_char=62|end_char=69	O
+12	,	,	PUNCT	,	_	11	_	_	start_char=69|end_char=70	O
+13	and	and	CCONJ	CC	_	12	_	_	start_char=71|end_char=74	O
+14	alarms	alarm	NOUN	NNS	Number=Plur	13	_	_	start_char=75|end_char=81	B-feature
+15	.	.	PUNCT	.	_	14	_	_	start_char=81|end_char=82	O
+
+</doc>
+
+<doc id="178ce43b-b5a4-4bce-855c-108ef1c090da_s0" package_name="com.devexpert.weather" app_name="Weather & Clock Widget" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	Random	Random	ADJ	JJ	Degree=Pos	0	_	_	start_char=0|end_char=6	O
+2	alarm	alarm	NOUN	NN	Number=Sing	1	_	_	start_char=7|end_char=12	B-feature
+3	time	time	NOUN	NN	Number=Sing	2	_	_	start_char=13|end_char=17	O
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=18|end_char=20	O
+5	stuck	stuck	ADJ	JJ	Degree=Pos	4	_	_	start_char=21|end_char=26	O
+6	on	on	ADP	IN	_	5	_	_	start_char=27|end_char=29	O
+7	widget	widget	NOUN	NN	Number=Sing	6	_	_	start_char=30|end_char=36	O
+8	,	,	PUNCT	,	_	7	_	_	start_char=36|end_char=37	O
+9	for	for	ADP	IN	_	8	_	_	start_char=38|end_char=41	O
+10	weeks	week	NOUN	NNS	Number=Plur	9	_	_	start_char=42|end_char=47	O
+11	.	.	PUNCT	.	_	10	_	_	start_char=47|end_char=48	O
+
+</doc>
+
+<doc id="9fe9e9a5-1674-4e69-8ac2-bd62158d51f7_s0" package_name="com.devexpert.weather" app_name="Weather & Clock Widget" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	Love	love	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	_	_	start_char=0|end_char=4	O
+2	this	this	DET	DT	Number=Sing|PronType=Dem	1	_	_	start_char=5|end_char=9	O
+3	app	app	NOUN	NN	Number=Sing	2	_	_	start_char=10|end_char=13	O
+4	but	but	CCONJ	CC	_	3	_	_	start_char=14|end_char=17	O
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=18|end_char=21	O
+6	widget	widget	NOUN	NN	Number=Sing	5	_	_	start_char=22|end_char=28	O
+7	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	_	_	start_char=29|end_char=32	O
+8	n't	not	PART	RB	_	7	_	_	start_char=32|end_char=35	O
+9	been	be	AUX	VBN	Tense=Past|VerbForm=Part	8	_	_	start_char=36|end_char=40	O
+10	showing	show	VERB	VBG	Tense=Pres|VerbForm=Part	9	_	_	start_char=41|end_char=48	O
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=49|end_char=52	O
+12	correct	correct	ADJ	JJ	Degree=Pos	11	_	_	start_char=53|end_char=60	O
+13	alarm	alarm	NOUN	NN	Number=Sing	12	_	_	start_char=61|end_char=66	B-feature
+14	since	since	ADP	IN	_	13	_	_	start_char=67|end_char=72	O
+15	forever	forever	ADV	RB	_	14	_	_	start_char=73|end_char=80	O
+16	!	!	PUNCT	.	_	15	_	_	start_char=80|end_char=81	O
+
+</doc>
+
+<doc id="3639e73e-9b04-44c2-a4b8-55bbc9e47a82_s0" package_name="com.devexpert.weather" app_name="Weather & Clock Widget" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	Works	Works	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	start_char=0|end_char=5	O
+2	fine	fine	ADJ	JJ	Degree=Pos	1	_	_	start_char=6|end_char=10	O
+3	on	on	ADP	IN	_	2	_	_	start_char=11|end_char=13	O
+4	most	most	ADJ	JJS	Degree=Sup	3	_	_	start_char=14|end_char=18	O
+5	phones	phone	NOUN	NNS	Number=Plur	4	_	_	start_char=19|end_char=25	O
+6	,	,	PUNCT	,	_	5	_	_	start_char=25|end_char=26	O
+7	but	but	CCONJ	CC	_	6	_	_	start_char=27|end_char=30	O
+8	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=31|end_char=35	O
+9	n't	not	PART	RB	_	8	_	_	start_char=35|end_char=38	O
+10	recognize	recognize	VERB	VB	VerbForm=Inf	9	_	_	start_char=39|end_char=48	O
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=49|end_char=52	O
+12	clock	clock	NOUN	NN	Number=Sing	11	_	_	start_char=53|end_char=58	O
+13	app	app	NOUN	NN	Number=Sing	12	_	_	start_char=59|end_char=62	O
+14	on	on	ADP	IN	_	13	_	_	start_char=63|end_char=65	O
+15	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	14	_	_	start_char=66|end_char=68	O
+16	Nord200	Nord200	PROPN	NNP	Number=Sing	15	_	_	start_char=69|end_char=76	O
+17	so	so	ADV	RB	_	16	_	_	start_char=77|end_char=79	O
+18	can't	can't	AUX	MD	VerbForm=Fin	17	_	_	start_char=80|end_char=85	O
+19	set	set	VERB	VB	Mood=Imp|VerbForm=Fin	18	_	_	start_char=86|end_char=89	O
+20	the	the	DET	DT	Definite=Def|PronType=Art	19	_	_	start_char=90|end_char=93	O
+21	widget	widget	NOUN	NN	Number=Sing	20	_	_	start_char=94|end_char=100	O
+22	to	to	PART	TO	_	21	_	_	start_char=101|end_char=103	O
+23	go	go	VERB	VB	VerbForm=Inf	22	_	_	start_char=104|end_char=106	O
+24	directly	directly	ADV	RB	_	23	_	_	start_char=107|end_char=115	O
+25	to	to	ADP	IN	_	24	_	_	start_char=116|end_char=118	O
+26	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	25	_	_	start_char=119|end_char=121	O
+27	clock	clock	NOUN	NN	Number=Sing	26	_	_	start_char=122|end_char=127	O
+28	app	app	NOUN	NN	Number=Sing	27	_	_	start_char=128|end_char=131	O
+29	to	to	PART	TO	_	28	_	_	start_char=132|end_char=134	O
+30	set	set	VERB	VB	VerbForm=Inf	29	_	_	start_char=135|end_char=138	O
+31	alarms	alarm	NOUN	NNS	Number=Plur	30	_	_	start_char=139|end_char=145	B-feature
+32	,	,	PUNCT	,	_	31	_	_	start_char=145|end_char=146	O
+33	etc	etc	NOUN	FW	Abbr=Yes|Number=Sing	32	_	_	start_char=147|end_char=150	O
+34	.	.	PUNCT	.	_	33	_	_	start_char=150|end_char=151	O
+
+</doc>
+
+<doc id="d5f3237e-f036-4761-8b8c-a9c6ddcb7a82_s1" package_name="com.devexpert.weather" app_name="Weather & Clock Widget" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	Your	you	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	0	_	_	start_char=53|end_char=57	O
+2	alarm	alarm	NOUN	NN	Number=Sing	1	_	_	start_char=58|end_char=63	B-feature
+3	will	will	AUX	MD	VerbForm=Fin	2	_	_	start_char=64|end_char=68	O
+4	not	not	PART	RB	_	3	_	_	start_char=69|end_char=72	O
+5	go	go	VERB	VB	VerbForm=Inf	4	_	_	start_char=73|end_char=75	O
+6	off	off	ADP	RP	_	5	_	_	start_char=76|end_char=79	O
+7	when	when	ADV	WRB	PronType=Int	6	_	_	start_char=80|end_char=84	O
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	_	_	start_char=85|end_char=88	O
+9	expect	expect	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	_	_	start_char=89|end_char=95	O
+10	.	.	PUNCT	.	_	9	_	_	start_char=95|end_char=96	O
+
+</doc>
+
+<doc id="4f8969aa-760c-47ed-b889-3b1cd5099e4d_s0" package_name="com.devexpert.weather" app_name="Weather & Clock Widget" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	After	after	ADP	IN	_	0	_	_	start_char=0|end_char=5	O
+2	last	last	ADJ	JJ	Degree=Pos	1	_	_	start_char=6|end_char=10	O
+3	update	update	NOUN	NN	Number=Sing	2	_	_	start_char=11|end_char=17	O
+4	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	_	_	start_char=18|end_char=20	O
+5	alarm	alarm	NOUN	NN	Number=Sing	4	_	_	start_char=21|end_char=26	B-feature
+6	on	on	ADP	IN	_	5	_	_	start_char=27|end_char=29	O
+7	screen	screen	NOUN	NN	Number=Sing	6	_	_	start_char=30|end_char=36	O
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=37|end_char=39	O
+9	stuck	stuck	ADJ	JJ	Degree=Pos	8	_	_	start_char=40|end_char=45	O
+10	on	on	ADP	IN	_	9	_	_	start_char=46|end_char=48	O
+11	some	some	DET	DT	_	10	_	_	start_char=49|end_char=53	O
+12	random	random	ADJ	JJ	Degree=Pos	11	_	_	start_char=54|end_char=60	O
+13	time	time	NOUN	NN	Number=Sing	12	_	_	start_char=61|end_char=65	O
+14	i	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	_	_	start_char=66|end_char=67	O
+15	never	never	ADV	RB	_	14	_	_	start_char=68|end_char=73	O
+16	used	use	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	15	_	_	start_char=74|end_char=78	O
+17	.	.	PUNCT	.	_	16	_	_	start_char=78|end_char=79	O
+
+</doc>
+
+<doc id="841c0444-2d4a-48bc-9c89-af773518dbc4_s1" package_name="com.devexpert.weather" app_name="Weather & Clock Widget" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	Just	just	ADV	RB	_	0	_	_	start_char=38|end_char=42	O
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=43|end_char=47	O
+3	n't	not	PART	RB	_	2	_	_	start_char=47|end_char=50	O
+4	show	show	VERB	VB	VerbForm=Inf	3	_	_	start_char=51|end_char=55	O
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=56|end_char=59	O
+6	right	right	ADJ	JJ	Degree=Pos	5	_	_	start_char=60|end_char=65	O
+7	time	time	NOUN	NN	Number=Sing	6	_	_	start_char=66|end_char=70	O
+8	of	of	ADP	IN	_	7	_	_	start_char=71|end_char=73	O
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=74|end_char=77	O
+10	alarms	alarm	NOUN	NNS	Number=Plur	9	_	_	start_char=78|end_char=84	B-feature
+11	in	in	ADP	IN	_	10	_	_	start_char=85|end_char=87	O
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=88|end_char=91	O
+13	app	app	NOUN	NN	Number=Sing	12	_	_	start_char=92|end_char=95	O
+14	widgets	widget	NOUN	NNS	Number=Plur	13	_	_	start_char=96|end_char=103	O
+
+</doc>
+
+<doc id="2b72ee7d-4462-40c2-92cb-1ba3eeecf94f_s0" package_name="com.devexpert.weather" app_name="Weather & Clock Widget" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	No	no	DET	DT	_	0	_	_	start_char=0|end_char=2	O
+2	Percentage	percentage	NOUN	NN	Number=Sing	1	_	_	start_char=3|end_char=13	O
+3	of	of	ADP	IN	_	2	_	_	start_char=14|end_char=16	O
+4	rain	rain	NOUN	NN	Number=Sing	3	_	_	start_char=17|end_char=21	O
+5	Just	just	ADV	RB	_	4	_	_	start_char=22|end_char=26	O
+6	Precipitation	Precipitation	PROPN	NNP	Number=Sing	5	_	_	start_char=27|end_char=40	O
+7	other	other	ADJ	JJ	Degree=Pos	6	_	_	start_char=41|end_char=46	O
+8	wise	wise	ADJ	JJ	Degree=Pos	7	_	_	start_char=47|end_char=51	O
+9	a	a	PRON	PRP	Case=Nom|Number=Sing|PronType=Prs	8	_	_	start_char=52|end_char=53	O
+10	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=54|end_char=57	O
+11	some	some	DET	DT	_	10	_	_	start_char=58|end_char=62	O
+12	great	great	ADJ	JJ	Degree=Pos	11	_	_	start_char=63|end_char=68	O
+13	features	feature	NOUN	NNS	Number=Plur	12	_	_	start_char=69|end_char=77	O
+14	like	like	ADP	IN	_	13	_	_	start_char=78|end_char=82	O
+15	clock	clock	NOUN	NN	Number=Sing	14	_	_	start_char=83|end_char=88	O
+16	/	/	SYM	,	_	15	_	_	start_char=88|end_char=89	O
+17	calendar	calendar	NOUN	NN	Number=Sing	16	_	_	start_char=89|end_char=97	B-feature
+18	and	and	CCONJ	CC	_	17	_	_	start_char=98|end_char=101	O
+19	and	and	CCONJ	CC	_	18	_	_	start_char=102|end_char=105	O
+20	weather	weather	NOUN	NN	Number=Sing	19	_	_	start_char=106|end_char=113	O
+21	with	with	ADP	IN	_	20	_	_	start_char=114|end_char=118	O
+22	alarm	alarm	NOUN	NN	Number=Sing	21	_	_	start_char=119|end_char=124	B-feature
+23	..	..	PUNCT	.	_	22	_	_	start_char=124|end_char=126	O
+
+</doc>
+
+<doc id="581e917d-5dcb-4091-aba4-5f0f2b5fcec8_s0" package_name="com.devexpert.weather" app_name="Weather & Clock Widget" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=0|end_char=3	O
+2	alarm	alarm	NOUN	NN	Number=Sing	1	_	_	start_char=4|end_char=9	B-feature
+3	clocks	clock	NOUN	NNS	Number=Plur	2	_	_	start_char=10|end_char=16	O
+4	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=17|end_char=20	O
+5	n't	not	PART	RB	_	4	_	_	start_char=20|end_char=23	O
+6	working	work	VERB	VBG	Tense=Pres|VerbForm=Part	5	_	_	start_char=24|end_char=31	O
+7	correctly	correctly	ADV	RB	_	6	_	_	start_char=32|end_char=41	O
+8	.	.	PUNCT	.	_	7	_	_	start_char=41|end_char=42	O
+
+</doc>
+
+<doc id="581e917d-5dcb-4091-aba4-5f0f2b5fcec8_s3" package_name="com.devexpert.weather" app_name="Weather & Clock Widget" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=204|end_char=205	O
+2	will	will	AUX	MD	VerbForm=Fin	1	_	_	start_char=206|end_char=210	O
+3	be	be	AUX	VB	VerbForm=Inf	2	_	_	start_char=211|end_char=213	O
+4	finding	find	VERB	VBG	Tense=Pres|VerbForm=Part	3	_	_	start_char=214|end_char=221	O
+5	a	a	DET	DT	Definite=Ind|PronType=Art	4	_	_	start_char=222|end_char=223	O
+6	new	new	ADJ	JJ	Degree=Pos	5	_	_	start_char=224|end_char=227	O
+7	alarm	alarm	NOUN	NN	Number=Sing	6	_	_	start_char=228|end_char=233	B-feature
+8	clock	clock	NOUN	NN	Number=Sing	7	_	_	start_char=234|end_char=239	O
+9	.	.	PUNCT	.	_	8	_	_	start_char=239|end_char=240	O
+
+</doc>
+
+<doc id="3f136e7b-1add-43bb-90bc-587a992e9962_s0" package_name="com.devexpert.weather" app_name="Weather & Clock Widget" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	For	for	ADP	IN	_	0	_	_	start_char=0|end_char=3	O
+2	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	_	_	start_char=4|end_char=6	O
+3	this	this	DET	DT	Number=Sing|PronType=Dem	2	_	_	start_char=7|end_char=11	O
+4	widget	widget	NOUN	NN	Number=Sing	3	_	_	start_char=12|end_char=18	O
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=19|end_char=21	O
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=22|end_char=25	O
+7	best	good	ADJ	JJS	Degree=Sup	6	_	_	start_char=26|end_char=30	O
+8	because	because	ADP	IN	_	7	_	_	start_char=31|end_char=38	O
+9	of	of	ADP	IN	_	8	_	_	start_char=39|end_char=41	O
+10	how	how	ADV	WRB	PronType=Int	9	_	_	start_char=42|end_char=45	O
+11	clear	clear	ADJ	JJ	Degree=Pos	10	_	_	start_char=46|end_char=51	O
+12	the	the	DET	DT	Definite=Def|PronType=Art	11	_	_	start_char=52|end_char=55	O
+13	widged	widged	NOUN	NN	Number=Sing	12	_	_	start_char=56|end_char=62	O
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	_	_	start_char=63|end_char=65	O
+15	and	and	CCONJ	CC	_	14	_	_	start_char=66|end_char=69	O
+16	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	15	_	_	start_char=70|end_char=73	O
+17	set	set	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	16	_	_	start_char=74|end_char=77	O
+18	alarm	alarm	NOUN	NN	Number=Sing	17	_	_	start_char=78|end_char=83	B-feature
+19	and	and	CCONJ	CC	_	18	_	_	start_char=84|end_char=87	O
+20	see	see	VERB	VB	VerbForm=Fin	19	_	_	start_char=88|end_char=91	O
+21	your	you	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	20	_	_	start_char=92|end_char=96	O
+22	calendar	calendar	NOUN	NN	Number=Sing	21	_	_	start_char=97|end_char=105	B-feature
+23	for	for	ADP	IN	_	22	_	_	start_char=106|end_char=109	O
+24	free	free	ADJ	JJ	Degree=Pos	23	_	_	start_char=110|end_char=114	O
+25	.	.	PUNCT	.	_	24	_	_	start_char=114|end_char=115	O
+
+</doc>
+
+<doc id="ded0993e-dd20-45b6-a0c2-a6c669fe5f02_s1" package_name="com.devexpert.weather" app_name="Weather & Clock Widget" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	Big	Big	ADJ	JJ	Degree=Pos	0	_	_	start_char=12|end_char=15	O
+2	clock	clock	NOUN	NN	Number=Sing	1	_	_	start_char=16|end_char=21	B-feature
+3	widget	widget	NOUN	NN	Number=Sing	2	_	_	start_char=22|end_char=28	I-feature
+4	for	for	ADP	IN	_	3	_	_	start_char=29|end_char=32	O
+5	Android	Android	PROPN	NNP	Number=Sing	4	_	_	start_char=33|end_char=40	O
+6	,	,	PUNCT	,	_	5	_	_	start_char=41|end_char=42	O
+7	everyone	everyone	PRON	NN	Number=Sing|PronType=Tot	6	_	_	start_char=43|end_char=51	O
+8	must	must	AUX	MD	VerbForm=Fin	7	_	_	start_char=52|end_char=56	O
+9	install	install	VERB	VB	VerbForm=Inf	8	_	_	start_char=57|end_char=64	O
+10	.	.	PUNCT	.	_	9	_	_	start_char=64|end_char=65	O
+
+</doc>
+
+<doc id="7d990e96-356f-46de-bad2-6d45cbcda1eb_s1" package_name="com.devexpert.weather" app_name="Weather & Clock Widget" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	Just	just	ADV	RB	_	0	_	_	start_char=10|end_char=14	O
+2	upgraded	upgrade	VERB	VBN	Tense=Past|VerbForm=Part	1	_	_	start_char=15|end_char=23	O
+3	to	to	ADP	IN	_	2	_	_	start_char=24|end_char=26	O
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=27|end_char=28	O
+5	new	new	ADJ	JJ	Degree=Pos	4	_	_	start_char=29|end_char=32	O
+6	S22	s22	NOUN	NN	Number=Sing	5	_	_	start_char=33|end_char=36	O
+7	Ultra	Ultra	PROPN	NNP	Number=Sing	6	_	_	start_char=37|end_char=42	O
+8	and	and	CCONJ	CC	_	7	_	_	start_char=43|end_char=46	O
+9	seem	seem	VERB	VB	Mood=Imp|VerbForm=Fin	8	_	_	start_char=47|end_char=51	O
+10	to	to	PART	TO	_	9	_	_	start_char=52|end_char=54	O
+11	have	have	AUX	VB	VerbForm=Inf	10	_	_	start_char=55|end_char=59	O
+12	lost	lose	VERB	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=60|end_char=64	O
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=65|end_char=68	O
+14	ability	ability	NOUN	NN	Number=Sing	13	_	_	start_char=69|end_char=76	O
+15	to	to	PART	TO	_	14	_	_	start_char=77|end_char=79	O
+16	show	show	VERB	VB	VerbForm=Inf	15	_	_	start_char=80|end_char=84	O
+17	12	12	NUM	CD	NumForm=Digit|NumType=Card	16	_	_	start_char=85|end_char=87	O
+18	hour	hour	NOUN	NN	Number=Sing	17	_	_	start_char=88|end_char=92	O
+19	format	format	NOUN	NN	Number=Sing	18	_	_	start_char=93|end_char=99	O
+20	(	(	PUNCT	-LRB-	_	19	_	_	start_char=100|end_char=101	O
+21	zero	zero	NUM	CD	NumForm=Word|NumType=Card	20	_	_	start_char=101|end_char=105	O
+22	appears	appear	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	_	_	start_char=106|end_char=113	O
+23	as	as	ADP	IN	_	22	_	_	start_char=114|end_char=116	O
+24	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	23	_	_	start_char=117|end_char=122	O
+25	digit	digit	NOUN	NN	Number=Sing	24	_	_	start_char=123|end_char=128	O
+26	)	)	PUNCT	-RRB-	_	25	_	_	start_char=128|end_char=129	O
+27	on	on	ADP	IN	_	26	_	_	start_char=130|end_char=132	O
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=133|end_char=136	O
+29	large	large	ADJ	JJ	Degree=Pos	28	_	_	start_char=137|end_char=142	O
+30	clock	clock	NOUN	NN	Number=Sing	29	_	_	start_char=143|end_char=148	B-feature
+31	widget	widget	NOUN	NN	Number=Sing	30	_	_	start_char=149|end_char=155	I-feature
+32	.	.	PUNCT	.	_	31	_	_	start_char=155|end_char=156	O
+
+</doc>
+
+<doc id="f2026cf3-e7be-4e4d-b4b2-2bb6c41e1947_s0" package_name="com.devexpert.weather" app_name="Weather & Clock Widget" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	Best	good	ADJ	JJS	Degree=Sup	0	_	_	start_char=0|end_char=4	O
+2	combo	combo	NOUN	NN	Number=Sing	1	_	_	start_char=5|end_char=10	O
+3	weather	weather	NOUN	NN	Number=Sing	2	_	_	start_char=11|end_char=18	O
+4	clock	clock	NOUN	NN	Number=Sing	3	_	_	start_char=19|end_char=24	B-feature
+5	widget	widget	NOUN	NN	Number=Sing	4	_	_	start_char=25|end_char=31	I-feature
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	_	_	start_char=32|end_char=33	O
+7	've	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	_	_	start_char=33|end_char=36	O
+8	found	find	VERB	VBN	Tense=Past|VerbForm=Part	7	_	_	start_char=37|end_char=42	O
+
+</doc>
+
+<doc id="4a761a83-3a2d-452e-96a4-cad851746482_s1" package_name="com.devexpert.weather" app_name="Weather & Clock Widget" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=54|end_char=56	O
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=57|end_char=59	O
+3	a	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=60|end_char=61	O
+4	weather	weather	NOUN	NN	Number=Sing	3	_	_	start_char=62|end_char=69	O
+5	and	and	CCONJ	CC	_	4	_	_	start_char=70|end_char=73	O
+6	clock	clock	NOUN	NN	Number=Sing	5	_	_	start_char=74|end_char=79	B-feature
+7	widget	widget	NOUN	NN	Number=Sing	6	_	_	start_char=80|end_char=86	I-feature
+8	so	so	ADV	RB	_	7	_	_	start_char=87|end_char=89	O
+9	time	time	NOUN	NN	Number=Sing	8	_	_	start_char=90|end_char=94	O
+10	should	should	AUX	MD	VerbForm=Fin	9	_	_	start_char=95|end_char=101	O
+11	be	be	AUX	VB	VerbForm=Inf	10	_	_	start_char=102|end_char=104	O
+12	accurate	accurate	ADJ	JJ	Degree=Pos	11	_	_	start_char=105|end_char=113	O
+
+</doc>
+
+<doc id="ba137d87-975b-4a9a-af4b-60c3b3bfc34a_s0" package_name="com.mobilerise.weather.neon" app_name="Weather Neon" app_category="['Air quality']" google_play_category="['WEATHER']">
+
+1	My	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	_	_	start_char=0|end_char=2	O
+2	review	review	NOUN	NN	Number=Sing	1	_	_	start_char=3|end_char=9	O
+3	of	of	ADP	IN	_	2	_	_	start_char=10|end_char=12	O
+4	this	this	DET	DT	Number=Sing|PronType=Dem	3	_	_	start_char=13|end_char=17	O
+5	app	app	NOUN	NN	Number=Sing	4	_	_	start_char=18|end_char=21	O
+6	went	go	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=22|end_char=26	O
+7	from	from	ADP	IN	_	6	_	_	start_char=27|end_char=31	O
+8	5	5	NUM	CD	NumForm=Digit|NumType=Card	7	_	_	start_char=32|end_char=33	O
+9	stars	star	NOUN	NNS	Number=Plur	8	_	_	start_char=34|end_char=39	O
+10	down	down	ADV	RB	_	9	_	_	start_char=40|end_char=44	O
+11	to	to	ADP	IN	_	10	_	_	start_char=45|end_char=47	O
+12	3	3	NUM	CD	NumForm=Digit|NumType=Card	11	_	_	start_char=48|end_char=49	O
+13	,	,	PUNCT	,	_	12	_	_	start_char=49|end_char=50	O
+14	(	(	PUNCT	-LRB-	_	13	_	_	start_char=51|end_char=52	O
+15	which	which	PRON	WDT	PronType=Rel	14	_	_	start_char=52|end_char=57	O
+16	may	may	AUX	MD	VerbForm=Fin	15	_	_	start_char=58|end_char=61	O
+17	be	be	AUX	VB	VerbForm=Inf	16	_	_	start_char=62|end_char=64	O
+18	too	too	ADV	RB	_	17	_	_	start_char=65|end_char=68	O
+19	generous	generous	ADJ	JJ	Degree=Pos	18	_	_	start_char=69|end_char=77	O
+20	)	)	PUNCT	-RRB-	_	19	_	_	start_char=77|end_char=78	O
+21	,	,	PUNCT	,	_	20	_	_	start_char=78|end_char=79	O
+22	because	because	SCONJ	IN	_	21	_	_	start_char=80|end_char=87	O
+23	the	the	DET	DT	Definite=Def|PronType=Art	22	_	_	start_char=88|end_char=91	O
+24	widgets	widget	NOUN	NNS	Number=Plur	23	_	_	start_char=92|end_char=99	O
+25	will	will	AUX	MD	VerbForm=Fin	24	_	_	start_char=100|end_char=104	O
+26	now	now	ADV	RB	_	25	_	_	start_char=105|end_char=108	O
+27	,	,	PUNCT	,	_	26	_	_	start_char=108|end_char=109	O
+28	quite	quite	ADV	RB	_	27	_	_	start_char=110|end_char=115	O
+29	often	often	ADV	RB	_	28	_	_	start_char=116|end_char=121	O
+30	,	,	PUNCT	,	_	29	_	_	start_char=121|end_char=122	O
+31	not	not	PART	RB	_	30	_	_	start_char=123|end_char=126	O
+32	actually	actually	ADV	RB	_	31	_	_	start_char=127|end_char=135	O
+33	keep	keep	VERB	VB	VerbForm=Inf	32	_	_	start_char=136|end_char=140	O
+34	the	the	DET	DT	Definite=Def|PronType=Art	33	_	_	start_char=141|end_char=144	O
+35	right	right	ADJ	JJ	Degree=Pos	34	_	_	start_char=145|end_char=150	O
+36	time	time	NOUN	NN	Number=Sing	35	_	_	start_char=151|end_char=155	O
+37	,	,	PUNCT	,	_	36	_	_	start_char=155|end_char=156	O
+38	which	which	PRON	WDT	PronType=Rel	37	_	_	start_char=157|end_char=162	O
+39	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	38	_	_	start_char=163|end_char=165	O
+40	kind	kind	NOUN	NN	Number=Sing	39	_	_	start_char=166|end_char=170	O
+41	of	of	ADP	IN	_	40	_	_	start_char=171|end_char=173	O
+42	important	important	ADJ	JJ	Degree=Pos	41	_	_	start_char=174|end_char=183	O
+43	for	for	ADP	IN	_	42	_	_	start_char=184|end_char=187	O
+44	a	a	DET	DT	Definite=Ind|PronType=Art	43	_	_	start_char=188|end_char=189	O
+45	clock	clock	NOUN	NN	Number=Sing	44	_	_	start_char=190|end_char=195	B-feature
+46	widget	widget	NOUN	NN	Number=Sing	45	_	_	start_char=196|end_char=202	I-feature
+47	to	to	PART	TO	_	46	_	_	start_char=203|end_char=205	O
+48	do	do	VERB	VB	VerbForm=Inf	47	_	_	start_char=206|end_char=208	O
+49	!	!	PUNCT	.	_	48	_	_	start_char=208|end_char=209	O
+
+</doc>
+
+<doc id="7b25c6a2-f02f-4683-a9aa-8e7d0c46d4ec_s0" package_name="com.aws.android.tsunami" app_name="Weather Widget by WeatherBug" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	Poorly	poorly	ADV	RB	_	0	_	_	start_char=0|end_char=6	O
+2	designed	design	VERB	VBN	Tense=Past|VerbForm=Part	1	_	_	start_char=7|end_char=15	O
+3	,	,	PUNCT	,	_	2	_	_	start_char=15|end_char=16	O
+4	treats	treat	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=17|end_char=23	O
+5	pollen	pollen	NOUN	NN	Number=Sing	4	_	_	start_char=24|end_char=30	O
+6	same	same	ADJ	JJ	Degree=Pos	5	_	_	start_char=31|end_char=35	O
+7	as	as	ADP	IN	_	6	_	_	start_char=36|end_char=38	O
+8	tornado	tornado	NOUN	NN	Number=Sing	7	_	_	start_char=39|end_char=46	O
+9	for	for	ADP	IN	_	8	_	_	start_char=47|end_char=50	O
+10	alarms	alarm	NOUN	NNS	Number=Plur	9	_	_	start_char=51|end_char=57	B-feature
+11	.	.	PUNCT	.	_	10	_	_	start_char=57|end_char=58	O
+
+</doc>
+
+<doc id="7b25c6a2-f02f-4683-a9aa-8e7d0c46d4ec_s4" package_name="com.aws.android.tsunami" app_name="Weather Widget by WeatherBug" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	Absolutely	absolutely	ADV	RB	_	0	_	_	start_char=191|end_char=201	O
+2	ridiculous	ridiculous	ADJ	JJ	Degree=Pos	1	_	_	start_char=202|end_char=212	O
+3	that	that	SCONJ	IN	_	2	_	_	start_char=213|end_char=217	O
+4	alarms	alarm	NOUN	NNS	Number=Plur	3	_	_	start_char=218|end_char=224	B-feature
+5	show	show	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=225|end_char=229	O
+6	for	for	ADP	IN	_	5	_	_	start_char=230|end_char=233	O
+7	common	common	ADJ	JJ	Degree=Pos	6	_	_	start_char=234|end_char=240	O
+8	sense	sense	NOUN	NN	Number=Sing	7	_	_	start_char=241|end_char=246	O
+9	items	item	NOUN	NNS	Number=Plur	8	_	_	start_char=247|end_char=252	O
+10	.	.	PUNCT	.	_	9	_	_	start_char=252|end_char=253	O
+
+</doc>
+
+<doc id="1666b089-7df0-4b8e-9da6-0fd3d71e78be_s1" package_name="com.aws.android.tsunami" app_name="Weather Widget by WeatherBug" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=82|end_char=83	O
+2	love	love	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=84|end_char=88	O
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=89|end_char=92	O
+4	five	five	NUM	CD	NumForm=Word|NumType=Card	3	_	_	start_char=93|end_char=97	O
+5	day	day	NOUN	NN	Number=Sing	4	_	_	start_char=98|end_char=101	O
+6	forecast	forecast	NOUN	NN	Number=Sing	5	_	_	start_char=102|end_char=110	O
+7	with	with	ADP	IN	_	6	_	_	start_char=111|end_char=115	O
+8	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	_	_	start_char=116|end_char=118	O
+9	next	next	ADJ	JJ	Degree=Pos	8	_	_	start_char=119|end_char=123	O
+10	alarm	alarm	NOUN	NN	Number=Sing	9	_	_	start_char=124|end_char=129	B-feature
+11	visible	visible	ADJ	JJ	Degree=Pos	10	_	_	start_char=130|end_char=137	O
+12	.	.	PUNCT	.	_	11	_	_	start_char=137|end_char=138	O
+
+</doc>
+
+<doc id="995d15bd-fa2f-417b-91e6-f403ab3e0a17_s2" package_name="com.aws.android.tsunami" app_name="Weather Widget by WeatherBug" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=103|end_char=104	O
+2	've	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=104|end_char=107	O
+3	had	have	VERB	VBN	Tense=Past|VerbForm=Part	2	_	_	start_char=108|end_char=111	O
+4	this	this	DET	DT	Number=Sing|PronType=Dem	3	_	_	start_char=112|end_char=116	O
+5	app	app	NOUN	NN	Number=Sing	4	_	_	start_char=117|end_char=120	O
+6	for	for	ADP	IN	_	5	_	_	start_char=121|end_char=124	O
+7	years	year	NOUN	NNS	Number=Plur	6	_	_	start_char=125|end_char=130	O
+8	and	and	CCONJ	CC	_	7	_	_	start_char=131|end_char=134	O
+9	love	love	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	_	_	start_char=135|end_char=139	O
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=140|end_char=143	O
+11	5	5	NUM	CD	NumForm=Digit|NumType=Card	10	_	_	start_char=144|end_char=145	O
+12	day	day	NOUN	NN	Number=Sing	11	_	_	start_char=146|end_char=149	O
+13	forecast	forecast	NOUN	NN	Number=Sing	12	_	_	start_char=150|end_char=158	O
+14	,	,	PUNCT	,	_	13	_	_	start_char=158|end_char=159	O
+15	date	date	NOUN	NN	Number=Sing	14	_	_	start_char=160|end_char=164	O
+16	,	,	PUNCT	,	_	15	_	_	start_char=164|end_char=165	O
+17	time	time	NOUN	NN	Number=Sing	16	_	_	start_char=166|end_char=170	O
+18	,	,	PUNCT	,	_	17	_	_	start_char=170|end_char=171	O
+19	alarm	alarm	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	18	_	_	start_char=172|end_char=177	B-feature
+20	everything	everything	PRON	NN	Number=Sing|PronType=Tot	19	_	_	start_char=178|end_char=188	O
+21	about	about	ADP	IN	_	20	_	_	start_char=189|end_char=194	O
+22	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	_	_	start_char=195|end_char=197	O
+23	until	until	ADP	IN	_	22	_	_	start_char=198|end_char=203	O
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=204|end_char=207	O
+25	last	last	ADJ	JJ	Degree=Pos	24	_	_	start_char=208|end_char=212	O
+26	update	update	NOUN	NN	Number=Sing	25	_	_	start_char=213|end_char=219	O
+27	.	.	PUNCT	.	_	26	_	_	start_char=219|end_char=220	O
+
+</doc>
+
+<doc id="11b3fc14-d29f-479c-9f90-78e2ff306057_s1" package_name="com.aws.android.tsunami" app_name="Weather Widget by WeatherBug" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=32|end_char=33	O
+2	can't	can't	AUX	MD	VerbForm=Fin	1	_	_	start_char=34|end_char=39	O
+3	find	find	VERB	VB	VerbForm=Inf	2	_	_	start_char=40|end_char=44	O
+4	any	any	DET	DT	_	3	_	_	start_char=45|end_char=48	O
+5	other	other	ADJ	JJ	Degree=Pos	4	_	_	start_char=49|end_char=54	O
+6	weather	weather	NOUN	NN	Number=Sing	5	_	_	start_char=55|end_char=62	O
+7	/	/	SYM	,	_	6	_	_	start_char=62|end_char=63	O
+8	clock	clock	NOUN	NN	Number=Sing	7	_	_	start_char=63|end_char=68	B-feature
+9	widget	widget	NOUN	NN	Number=Sing	8	_	_	start_char=69|end_char=75	I-feature
+10	that	that	PRON	WDT	PronType=Rel	9	_	_	start_char=76|end_char=80	O
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=81|end_char=83	O
+12	near	near	ADV	RB	_	11	_	_	start_char=84|end_char=88	O
+13	as	as	ADV	RB	_	12	_	_	start_char=89|end_char=91	O
+14	good	good	ADJ	JJ	Degree=Pos	13	_	_	start_char=92|end_char=96	O
+15	as	as	ADP	IN	_	14	_	_	start_char=97|end_char=99	O
+16	this	this	DET	DT	Number=Sing|PronType=Dem	15	_	_	start_char=100|end_char=104	O
+17	one	one	NOUN	NN	Number=Sing	16	_	_	start_char=105|end_char=108	O
+18	.	.	PUNCT	.	_	17	_	_	start_char=108|end_char=109	O
+
+</doc>
+
+<doc id="452789ce-e7d1-4c8b-8c95-bb4821365369_s2" package_name="com.aws.android.tsunami" app_name="Weather Widget by WeatherBug" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	Not	not	PART	RB	_	0	_	_	start_char=75|end_char=78	O
+2	even	even	ADV	RB	_	1	_	_	start_char=79|end_char=83	O
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=84|end_char=87	O
+4	alarm	alarm	NOUN	NN	Number=Sing	3	_	_	start_char=88|end_char=93	B-feature
+5	.	.	PUNCT	.	_	4	_	_	start_char=93|end_char=94	O
+
+</doc>
+
+<doc id="01891585-51e9-4734-9328-b61aa01ed01f_s1" package_name="com.aws.android.tsunami" app_name="Weather Widget by WeatherBug" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	Widget	widget	NOUN	NN	Number=Sing	0	_	_	start_char=49|end_char=55	O
+2	never	never	ADV	RB	_	1	_	_	start_char=56|end_char=61	O
+3	updates	update	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=62|end_char=69	O
+4	and	and	CCONJ	CC	_	3	_	_	start_char=70|end_char=73	O
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	_	_	start_char=74|end_char=77	O
+6	can't	can't	AUX	MD	VerbForm=Fin	5	_	_	start_char=78|end_char=83	O
+7	click	click	VERB	VB	VerbForm=Inf	6	_	_	start_char=84|end_char=89	O
+8	on	on	ADP	IN	_	7	_	_	start_char=90|end_char=92	O
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=93|end_char=96	O
+10	clock	clock	NOUN	NN	Number=Sing	9	_	_	start_char=97|end_char=102	O
+11	and	and	CCONJ	CC	_	10	_	_	start_char=103|end_char=106	O
+12	choose	choose	VERB	VB	VerbForm=Inf	11	_	_	start_char=107|end_char=113	O
+13	alarms	alarm	NOUN	NNS	Number=Plur	12	_	_	start_char=114|end_char=120	B-feature
+14	like	like	ADP	IN	_	13	_	_	start_char=121|end_char=125	O
+15	before	before	ADV	RB	_	14	_	_	start_char=126|end_char=132	O
+16	.	.	PUNCT	.	_	15	_	_	start_char=132|end_char=133	O
+
+</doc>
+
+<doc id="aa3705bf-2bd5-42cf-b9d0-c5e72c2219f5_s0" package_name="wangdaye.com.geometricweather" app_name="Geometric Weather" app_category="['GPS/Maps', 'Air quality']" google_play_category="['WEATHER']">
+
+1	Really	really	ADV	RB	_	0	_	_	start_char=0|end_char=6	O
+2	nice	nice	ADJ	JJ	Degree=Pos	1	_	_	start_char=7|end_char=11	O
+3	weather	weather	NOUN	NN	Number=Sing	2	_	_	start_char=12|end_char=19	O
+4	app	app	NOUN	NN	Number=Sing	3	_	_	start_char=20|end_char=23	O
+5	,	,	PUNCT	,	_	4	_	_	start_char=23|end_char=24	O
+6	one	one	NUM	CD	NumForm=Word|NumType=Card	5	_	_	start_char=25|end_char=28	O
+7	of	of	ADP	IN	_	6	_	_	start_char=29|end_char=31	O
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=32|end_char=35	O
+9	best	good	ADJ	JJS	Degree=Sup	8	_	_	start_char=36|end_char=40	O
+10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	_	_	start_char=41|end_char=42	O
+11	've	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	_	_	start_char=42|end_char=45	O
+12	tried	try	VERB	VBN	Tense=Past|VerbForm=Part	11	_	_	start_char=46|end_char=51	O
+13	also	also	ADV	RB	_	12	_	_	start_char=52|end_char=56	O
+14	with	with	ADP	IN	_	13	_	_	start_char=57|end_char=61	O
+15	nice	nice	ADJ	JJ	Degree=Pos	14	_	_	start_char=62|end_char=66	O
+16	clock	clock	NOUN	NN	Number=Sing	15	_	_	start_char=67|end_char=72	B-feature
+17	widget	widget	NOUN	NN	Number=Sing	16	_	_	start_char=73|end_char=79	I-feature
+18	.	.	PUNCT	.	_	17	_	_	start_char=79|end_char=80	O
+
+</doc>
+
+<doc id="48090ab5-03c2-41f2-a5a3-1cbd7a000166_s0" package_name="com.appdlab.radarexpress" app_name="RadarX: Weather Radar/Forecast" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	Very	very	ADV	RB	_	0	_	_	start_char=0|end_char=4	O
+2	basic	basic	ADJ	JJ	Degree=Pos	1	_	_	start_char=5|end_char=10	O
+3	without	without	ADP	IN	_	2	_	_	start_char=11|end_char=18	O
+4	audible	audible	ADJ	JJ	Degree=Pos	3	_	_	start_char=19|end_char=26	O
+5	alarms	alarm	NOUN	NNS	Number=Plur	4	_	_	start_char=27|end_char=33	B-feature
+6	of	of	ADP	IN	_	5	_	_	start_char=34|end_char=36	O
+7	approaching	approach	VERB	VBG	VerbForm=Ger	6	_	_	start_char=37|end_char=48	O
+8	storms	storm	NOUN	NNS	Number=Plur	7	_	_	start_char=49|end_char=55	O
+9	.	.	PUNCT	.	_	8	_	_	start_char=55|end_char=56	O
+
+</doc>
+
+<doc id="f1cb2418-3826-4f7f-9c3b-9a6f922fd497_s0" package_name="com.devexpert.weatheradfree" app_name="Weather & Clock Widget Plus" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	Also	also	ADV	RB	_	0	_	_	start_char=0|end_char=4	O
+2	allows	allow	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=5|end_char=11	O
+3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	_	_	start_char=12|end_char=15	O
+4	to	to	PART	TO	_	3	_	_	start_char=16|end_char=18	O
+5	access	access	VERB	VB	VerbForm=Inf	4	_	_	start_char=19|end_char=25	O
+6	Calendar	Calendar	PROPN	NNP	Number=Sing	5	_	_	start_char=26|end_char=34	O
+7	Alarms	alarm	NOUN	NNS	Number=Plur	6	_	_	start_char=35|end_char=41	B-feature
+8	and	and	CCONJ	CC	_	7	_	_	start_char=42|end_char=45	O
+9	Weather	weather	NOUN	NN	Number=Sing	8	_	_	start_char=46|end_char=53	O
+10	just	just	ADV	RB	_	9	_	_	start_char=54|end_char=58	O
+11	by	by	SCONJ	IN	_	10	_	_	start_char=59|end_char=61	O
+12	touching	touch	VERB	VBG	VerbForm=Ger	11	_	_	start_char=62|end_char=70	O
+13	.	.	PUNCT	.	_	12	_	_	start_char=70|end_char=71	O
+
+</doc>
+
+<doc id="e01f5bab-7bb3-408b-9501-58a6160aefaa_s0" package_name="com.devexpert.weatheradfree" app_name="Weather & Clock Widget Plus" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=0|end_char=3	O
+2	best	good	ADJ	JJS	Degree=Sup	1	_	_	start_char=4|end_char=8	O
+3	weather	weather	NOUN	NN	Number=Sing	2	_	_	start_char=9|end_char=16	O
+4	and	and	CCONJ	CC	_	3	_	_	start_char=17|end_char=20	O
+5	clock	clock	NOUN	NN	Number=Sing	4	_	_	start_char=21|end_char=26	B-feature
+6	widget	widget	NOUN	NN	Number=Sing	5	_	_	start_char=27|end_char=33	I-feature
+7	.	.	PUNCT	.	_	6	_	_	start_char=33|end_char=34	O
+
+</doc>
+
+<doc id="d3ffe66a-70f9-4080-8a5f-f338dfc593b4_s0" package_name="com.devexpert.weatheradfree" app_name="Weather & Clock Widget Plus" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	Next	next	ADJ	JJ	Degree=Pos	0	_	_	start_char=0|end_char=4	O
+2	alarm	alarm	NOUN	NN	Number=Sing	1	_	_	start_char=5|end_char=10	B-feature
+3	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=11|end_char=15	O
+4	n't	not	PART	RB	_	3	_	_	start_char=15|end_char=18	O
+5	work	work	VERB	VB	VerbForm=Inf	4	_	_	start_char=19|end_char=23	O
+6	properly	properly	ADV	RB	_	5	_	_	start_char=24|end_char=32	O
+7	with	with	ADP	IN	_	6	_	_	start_char=33|end_char=37	O
+8	alarm	alarm	NOUN	NN	Number=Sing	7	_	_	start_char=38|end_char=43	B-feature
+9	clock	clock	NOUN	NN	Number=Sing	8	_	_	start_char=44|end_char=49	O
+10	extreme	extreme	ADJ	JJ	Degree=Pos	9	_	_	start_char=50|end_char=57	O
+11	.	.	PUNCT	.	_	10	_	_	start_char=57|end_char=58	O
+
+</doc>
+
+<doc id="f1215605-3a78-423e-a766-c29777f8b273_s0" package_name="com.devexpert.weatheradfree" app_name="Weather & Clock Widget Plus" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	Have	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	_	_	start_char=0|end_char=4	O
+2	been	be	AUX	VBN	Tense=Past|VerbForm=Part	1	_	_	start_char=5|end_char=9	O
+3	using	use	VERB	VBG	Tense=Pres|VerbForm=Part	2	_	_	start_char=10|end_char=15	O
+4	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	_	_	start_char=16|end_char=18	O
+5	for	for	ADP	IN	_	4	_	_	start_char=19|end_char=22	O
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=23|end_char=24	O
+7	while	while	NOUN	NN	Number=Sing	6	_	_	start_char=25|end_char=30	O
+8	without	without	ADP	IN	_	7	_	_	start_char=31|end_char=38	O
+9	fault	fault	NOUN	NN	Number=Sing	8	_	_	start_char=39|end_char=44	O
+10	,	,	PUNCT	,	_	9	_	_	start_char=44|end_char=45	O
+11	recently	recently	ADV	RB	_	10	_	_	start_char=46|end_char=54	O
+12	tried	try	VERB	VBN	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	11	_	_	start_char=55|end_char=60	O
+13	to	to	PART	TO	_	12	_	_	start_char=61|end_char=63	O
+14	change	change	VERB	VB	VerbForm=Inf	13	_	_	start_char=64|end_char=70	O
+15	the	the	DET	DT	Definite=Def|PronType=Art	14	_	_	start_char=71|end_char=74	O
+16	alarm	alarm	NOUN	NN	Number=Sing	15	_	_	start_char=75|end_char=80	B-feature
+17	app	app	NOUN	NN	Number=Sing	16	_	_	start_char=81|end_char=84	O
+18	which	which	PRON	WDT	PronType=Rel	17	_	_	start_char=85|end_char=90	O
+19	opens	open	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=91|end_char=96	O
+20	when	when	ADV	WRB	PronType=Int	19	_	_	start_char=97|end_char=101	O
+21	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	20	_	_	start_char=102|end_char=105	O
+22	tap	tap	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	21	_	_	start_char=106|end_char=109	O
+23	on	on	ADP	IN	_	22	_	_	start_char=110|end_char=112	O
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=113|end_char=116	O
+25	widget	widget	NOUN	NN	Number=Sing	24	_	_	start_char=117|end_char=123	O
+26	.	.	PUNCT	.	_	25	_	_	start_char=123|end_char=124	O
+
+</doc>
+
+<doc id="f1215605-3a78-423e-a766-c29777f8b273_s2" package_name="com.devexpert.weatheradfree" app_name="Weather & Clock Widget Plus" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	Hopefully	hopefully	ADV	RB	_	0	_	_	start_char=204|end_char=213	O
+2	next	next	ADJ	JJ	Degree=Pos	1	_	_	start_char=214|end_char=218	O
+3	update	update	NOUN	NN	Number=Sing	2	_	_	start_char=219|end_char=225	O
+4	allows	allow	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=226|end_char=232	O
+5	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	_	_	start_char=233|end_char=236	O
+6	to	to	PART	TO	_	5	_	_	start_char=237|end_char=239	O
+7	add	add	VERB	VB	VerbForm=Inf	6	_	_	start_char=240|end_char=243	O
+8	a	a	DET	DT	Definite=Ind|PronType=Art	7	_	_	start_char=244|end_char=245	O
+9	link	link	NOUN	NN	Number=Sing	8	_	_	start_char=246|end_char=250	O
+10	to	to	ADP	IN	_	9	_	_	start_char=251|end_char=253	O
+11	3rd	3rd	ADJ	JJ	Degree=Pos|NumType=Ord	10	_	_	start_char=254|end_char=257	O
+12	party	party	NOUN	NN	Number=Sing	11	_	_	start_char=258|end_char=263	O
+13	alarms	alarm	NOUN	NNS	Number=Plur	12	_	_	start_char=264|end_char=270	B-feature
+14	and	and	CCONJ	CC	_	13	_	_	start_char=271|end_char=274	O
+15	calendars	calendar	NOUN	NNS	Number=Plur	14	_	_	start_char=275|end_char=284	B-feature
+16	.	.	PUNCT	.	_	15	_	_	start_char=284|end_char=285	O
+
+</doc>
+
+<doc id="61b64b33-58a9-4953-b228-c6cc305f6961_s0" package_name="com.devexpert.weatheradfree" app_name="Weather & Clock Widget Plus" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	App	app	NOUN	NN	Number=Sing	0	_	_	start_char=0|end_char=3	O
+2	needs	need	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=4|end_char=9	O
+3	an	a	DET	DT	Definite=Ind|PronType=Art	2	_	_	start_char=10|end_char=12	O
+4	urgent	urgent	ADJ	JJ	Degree=Pos	3	_	_	start_char=13|end_char=19	O
+5	update	update	NOUN	NN	Number=Sing	4	_	_	start_char=20|end_char=26	O
+6	to	to	PART	TO	_	5	_	_	start_char=27|end_char=29	O
+7	fix	fix	VERB	VB	VerbForm=Inf	6	_	_	start_char=30|end_char=33	O
+8	bugs	bug	NOUN	NNS	Number=Plur	7	_	_	start_char=34|end_char=38	O
+9	..	..	PUNCT	,	_	8	_	_	start_char=38|end_char=40	O
+10	unable	unable	ADJ	JJ	Degree=Pos	9	_	_	start_char=41|end_char=47	O
+11	to	to	PART	TO	_	10	_	_	start_char=48|end_char=50	O
+12	press	press	VERB	VB	VerbForm=Inf	11	_	_	start_char=51|end_char=56	O
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=57|end_char=60	O
+14	Clock	clock	NOUN	NN	Number=Sing	13	_	_	start_char=61|end_char=66	O
+15	Face	face	NOUN	NN	Number=Sing	14	_	_	start_char=67|end_char=71	O
+16	on	on	ADP	IN	_	15	_	_	start_char=72|end_char=74	O
+17	widget	widget	NOUN	NN	Number=Sing	16	_	_	start_char=75|end_char=81	O
+18	to	to	PART	TO	_	17	_	_	start_char=82|end_char=84	O
+19	set	set	VERB	VB	VerbForm=Inf	18	_	_	start_char=85|end_char=88	O
+20	an	a	DET	DT	Definite=Ind|PronType=Art	19	_	_	start_char=89|end_char=91	O
+21	alarm	alarm	NOUN	NN	Number=Sing	20	_	_	start_char=92|end_char=97	B-feature
+22	as	as	SCONJ	IN	_	21	_	_	start_char=98|end_char=100	O
+23	this	this	PRON	DT	Number=Sing|PronType=Dem	22	_	_	start_char=101|end_char=105	O
+24	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	_	_	start_char=106|end_char=108	O
+25	not	not	PART	RB	_	24	_	_	start_char=109|end_char=112	O
+26	working	work	VERB	VBG	Tense=Pres|VerbForm=Part	25	_	_	start_char=113|end_char=120	O
+27	at	at	ADP	IN	_	26	_	_	start_char=121|end_char=123	O
+28	all	all	DET	DT	_	27	_	_	start_char=124|end_char=127	O
+29	.	.	PUNCT	.	_	28	_	_	start_char=127|end_char=128	O
+
+</doc>
+
+<doc id="08005798-b0f6-4b01-a36c-dd4e60394d26_s2" package_name="com.devexpert.weatheradfree" app_name="Weather & Clock Widget Plus" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	Keeping	keep	VERB	VBG	VerbForm=Ger	0	_	_	start_char=114|end_char=121	O
+2	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	_	_	start_char=122|end_char=124	O
+3	just	just	ADV	RB	_	2	_	_	start_char=125|end_char=129	O
+4	for	for	ADP	IN	_	3	_	_	start_char=130|end_char=133	O
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=134|end_char=137	O
+6	clock	clock	NOUN	NN	Number=Sing	5	_	_	start_char=138|end_char=143	B-feature
+7	widget	widget	NOUN	NN	Number=Sing	6	_	_	start_char=144|end_char=150	I-feature
+8	.	.	PUNCT	.	_	7	_	_	start_char=150|end_char=151	O
+
+</doc>
+
+<doc id="75abae4a-e9dc-4c0f-9f0e-3d108146f7a5_s0" package_name="com.devexpert.weatheradfree" app_name="Weather & Clock Widget Plus" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=0|end_char=1	O
+2	no	no	ADV	RB	_	1	_	_	start_char=2|end_char=4	O
+3	longer	long	ADV	RBR	Degree=Cmp	2	_	_	start_char=5|end_char=11	O
+4	can	can	AUX	MD	VerbForm=Fin	3	_	_	start_char=12|end_char=15	O
+5	set	set	VERB	VB	VerbForm=Inf	4	_	_	start_char=16|end_char=19	O
+6	Alarm	alarm	NOUN	NN	Number=Sing	5	_	_	start_char=20|end_char=25	B-feature
+7	Clock	clock	NOUN	NN	Number=Sing	6	_	_	start_char=26|end_char=31	O
+8	Xtreme	Xtreme	PROPN	NNP	Number=Sing	7	_	_	start_char=32|end_char=38	O
+9	as	as	ADP	IN	_	8	_	_	start_char=39|end_char=41	O
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=42|end_char=45	O
+11	widget	widget	NOUN	NN	Number=Sing	10	_	_	start_char=46|end_char=52	O
+12	's	's	PART	POS	_	11	_	_	start_char=52|end_char=54	O
+13	default	default	NOUN	NN	Number=Sing	12	_	_	start_char=55|end_char=62	O
+14	clock	clock	NOUN	NN	Number=Sing	13	_	_	start_char=63|end_char=68	O
+15	app	app	NOUN	NN	Number=Sing	14	_	_	start_char=69|end_char=72	O
+16	.	.	PUNCT	.	_	15	_	_	start_char=72|end_char=73	O
+
+</doc>
+
+<doc id="476a6d9b-2609-4ff8-8529-0a95287abf65_s0" package_name="com.devexpert.weatheradfree" app_name="Weather & Clock Widget Plus" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	My	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	_	_	start_char=0|end_char=2	O
+2	favorite	favorite	ADJ	JJ	Degree=Pos	1	_	_	start_char=3|end_char=11	B-feature
+3	weather	weather	NOUN	NN	Number=Sing	2	_	_	start_char=12|end_char=19	O
+4	and	and	CCONJ	CC	_	3	_	_	start_char=20|end_char=23	O
+5	clock	clock	NOUN	NN	Number=Sing	4	_	_	start_char=24|end_char=29	B-feature
+6	widget	widget	NOUN	NN	Number=Sing	5	_	_	start_char=30|end_char=36	I-feature
+7	.	.	PUNCT	.	_	6	_	_	start_char=36|end_char=37	O
+
+</doc>
+
+<doc id="98a84aee-c90e-430a-bb04-f834700ba9b0_s4" package_name="com.microsoft.amp.apps.bingweather" app_name="MSN Weather - Forecast & Maps" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=260|end_char=263	O
+2	"	"	PUNCT	``	_	1	_	_	start_char=264|end_char=265	O
+3	shake	shake	NOUN	NN	Number=Sing	2	_	_	start_char=265|end_char=270	O
+4	to	to	PART	TO	_	3	_	_	start_char=271|end_char=273	O
+5	submit	submit	VERB	VB	VerbForm=Inf	4	_	_	start_char=274|end_char=280	O
+6	feedback	feedback	NOUN	NN	Number=Sing	5	_	_	start_char=281|end_char=289	O
+7	"	"	PUNCT	''	_	6	_	_	start_char=289|end_char=290	O
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=291|end_char=294	O
+9	appearing	appear	VERB	VBG	Tense=Pres|VerbForm=Part	8	_	_	start_char=295|end_char=304	O
+10	constantly	constantly	ADV	RB	_	9	_	_	start_char=305|end_char=315	O
+11	,	,	PUNCT	,	_	10	_	_	start_char=315|end_char=316	O
+12	even	even	ADV	RB	_	11	_	_	start_char=317|end_char=321	O
+13	though	though	SCONJ	IN	_	12	_	_	start_char=322|end_char=328	O
+14	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	13	_	_	start_char=329|end_char=331	O
+15	phone	phone	NOUN	NN	Number=Sing	14	_	_	start_char=332|end_char=337	O
+16	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	_	_	start_char=338|end_char=341	O
+17	lying	lie	VERB	VBG	Tense=Pres|VerbForm=Part	16	_	_	start_char=342|end_char=347	O
+18	perfectly	perfectly	ADV	RB	_	17	_	_	start_char=348|end_char=357	O
+19	still	still	ADV	RB	_	18	_	_	start_char=358|end_char=363	O
+20	,	,	PUNCT	,	_	19	_	_	start_char=363|end_char=364	O
+21	rendering	rendering	VERB	VBG	VerbForm=Ger	20	_	_	start_char=365|end_char=374	B-feature
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=375|end_char=378	O
+23	app	app	NOUN	NN	Number=Sing	22	_	_	start_char=379|end_char=382	O
+24	unusable	unusable	ADJ	JJ	Degree=Pos	23	_	_	start_char=383|end_char=391	O
+25	.	.	PUNCT	.	_	24	_	_	start_char=391|end_char=392	O
+
+</doc>
+
+<doc id="fdffbc02-e568-4793-8a1d-d9a1fd3001e9_s0" package_name="com.microsoft.amp.apps.bingweather" app_name="MSN Weather - Forecast & Maps" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=0|end_char=3	O
+2	search	search	NOUN	NN	Number=Sing	1	_	_	start_char=4|end_char=10	O
+3	option	option	NOUN	NN	Number=Sing	2	_	_	start_char=11|end_char=17	O
+4	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=18|end_char=22	O
+5	not	not	PART	RB	_	4	_	_	start_char=23|end_char=26	O
+6	appear	appear	VERB	VB	VerbForm=Inf	5	_	_	start_char=27|end_char=33	O
+7	to	to	PART	TO	_	6	_	_	start_char=34|end_char=36	O
+8	work	work	VERB	VB	VerbForm=Inf	7	_	_	start_char=37|end_char=41	O
+9	therefore	therefore	ADV	RB	_	8	_	_	start_char=42|end_char=51	O
+10	rendering	rendering	VERB	VBG	VerbForm=Ger	9	_	_	start_char=52|end_char=61	B-feature
+11	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	_	_	start_char=62|end_char=64	O
+12	impossible	impossible	ADJ	JJ	Degree=Pos	11	_	_	start_char=65|end_char=75	O
+13	to	to	PART	TO	_	12	_	_	start_char=76|end_char=78	O
+14	use	use	VERB	VB	VerbForm=Inf	13	_	_	start_char=79|end_char=82	O
+15	widgets	widget	NOUN	NNS	Number=Plur	14	_	_	start_char=83|end_char=90	O
+16	for	for	ADP	IN	_	15	_	_	start_char=91|end_char=94	O
+17	specific	specific	ADJ	JJ	Degree=Pos	16	_	_	start_char=95|end_char=103	O
+18	locations	location	NOUN	NNS	Number=Plur	17	_	_	start_char=104|end_char=113	O
+19	.	.	PUNCT	.	_	18	_	_	start_char=113|end_char=114	O
+
+</doc>
+
+<doc id="9e4adbf6-a014-4476-856b-464cb0503e58_s1" package_name="com.severeweatheralerts" app_name="Severe Weather Alerts" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=33|end_char=34	O
+2	love	love	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=35|end_char=39	O
+3	how	how	ADV	WRB	PronType=Int	2	_	_	start_char=40|end_char=43	O
+4	easy	easy	ADJ	JJ	Degree=Pos	3	_	_	start_char=44|end_char=48	O
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	_	_	start_char=49|end_char=51	O
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=52|end_char=54	O
+7	to	to	PART	TO	_	6	_	_	start_char=55|end_char=57	O
+8	review	review	VERB	VB	VerbForm=Inf	7	_	_	start_char=58|end_char=64	O
+9	and	and	CCONJ	CC	_	8	_	_	start_char=65|end_char=68	O
+10	set	set	VERB	VB	VerbForm=Inf	9	_	_	start_char=69|end_char=72	O
+11	alarm	alarm	NOUN	NN	Number=Sing	10	_	_	start_char=73|end_char=78	B-feature
+12	levels	level	NOUN	NNS	Number=Plur	11	_	_	start_char=79|end_char=85	O
+13	.	.	PUNCT	.	_	12	_	_	start_char=85|end_char=86	O
+
+</doc>
+
+<doc id="9e4adbf6-a014-4476-856b-464cb0503e58_s3" package_name="com.severeweatheralerts" app_name="Severe Weather Alerts" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	Only	only	ADV	RB	_	0	_	_	start_char=137|end_char=141	O
+2	additional	additional	ADJ	JJ	Degree=Pos	1	_	_	start_char=142|end_char=152	O
+3	feature	feature	NOUN	NN	Number=Sing	2	_	_	start_char=153|end_char=160	O
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	_	_	start_char=161|end_char=162	O
+5	would	would	AUX	MD	VerbForm=Fin	4	_	_	start_char=163|end_char=168	O
+6	ask	ask	VERB	VB	VerbForm=Inf	5	_	_	start_char=169|end_char=172	O
+7	for	for	ADP	IN	_	6	_	_	start_char=173|end_char=176	O
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=177|end_char=179	O
+9	to	to	PART	TO	_	8	_	_	start_char=180|end_char=182	O
+10	set	set	VERB	VB	VerbForm=Inf	9	_	_	start_char=183|end_char=186	O
+11	multiple	multiple	ADJ	JJ	Degree=Pos	10	_	_	start_char=187|end_char=195	O
+12	locations	location	NOUN	NNS	Number=Plur	11	_	_	start_char=196|end_char=205	O
+13	to	to	PART	TO	_	12	_	_	start_char=206|end_char=208	O
+14	watch	watch	VERB	VB	VerbForm=Inf	13	_	_	start_char=209|end_char=214	O
+15	(	(	PUNCT	-LRB-	_	14	_	_	start_char=215|end_char=216	O
+16	preferrably	preferrably	ADV	RB	_	15	_	_	start_char=216|end_char=227	O
+17	with	with	ADP	IN	_	16	_	_	start_char=228|end_char=232	O
+18	their	they	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	17	_	_	start_char=233|end_char=238	O
+19	own	own	ADJ	JJ	Degree=Pos	18	_	_	start_char=239|end_char=242	O
+20	alarm	alarm	NOUN	NN	Number=Sing	19	_	_	start_char=243|end_char=248	B-feature
+21	settings	setting	NOUN	NNS	Number=Plur	20	_	_	start_char=249|end_char=257	O
+22	)	)	PUNCT	-RRB-	_	21	_	_	start_char=257|end_char=258	O
+23	.	.	PUNCT	.	_	22	_	_	start_char=258|end_char=259	O
+
+</doc>
+
+<doc id="74dcc470-ab52-4035-aab3-1fc919ca8196_s1" package_name="com.severeweatheralerts" app_name="Severe Weather Alerts" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	SWA	SWA	PROPN	NNP	Number=Sing	0	_	_	start_char=45|end_char=48	O
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=49|end_char=51	O
+3	VERY	very	ADV	RB	_	2	_	_	start_char=52|end_char=56	O
+4	on	on	ADP	IN	_	3	_	_	start_char=57|end_char=59	O
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=60|end_char=63	O
+6	ball	ball	NOUN	NN	Number=Sing	5	_	_	start_char=64|end_char=68	O
+7	,	,	PUNCT	,	_	6	_	_	start_char=68|end_char=69	O
+8	sounding	sound	VERB	VBG	VerbForm=Ger	7	_	_	start_char=70|end_char=78	O
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=79|end_char=82	O
+10	alarm	alarm	NOUN	NN	Number=Sing	9	_	_	start_char=83|end_char=88	B-feature
+11	no	no	DET	DT	_	10	_	_	start_char=89|end_char=91	O
+12	more	more	ADJ	JJR	Degree=Cmp	11	_	_	start_char=92|end_char=96	O
+13	than	than	ADP	IN	_	12	_	_	start_char=97|end_char=101	O
+14	a	a	DET	DT	Definite=Ind|PronType=Art	13	_	_	start_char=102|end_char=103	O
+15	minute	minute	NOUN	NN	Number=Sing	14	_	_	start_char=104|end_char=110	O
+16	or	or	CCONJ	CC	_	15	_	_	start_char=111|end_char=113	O
+17	two	two	NUM	CD	NumForm=Word|NumType=Card	16	_	_	start_char=114|end_char=117	O
+18	within	within	ADP	IN	_	17	_	_	start_char=118|end_char=124	O
+19	the	the	DET	DT	Definite=Def|PronType=Art	18	_	_	start_char=125|end_char=128	O
+20	time	time	NOUN	NN	Number=Sing	19	_	_	start_char=129|end_char=133	O
+21	of	of	ADP	IN	_	20	_	_	start_char=134|end_char=136	O
+22	warning	warning	NOUN	NN	Number=Sing	21	_	_	start_char=137|end_char=144	O
+23	issuance	issuance	NOUN	NN	Number=Sing	22	_	_	start_char=145|end_char=153	O
+24	.	.	PUNCT	.	_	23	_	_	start_char=153|end_char=154	O
+
+</doc>
+
+<doc id="4311168a-05e3-4ed2-b954-cd9865567d29_s0" package_name="com.severeweatheralerts" app_name="Severe Weather Alerts" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	Despite	despite	SCONJ	IN	_	0	_	_	start_char=0|end_char=7	O
+2	being	be	AUX	VBG	VerbForm=Ger	1	_	_	start_char=8|end_char=13	O
+3	set	set	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	_	_	start_char=14|end_char=17	O
+4	to	to	PART	TO	_	3	_	_	start_char=18|end_char=20	O
+5	play	play	VERB	VB	VerbForm=Inf	4	_	_	start_char=21|end_char=25	O
+6	a	a	DET	DT	Definite=Ind|PronType=Art	5	_	_	start_char=26|end_char=27	O
+7	"	"	PUNCT	``	_	6	_	_	start_char=28|end_char=29	O
+8	blaring	blare	VERB	VBG	VerbForm=Ger	7	_	_	start_char=29|end_char=36	O
+9	"	"	PUNCT	''	_	8	_	_	start_char=36|end_char=37	O
+10	alarm	alarm	NOUN	NN	Number=Sing	9	_	_	start_char=38|end_char=43	B-feature
+11	in	in	ADP	IN	_	10	_	_	start_char=44|end_char=46	O
+12	emergency	emergency	NOUN	NN	Number=Sing	11	_	_	start_char=47|end_char=56	O
+13	situations	situation	NOUN	NNS	Number=Plur	12	_	_	start_char=57|end_char=67	O
+14	,	,	PUNCT	,	_	13	_	_	start_char=67|end_char=68	O
+15	this	this	DET	DT	Number=Sing|PronType=Dem	14	_	_	start_char=69|end_char=73	O
+16	app	app	NOUN	NN	Number=Sing	15	_	_	start_char=74|end_char=77	O
+17	stayed	stay	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	_	_	start_char=78|end_char=84	O
+18	completely	completely	ADV	RB	_	17	_	_	start_char=85|end_char=95	O
+19	silent	silent	ADJ	JJ	Degree=Pos	18	_	_	start_char=96|end_char=102	O
+20	while	while	SCONJ	IN	_	19	_	_	start_char=103|end_char=108	O
+21	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	20	_	_	start_char=109|end_char=110	O
+22	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	_	_	start_char=111|end_char=114	O
+23	in	in	ADP	IN	_	22	_	_	start_char=115|end_char=117	O
+24	the	the	DET	DT	Definite=Def|PronType=Art	23	_	_	start_char=118|end_char=121	O
+25	direct	direct	ADJ	JJ	Degree=Pos	24	_	_	start_char=122|end_char=128	O
+26	path	path	NOUN	NN	Number=Sing	25	_	_	start_char=129|end_char=133	O
+27	of	of	ADP	IN	_	26	_	_	start_char=134|end_char=136	O
+28	major	major	ADJ	JJ	Degree=Pos	27	_	_	start_char=137|end_char=142	O
+29	tornados	tornado	NOUN	NNS	Number=Plur	28	_	_	start_char=143|end_char=151	O
+30	and	and	CCONJ	CC	_	29	_	_	start_char=152|end_char=155	O
+31	extreme	extreme	ADJ	JJ	Degree=Pos	30	_	_	start_char=156|end_char=163	O
+32	storms	storm	NOUN	NNS	Number=Plur	31	_	_	start_char=164|end_char=170	O
+33	on	on	ADP	IN	_	32	_	_	start_char=171|end_char=173	O
+34	the	the	DET	DT	Definite=Def|PronType=Art	33	_	_	start_char=174|end_char=177	O
+35	night	night	NOUN	NN	Number=Sing	34	_	_	start_char=178|end_char=183	O
+36	of	of	ADP	IN	_	35	_	_	start_char=184|end_char=186	O
+37	december	december	PROPN	NNP	Number=Sing	36	_	_	start_char=187|end_char=195	O
+38	10th	10th	NOUN	NN	NumType=Ord|Number=Sing	37	_	_	start_char=196|end_char=200	O
+39	.	.	PUNCT	.	_	38	_	_	start_char=200|end_char=201	O
+
+</doc>
+
+<doc id="602160cb-c185-4780-a521-11a91e49ae29_s3" package_name="com.wwbt.android.weather" app_name="NBC12 First Alert Weather" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	start_char=70|end_char=74	O
+2	give	give	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=75|end_char=79	O
+3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	_	_	start_char=80|end_char=83	O
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=84|end_char=85	O
+5	loud	loud	ADJ	JJ	Degree=Pos	4	_	_	start_char=86|end_char=90	O
+6	alarm	alarm	NOUN	NN	Number=Sing	5	_	_	start_char=91|end_char=96	B-feature
+7	on	on	ADP	IN	_	6	_	_	start_char=97|end_char=99	O
+8	your	you	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	7	_	_	start_char=100|end_char=104	O
+9	phone	phone	NOUN	NN	Number=Sing	8	_	_	start_char=105|end_char=110	O
+10	a	a	DET	DT	Definite=Ind|PronType=Art	9	_	_	start_char=111|end_char=112	O
+11	head	head	NOUN	NN	Number=Sing	10	_	_	start_char=113|end_char=117	O
+12	of	of	ADP	IN	_	11	_	_	start_char=118|end_char=120	O
+13	time	time	NOUN	NN	Number=Sing	12	_	_	start_char=121|end_char=125	O
+14	to	to	PART	TO	_	13	_	_	start_char=126|end_char=128	O
+15	take	take	VERB	VB	VerbForm=Inf	14	_	_	start_char=129|end_char=133	O
+16	shelter	shelter	NOUN	NN	Number=Sing	15	_	_	start_char=134|end_char=141	O
+17	now	now	ADV	RB	_	16	_	_	start_char=142|end_char=145	O
+18	in	in	ADP	IN	_	17	_	_	start_char=146|end_char=148	O
+19	your	you	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	18	_	_	start_char=149|end_char=153	O
+20	area	area	NOUN	NN	Number=Sing	19	_	_	start_char=154|end_char=158	O
+21	.	.	PUNCT	.	_	20	_	_	start_char=158|end_char=159	O
+
+</doc>
+
+<doc id="75698c81-65b4-4c28-8905-49372a3be09c_s0" package_name="com.apalon.weatherlive.free" app_name="Weather Live: Weather Forecast" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	Needs	need	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	start_char=0|end_char=5	O
+2	a	a	DET	DT	Definite=Ind|PronType=Art	1	_	_	start_char=6|end_char=7	O
+3	option	option	NOUN	NN	Number=Sing	2	_	_	start_char=8|end_char=14	O
+4	to	to	PART	TO	_	3	_	_	start_char=15|end_char=17	O
+5	remove	remove	VERB	VB	VerbForm=Inf	4	_	_	start_char=18|end_char=24	O
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=25|end_char=28	O
+7	leading	lead	VERB	VBG	VerbForm=Ger	6	_	_	start_char=29|end_char=36	O
+8	zero	zero	NUM	CD	NumForm=Word|NumType=Card	7	_	_	start_char=37|end_char=41	O
+9	on	on	ADP	IN	_	8	_	_	start_char=42|end_char=44	O
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=45|end_char=48	O
+11	clock	clock	NOUN	NN	Number=Sing	10	_	_	start_char=49|end_char=54	O
+12	along	along	ADP	IN	_	11	_	_	start_char=55|end_char=60	O
+13	with	with	SCONJ	IN	_	12	_	_	start_char=61|end_char=65	O
+14	being	be	AUX	VBG	VerbForm=Ger	13	_	_	start_char=66|end_char=71	O
+15	selected	select	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	_	_	start_char=72|end_char=80	O
+16	to	to	PART	TO	_	15	_	_	start_char=81|end_char=83	O
+17	use	use	VERB	VB	VerbForm=Inf	16	_	_	start_char=84|end_char=87	O
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=88|end_char=91	O
+19	default	default	NOUN	NN	Number=Sing	18	_	_	start_char=92|end_char=99	O
+20	alarm	alarm	NOUN	NN	Number=Sing	19	_	_	start_char=100|end_char=105	B-feature
+21	clock	clock	NOUN	NN	Number=Sing	20	_	_	start_char=106|end_char=111	O
+22	and	and	CCONJ	CC	_	21	_	_	start_char=112|end_char=115	O
+23	not	not	PART	RB	_	22	_	_	start_char=116|end_char=119	O
+24	forced	force	VERB	VBN	Tense=Past|VerbForm=Part	23	_	_	start_char=120|end_char=126	O
+25	to	to	PART	TO	_	24	_	_	start_char=127|end_char=129	O
+26	download	download	VERB	VB	VerbForm=Inf	25	_	_	start_char=130|end_char=138	O
+27	the	the	DET	DT	Definite=Def|PronType=Art	26	_	_	start_char=139|end_char=142	O
+28	MY	my	PROPN	NNP	Number=Sing	27	_	_	start_char=143|end_char=145	O
+29	Alarm	alarm	NOUN	NN	Number=Sing	28	_	_	start_char=146|end_char=151	B-feature
+30	clock	clock	NOUN	NN	Number=Sing	29	_	_	start_char=152|end_char=157	O
+31	app	app	NOUN	NN	Number=Sing	30	_	_	start_char=158|end_char=161	O
+32	.	.	PUNCT	.	_	31	_	_	start_char=161|end_char=162	O
+
+</doc>
+
+<doc id="40acab41-1cda-4892-8229-7ad2c6ab6696_s0" package_name="net.oneplus.weather" app_name="OnePlus Weather" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	Mannual	Mannual	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=7	O
+2	timer	timer	NOUN	NN	Number=Sing	1	_	_	start_char=8|end_char=13	B-feature
+3	for	for	ADP	IN	_	2	_	_	start_char=14|end_char=17	O
+4	Auto	Auto	PROPN	NNP	Number=Sing	3	_	_	start_char=18|end_char=22	O
+5	update	update	NOUN	NN	Number=Sing	4	_	_	start_char=23|end_char=29	O
+6	option	option	NOUN	NN	Number=Sing	5	_	_	start_char=30|end_char=36	O
+7	should	should	AUX	MD	VerbForm=Fin	6	_	_	start_char=37|end_char=43	O
+8	be	be	AUX	VB	VerbForm=Inf	7	_	_	start_char=44|end_char=46	O
+9	there	there	ADV	RB	PronType=Dem	8	_	_	start_char=47|end_char=52	O
+10	.	.	PUNCT	.	_	9	_	_	start_char=52|end_char=53	O
+
+</doc>
+
+<doc id="a413d5ed-6e44-47e3-8fcb-9bd9615635cd_s0" package_name="com.pfoc.myacurite" app_name="My AcuRite" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	Poor	poor	ADJ	JJ	Degree=Pos	0	_	_	start_char=0|end_char=4	O
+2	rendering	rendering	NOUN	NN	Number=Sing	1	_	_	start_char=5|end_char=14	B-feature
+3	on	on	ADP	IN	_	2	_	_	start_char=15|end_char=17	O
+4	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	_	_	start_char=18|end_char=20	O
+5	Samsung	Samsung	PROPN	NNP	Number=Sing	4	_	_	start_char=21|end_char=28	O
+6	Note	note	NOUN	NN	Number=Sing	5	_	_	start_char=29|end_char=33	O
+7	20	20	NUM	CD	NumForm=Digit|NumType=Card	6	_	_	start_char=34|end_char=36	O
+8	.	.	PUNCT	.	_	7	_	_	start_char=36|end_char=37	O
+
+</doc>
+
+<doc id="e190b6dd-cb67-45cd-9f5f-d4538be2d2fa_s0" package_name="com.weather.forecast.weatherchannel" app_name="Weather app" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	No	no	DET	DT	_	0	_	_	start_char=0|end_char=2	O
+2	wornin	wornin	NOUN	NN	Number=Sing	1	_	_	start_char=3|end_char=9	O
+3	alarms	alarm	NOUN	NNS	Number=Plur	2	_	_	start_char=10|end_char=16	B-feature
+4	hard	hard	ADJ	JJ	Degree=Pos	3	_	_	start_char=17|end_char=21	O
+5	to	to	PART	TO	_	4	_	_	start_char=22|end_char=24	O
+6	read	read	VERB	VB	VerbForm=Inf	5	_	_	start_char=25|end_char=29	O
+
+</doc>
+
+<doc id="189e301d-c5e1-4be1-bf50-a2fc0dfc8b89_s2" package_name="com.weather.forecast.weatherchannel" app_name="Weather app" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=62|end_char=64	O
+2	'd	would	AUX	MD	VerbForm=Fin	1	_	_	start_char=64|end_char=66	O
+3	be	be	AUX	VB	VerbForm=Inf	2	_	_	start_char=67|end_char=69	O
+4	great	great	ADJ	JJ	Degree=Pos	3	_	_	start_char=70|end_char=75	O
+5	to	to	PART	TO	_	4	_	_	start_char=76|end_char=78	O
+6	have	have	VERB	VB	VerbForm=Inf	5	_	_	start_char=79|end_char=83	O
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=84|end_char=87	O
+8	option	option	NOUN	NN	Number=Sing	7	_	_	start_char=88|end_char=94	O
+9	to	to	PART	TO	_	8	_	_	start_char=95|end_char=97	O
+10	touch	touch	VERB	VB	VerbForm=Inf	9	_	_	start_char=98|end_char=103	O
+11	the	the	DET	DT	Definite=Def|PronType=Art	10	_	_	start_char=104|end_char=107	O
+12	clock	clock	NOUN	NN	Number=Sing	11	_	_	start_char=108|end_char=113	O
+13	to	to	PART	TO	_	12	_	_	start_char=114|end_char=116	O
+14	bring	bring	VERB	VB	VerbForm=Inf	13	_	_	start_char=117|end_char=122	O
+15	up	up	ADP	RP	_	14	_	_	start_char=123|end_char=125	O
+16	a	a	DET	DT	Definite=Ind|PronType=Art	15	_	_	start_char=126|end_char=127	O
+17	choice	choice	NOUN	NN	Number=Sing	16	_	_	start_char=128|end_char=134	O
+18	of	of	ADP	IN	_	17	_	_	start_char=135|end_char=137	O
+19	timer	timer	NOUN	NN	Number=Sing	18	_	_	start_char=138|end_char=143	B-feature
+20	,	,	PUNCT	,	_	19	_	_	start_char=143|end_char=144	O
+21	stop	stop	VERB	VB	VerbForm=Inf	20	_	_	start_char=145|end_char=149	O
+22	watch	watch	NOUN	NN	Number=Sing	21	_	_	start_char=150|end_char=155	O
+23	,	,	PUNCT	,	_	22	_	_	start_char=155|end_char=156	O
+24	alarm	alarm	NOUN	NN	Number=Sing	23	_	_	start_char=157|end_char=162	B-feature
+25	(	(	PUNCT	-LRB-	_	24	_	_	start_char=163|end_char=164	O
+26	standard	standard	ADJ	JJ	Degree=Pos	25	_	_	start_char=164|end_char=172	O
+27	clock	clock	NOUN	NN	Number=Sing	26	_	_	start_char=173|end_char=178	O
+28	features	feature	NOUN	NNS	Number=Plur	27	_	_	start_char=179|end_char=187	O
+29	)	)	PUNCT	-RRB-	_	28	_	_	start_char=187|end_char=188	O
+30	.	.	PUNCT	.	_	29	_	_	start_char=188|end_char=189	O
+
+</doc>
+
+<doc id="10c94408-fcf8-4a8b-93d3-e3b8cfe0c3c0_s2" package_name="com.accurate.weather.forecast.live" app_name="Weather: Live radar & widgets" app_category="['Weather', 'Air quality']" google_play_category="['WEATHER']">
+
+1	One	one	NUM	CD	NumForm=Word|NumType=Card	0	_	_	start_char=83|end_char=86	O
+2	thing	thing	NOUN	NN	Number=Sing	1	_	_	start_char=87|end_char=92	O
+3	that	that	PRON	WDT	PronType=Rel	2	_	_	start_char=93|end_char=97	O
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	_	_	start_char=98|end_char=99	O
+5	think	think	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	_	_	start_char=100|end_char=105	O
+6	would	would	AUX	MD	VerbForm=Fin	5	_	_	start_char=106|end_char=111	O
+7	make	make	VERB	VB	VerbForm=Inf	6	_	_	start_char=112|end_char=116	O
+8	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	_	_	start_char=117|end_char=119	O
+9	better	good	ADJ	JJR	Degree=Cmp	8	_	_	start_char=120|end_char=126	O
+10	and	and	CCONJ	CC	_	9	_	_	start_char=127|end_char=130	O
+11	easier	easy	ADJ	JJR	Degree=Cmp	10	_	_	start_char=131|end_char=137	O
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=138|end_char=140	O
+13	widgets	widget	NOUN	NNS	Number=Plur	12	_	_	start_char=141|end_char=148	O
+14	that	that	PRON	WDT	PronType=Rel	13	_	_	start_char=149|end_char=153	O
+15	show	show	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=154|end_char=158	O
+16	time	time	NOUN	NN	Number=Sing	15	_	_	start_char=159|end_char=163	O
+17	and	and	CCONJ	CC	_	16	_	_	start_char=164|end_char=167	O
+18	weather	weather	NOUN	NN	Number=Sing	17	_	_	start_char=168|end_char=175	O
+19	should	should	AUX	MD	VerbForm=Fin	18	_	_	start_char=176|end_char=182	O
+20	feature	feature	VERB	VB	VerbForm=Inf	19	_	_	start_char=183|end_char=190	O
+21	tapping	tap	VERB	VBG	VerbForm=Ger	20	_	_	start_char=191|end_char=198	O
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=199|end_char=202	O
+23	clock	clock	NOUN	NN	Number=Sing	22	_	_	start_char=203|end_char=208	O
+24	portion	portion	NOUN	NN	Number=Sing	23	_	_	start_char=209|end_char=216	O
+25	to	to	PART	TO	_	24	_	_	start_char=217|end_char=219	O
+26	take	take	VERB	VB	VerbForm=Inf	25	_	_	start_char=220|end_char=224	O
+27	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	26	_	_	start_char=225|end_char=228	O
+28	to	to	ADP	IN	_	27	_	_	start_char=229|end_char=231	O
+29	your	you	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	28	_	_	start_char=232|end_char=236	O
+30	phone	phone	NOUN	NN	Number=Sing	29	_	_	start_char=237|end_char=242	O
+31	's	's	PART	POS	_	30	_	_	start_char=242|end_char=244	O
+32	default	default	NOUN	NN	Number=Sing	31	_	_	start_char=245|end_char=252	O
+33	clock	clock	NOUN	NN	Number=Sing	32	_	_	start_char=253|end_char=258	O
+34	app	app	NOUN	NN	Number=Sing	33	_	_	start_char=259|end_char=262	O
+35	so	so	SCONJ	IN	_	34	_	_	start_char=263|end_char=265	O
+36	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	35	_	_	start_char=266|end_char=269	O
+37	can	can	AUX	MD	VerbForm=Fin	36	_	_	start_char=270|end_char=273	O
+38	easily	easily	ADV	RB	_	37	_	_	start_char=274|end_char=280	O
+39	set	set	VERB	VB	VerbForm=Inf	38	_	_	start_char=281|end_char=284	O
+40	alarm	alarm	NOUN	NN	Number=Sing	39	_	_	start_char=285|end_char=290	B-feature
+41	etc	etc	NOUN	FW	Abbr=Yes|Number=Sing	40	_	_	start_char=291|end_char=294	O
+42	.	.	PUNCT	.	_	41	_	_	start_char=294|end_char=295	O
+
+</doc>
+
+<doc id="10c94408-fcf8-4a8b-93d3-e3b8cfe0c3c0_s4" package_name="com.accurate.weather.forecast.live" app_name="Weather: Live radar & widgets" app_category="['Weather', 'Air quality']" google_play_category="['WEATHER']">
+
+1	Also	also	ADV	RB	_	0	_	_	start_char=363|end_char=367	O
+2	would	would	AUX	MD	VerbForm=Fin	1	_	_	start_char=368|end_char=373	O
+3	be	be	AUX	VB	VerbForm=Inf	2	_	_	start_char=374|end_char=376	O
+4	great	great	ADJ	JJ	Degree=Pos	3	_	_	start_char=377|end_char=382	O
+5	if	if	SCONJ	IN	_	4	_	_	start_char=383|end_char=385	O
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=386|end_char=389	O
+7	bigger	big	ADJ	JJR	Degree=Cmp	6	_	_	start_char=390|end_char=396	O
+8	time	time	NOUN	NN	Number=Sing	7	_	_	start_char=397|end_char=401	O
+9	/	/	SYM	,	_	8	_	_	start_char=401|end_char=402	O
+10	weather	weather	NOUN	NN	Number=Sing	9	_	_	start_char=402|end_char=409	O
+11	widgets	widget	NOUN	NNS	Number=Plur	10	_	_	start_char=410|end_char=417	O
+12	show	show	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	_	_	start_char=418|end_char=422	O
+13	if	if	SCONJ	IN	_	12	_	_	start_char=423|end_char=425	O
+14	alarm	alarm	NOUN	NN	Number=Sing	13	_	_	start_char=426|end_char=431	B-feature
+15	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	_	_	start_char=432|end_char=435	O
+16	been	be	AUX	VBN	Tense=Past|VerbForm=Part	15	_	_	start_char=436|end_char=440	O
+17	set	set	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	16	_	_	start_char=441|end_char=444	O
+18	and	and	CCONJ	CC	_	17	_	_	start_char=445|end_char=448	O
+19	for	for	ADP	IN	_	18	_	_	start_char=449|end_char=452	O
+20	what	what	DET	WDT	PronType=Int	19	_	_	start_char=453|end_char=457	O
+21	time	time	NOUN	NN	Number=Sing	20	_	_	start_char=458|end_char=462	O
+22	.	.	PUNCT	.	_	21	_	_	start_char=462|end_char=463	O
+
+</doc>
+
+<doc id="3499fad0-bfdd-4b9f-addd-e99efc14d059_s1" package_name="com.accuweather.android" app_name="AccuWeather: Weather Radar" app_category="['Weather']" google_play_category="['WEATHER']">
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=129|end_char=131	O
+2	freezes	freeze	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=132|end_char=139	O
+3	and	and	CCONJ	CC	_	2	_	_	start_char=140|end_char=143	O
+4	crashes	crash	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=144|end_char=151	O
+5	during	during	ADP	IN	_	4	_	_	start_char=152|end_char=158	O
+6	open	open	ADJ	JJ	Degree=Pos	5	_	_	start_char=159|end_char=163	O
+7	,	,	PUNCT	,	_	6	_	_	start_char=163|end_char=164	O
+8	rendering	rendering	VERB	VBG	VerbForm=Ger	7	_	_	start_char=165|end_char=174	B-feature
+9	this	this	DET	DT	Number=Sing|PronType=Dem	8	_	_	start_char=175|end_char=179	O
+10	app	app	NOUN	NN	Number=Sing	9	_	_	start_char=180|end_char=183	O
+11	useless	useless	ADJ	JJ	Degree=Pos	10	_	_	start_char=184|end_char=191	O
+12	;	;	PUNCT	,	_	11	_	_	start_char=191|end_char=192	O
+13	and	and	CCONJ	CC	_	12	_	_	start_char=193|end_char=196	O
+14	none	none	NOUN	NN	Number=Sing	13	_	_	start_char=197|end_char=201	O
+15	of	of	ADP	IN	_	14	_	_	start_char=202|end_char=204	O
+16	the	the	DET	DT	Definite=Def|PronType=Art	15	_	_	start_char=205|end_char=208	O
+17	widgets	widget	NOUN	NNS	Number=Plur	16	_	_	start_char=209|end_char=216	O
+18	settings	setting	NOUN	NNS	Number=Plur	17	_	_	start_char=217|end_char=225	O
+19	stay	stay	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	_	_	start_char=226|end_char=230	O
+20	saved	save	VERB	VBN	Tense=Past|VerbForm=Part	19	_	_	start_char=231|end_char=236	O
+21	.	.	PUNCT	.	_	20	_	_	start_char=236|end_char=237	O
+
+</doc>
+
+<doc id="6d5b59fb-552e-4058-b632-261fe6767b3d_s0" package_name="app.breezometer" app_name="BreezoMeter Air Quality,Pollen" app_category="['Air quality']" google_play_category="['WEATHER']">
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=0|end_char=1	O
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=2|end_char=5	O
+3	annoyed	annoyed	ADJ	JJ	Degree=Pos	2	_	_	start_char=6|end_char=13	O
+4	that	that	SCONJ	IN	_	3	_	_	start_char=14|end_char=18	O
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	_	_	start_char=19|end_char=21	O
+6	kept	keep	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=22|end_char=26	O
+7	setting	set	VERB	VBG	VerbForm=Ger	6	_	_	start_char=27|end_char=34	O
+8	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	_	_	start_char=35|end_char=37	O
+9	alarm	alarm	NOUN	NN	Number=Sing	8	_	_	start_char=38|end_char=43	B-feature
+10	.	.	PUNCT	.	_	9	_	_	start_char=43|end_char=44	O
+
+</doc>
+
+<doc id="6d5b59fb-552e-4058-b632-261fe6767b3d_s1" package_name="app.breezometer" app_name="BreezoMeter Air Quality,Pollen" app_category="['Air quality']" google_play_category="['WEATHER']">
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=45|end_char=47	O
+2	took	take	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=48|end_char=52	O
+3	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	_	_	start_char=53|end_char=55	O
+4	a	a	DET	DT	Definite=Ind|PronType=Art	3	_	_	start_char=56|end_char=57	O
+5	while	while	NOUN	NN	Number=Sing	4	_	_	start_char=58|end_char=63	O
+6	to	to	PART	TO	_	5	_	_	start_char=64|end_char=66	O
+7	track	track	VERB	VB	VerbForm=Inf	6	_	_	start_char=67|end_char=72	O
+8	down	down	ADP	RP	_	7	_	_	start_char=73|end_char=77	O
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=78|end_char=81	O
+10	fact	fact	NOUN	NN	Number=Sing	9	_	_	start_char=82|end_char=86	O
+11	that	that	SCONJ	IN	_	10	_	_	start_char=87|end_char=91	O
+12	this	this	DET	DT	Number=Sing|PronType=Dem	11	_	_	start_char=92|end_char=96	O
+13	app	app	NOUN	NN	Number=Sing	12	_	_	start_char=97|end_char=100	O
+14	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	_	_	start_char=101|end_char=104	O
+15	responsible	responsible	ADJ	JJ	Degree=Pos	14	_	_	start_char=105|end_char=116	O
+16	for	for	ADP	IN	_	15	_	_	start_char=117|end_char=120	O
+17	the	the	DET	DT	Definite=Def|PronType=Art	16	_	_	start_char=121|end_char=124	O
+18	mystery	mystery	NOUN	NN	Number=Sing	17	_	_	start_char=125|end_char=132	O
+19	alarm	alarm	NOUN	NN	Number=Sing	18	_	_	start_char=133|end_char=138	B-feature
+20	.	.	PUNCT	.	_	19	_	_	start_char=138|end_char=139	O
+
+</doc>
+
+<doc id="79b7f12b-607b-4ebd-9faf-7d5a755e4ae4_s0" package_name="app.breezometer" app_name="BreezoMeter Air Quality,Pollen" app_category="['Air quality']" google_play_category="['WEATHER']">
+
+1	no	no	DET	DT	_	0	_	_	start_char=0|end_char=2	O
+2	user	user	NOUN	NN	Number=Sing	1	_	_	start_char=3|end_char=7	O
+3	configurable	configurable	ADJ	JJ	Degree=Pos	2	_	_	start_char=8|end_char=20	O
+4	alarm	alarm	NOUN	NN	Number=Sing	3	_	_	start_char=21|end_char=26	B-feature
+5	level	level	NOUN	NN	Number=Sing	4	_	_	start_char=27|end_char=32	O
+6	(	(	PUNCT	-LRB-	_	5	_	_	start_char=33|end_char=34	O
+7	for	for	ADP	IN	_	6	_	_	start_char=34|end_char=37	O
+8	ex.	ex.	NOUN	NN	Number=Sing	7	_	_	start_char=38|end_char=41	O
+9	at	at	ADP	IN	_	8	_	_	start_char=42|end_char=44	O
+10	150	150	NUM	CD	NumForm=Digit|NumType=Card	9	_	_	start_char=45|end_char=48	O
+11	ppm	ppm	NOUN	NN	Number=Sing	10	_	_	start_char=49|end_char=52	O
+12	)	)	PUNCT	-RRB-	_	11	_	_	start_char=52|end_char=53	O
+13	instead	instead	SCONJ	RB	_	12	_	_	start_char=54|end_char=61	O
+14	of	of	SCONJ	IN	_	13	_	_	start_char=62|end_char=64	O
+15	ringing	ring	VERB	VBG	VerbForm=Ger	14	_	_	start_char=65|end_char=72	O
+16	at	at	ADP	IN	_	15	_	_	start_char=73|end_char=75	O
+17	any	any	DET	DT	_	16	_	_	start_char=76|end_char=79	O
+18	time	time	NOUN	NN	Number=Sing	17	_	_	start_char=80|end_char=84	O
+19	.	.	PUNCT	.	_	18	_	_	start_char=84|end_char=85	O
+
+</doc>
+

@@ -1,0 +1,707 @@
+<doc id="71a1cc13-f9a9-4618-9bf4-a92a4b9af8ea_s0" package_name="com.entertaininglogixapps.gps.navigation.currency.converter.weather.map" app_name="GPS Navigation: Weather Map" app_category="['GPS/Maps']" google_play_category="['TRAVEL_AND_LOCAL']">
+
+1	GPS	GPS	PROPN	NNP	Number=Sing	0	_	_	start_char=0|end_char=3	B-feature
+2	Navigation	navigation	NOUN	NN	Number=Sing	1	_	_	start_char=4|end_char=14	I-feature
+3	download	download	NOUN	NN	Number=Sing	2	_	_	start_char=15|end_char=23	O
+
+</doc>
+
+<doc id="c8e0eee9-e78a-47bd-a31f-ff1c0c620bb5_s0" package_name="com.entertaininglogixapps.gps.navigation.direction.find.route.map.guide.pro" app_name="GPS Navigation & Map Direction" app_category="['GPS/Maps']" google_play_category="['TRAVEL_AND_LOCAL']">
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=0|end_char=1	O
+2	want	want	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2|end_char=6	O
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=7|end_char=10	O
+4	GPS	GPS	PROPN	NNP	Number=Sing	3	_	_	start_char=11|end_char=14	B-feature
+5	navigation	navigation	NOUN	NN	Number=Sing	4	_	_	start_char=15|end_char=25	I-feature
+6	app	app	NOUN	NN	Number=Sing	5	_	_	start_char=26|end_char=29	O
+7	to	to	PART	TO	_	6	_	_	start_char=30|end_char=32	O
+8	be	be	AUX	VB	VerbForm=Inf	7	_	_	start_char=33|end_char=35	O
+9	downloaded	download	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	_	_	start_char=36|end_char=46	O
+10	.	.	PUNCT	.	_	9	_	_	start_char=46|end_char=47	O
+
+</doc>
+
+<doc id="ac358a55-4a5c-485e-9c45-225f1fba34fd_s0" package_name="com.google.android.apps.mapslite" app_name="Google Maps Go" app_category="['POI Report', 'GPS/Maps']" google_play_category="['TRAVEL_AND_LOCAL']">
+
+1	Does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	start_char=0|end_char=4	O
+2	n't	not	PART	RB	_	1	_	_	start_char=4|end_char=7	O
+3	show	show	VERB	VB	VerbForm=Inf	2	_	_	start_char=8|end_char=12	O
+4	"	"	PUNCT	``	_	3	_	_	start_char=13|end_char=14	O
+5	motorcycle	motorcycle	NOUN	NN	Number=Sing	4	_	_	start_char=14|end_char=24	O
+6	"	"	PUNCT	''	_	5	_	_	start_char=24|end_char=25	O
+7	routing	routing	NOUN	NN	Number=Sing	6	_	_	start_char=26|end_char=33	B-feature
+8	option	option	NOUN	NN	Number=Sing	7	_	_	start_char=34|end_char=40	O
+
+</doc>
+
+<doc id="64b5b4c9-0e8b-4dd9-84a4-5ebb760213d8_s0" package_name="com.comuto" app_name="BlaBlaCar: Carpooling and Bus" app_category="['POI Report']" google_play_category="['TRAVEL_AND_LOCAL']">
+
+1	Very	very	ADV	RB	_	0	_	_	start_char=0|end_char=4	O
+2	useful	useful	ADJ	JJ	Degree=Pos	1	_	_	start_char=5|end_char=11	O
+3	App	app	NOUN	NN	Number=Sing	2	_	_	start_char=12|end_char=15	O
+4	,	,	PUNCT	,	_	3	_	_	start_char=15|end_char=16	O
+5	especially	especially	ADV	RB	_	4	_	_	start_char=16|end_char=26	O
+6	at	at	ADP	IN	_	5	_	_	start_char=27|end_char=29	O
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=30|end_char=33	O
+8	time	time	NOUN	NN	Number=Sing	7	_	_	start_char=34|end_char=38	O
+9	of	of	ADP	IN	_	8	_	_	start_char=39|end_char=41	O
+10	soaring	soar	VERB	VBG	VerbForm=Ger	9	_	_	start_char=42|end_char=49	O
+11	fuel	fuel	NOUN	NN	Number=Sing	10	_	_	start_char=50|end_char=54	O
+12	prices	price	NOUN	NNS	Number=Plur	11	_	_	start_char=55|end_char=61	O
+13	and	and	CCONJ	CC	_	12	_	_	start_char=62|end_char=65	O
+14	ecological	ecological	ADJ	JJ	Degree=Pos	13	_	_	start_char=66|end_char=76	B-feature
+15	concerns	concern	NOUN	NNS	Number=Plur	14	_	_	start_char=77|end_char=85	O
+16	.	.	PUNCT	.	_	15	_	_	start_char=85|end_char=86	O
+
+</doc>
+
+<doc id="0c82bf68-1321-48e7-985d-0b8e0573c4a5_s0" package_name="com.google.android.apps.navlite" app_name="Navigation for Google Maps Go" app_category="['GPS/Maps']" google_play_category="['TRAVEL_AND_LOCAL']">
+
+1	Disastrous	disastrous	ADJ	JJ	Degree=Pos	0	_	_	start_char=0|end_char=10	O
+2	would	would	AUX	MD	VerbForm=Fin	1	_	_	start_char=11|end_char=16	O
+3	love	love	VERB	VB	VerbForm=Inf	2	_	_	start_char=17|end_char=21	O
+4	to	to	PART	TO	_	3	_	_	start_char=22|end_char=24	O
+5	know	know	VERB	VB	VerbForm=Inf	4	_	_	start_char=25|end_char=29	O
+6	how	how	ADV	WRB	PronType=Int	5	_	_	start_char=30|end_char=33	O
+7	to	to	PART	TO	_	6	_	_	start_char=34|end_char=36	O
+8	change	change	VERB	VB	VerbForm=Inf	7	_	_	start_char=37|end_char=43	O
+9	this	this	DET	DT	Number=Sing|PronType=Dem	8	_	_	start_char=44|end_char=48	O
+10	routing	routing	NOUN	NN	Number=Sing	9	_	_	start_char=49|end_char=56	B-feature
+11	to	to	ADP	IN	_	10	_	_	start_char=57|end_char=59	O
+12	any	any	DET	DT	_	11	_	_	start_char=60|end_char=63	O
+13	other	other	ADJ	JJ	Degree=Pos	12	_	_	start_char=64|end_char=69	O
+14	app	app	NOUN	NN	Number=Sing	13	_	_	start_char=70|end_char=73	O
+
+</doc>
+
+<doc id="d942a0c9-4b0a-4c0f-9199-38cd559b75f6_s0" package_name="com.tripomatic" app_name="Sygic Travel Maps Trip Planner" app_category="['POI Report', 'GPS/Maps', 'Task Manager']" google_play_category="['TRAVEL_AND_LOCAL']">
+
+1	Was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	_	_	start_char=0|end_char=3	O
+2	simply	simply	ADV	RB	_	1	_	_	start_char=4|end_char=10	O
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=11|end_char=14	O
+4	best	good	ADJ	JJS	Degree=Sup	3	_	_	start_char=15|end_char=19	O
+5	,	,	PUNCT	,	_	4	_	_	start_char=19|end_char=20	O
+6	offline	offline	ADJ	JJ	Degree=Pos	5	_	_	start_char=21|end_char=28	B-feature
+7	GPS	GPS	NOUN	NN	Number=Sing	6	_	_	start_char=29|end_char=32	B-feature
+8	navigation	navigation	NOUN	NN	Number=Sing	7	_	_	start_char=33|end_char=43	I-feature
+9	application	application	NOUN	NN	Number=Sing	8	_	_	start_char=44|end_char=55	O
+10	.	.	PUNCT	.	_	9	_	_	start_char=55|end_char=56	O
+
+</doc>
+
+<doc id="b14d1e1c-4d05-47b8-b889-f34283936c94_s0" package_name="com.ilyabogdanovich.geotracker" app_name="Geo Tracker - GPS tracker" app_category="['Trail Tracking', 'POI Report', 'GPS/Maps', 'Weather']" google_play_category="['TRAVEL_AND_LOCAL']">
+
+1	Best	good	ADJ	JJS	Degree=Sup	0	_	_	start_char=0|end_char=4	O
+2	geo	geo	NOUN	NN	Number=Sing	1	_	_	start_char=5|end_char=8	O
+3	tracking	tracking	NOUN	NN	Number=Sing	2	_	_	start_char=9|end_char=17	O
+4	app	app	NOUN	NN	Number=Sing	3	_	_	start_char=18|end_char=21	O
+5	,	,	PUNCT	,	_	4	_	_	start_char=21|end_char=22	O
+6	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	_	_	start_char=23|end_char=28	O
+7	great	great	ADJ	JJ	Degree=Pos	6	_	_	start_char=29|end_char=34	O
+8	for	for	ADP	IN	_	7	_	_	start_char=35|end_char=38	O
+9	cycling	cycling	NOUN	NN	Number=Sing	8	_	_	start_char=39|end_char=46	B-feature
+10	,	,	PUNCT	,	_	9	_	_	start_char=46|end_char=47	O
+11	hiking	hiking	NOUN	NN	Number=Sing	10	_	_	start_char=48|end_char=54	O
+12	,	,	PUNCT	,	_	11	_	_	start_char=54|end_char=55	O
+13	kayaking	kayaking	NOUN	NN	Number=Sing	12	_	_	start_char=56|end_char=64	O
+14	.	.	PUNCT	.	_	13	_	_	start_char=64|end_char=65	O
+
+</doc>
+
+<doc id="495888c7-e64d-4d5a-9a13-f3be17737c91_s1" package_name="com.ilyabogdanovich.geotracker" app_name="Geo Tracker - GPS tracker" app_category="['Trail Tracking', 'POI Report', 'GPS/Maps', 'Weather']" google_play_category="['TRAVEL_AND_LOCAL']">
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=41|end_char=42	O
+2	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=43|end_char=45	O
+3	n't	not	PART	RB	_	2	_	_	start_char=45|end_char=48	O
+4	need	need	VERB	VB	VerbForm=Inf	3	_	_	start_char=49|end_char=53	O
+5	or	or	CCONJ	CC	_	4	_	_	start_char=54|end_char=56	O
+6	want	want	VERB	VB	VerbForm=Inf	5	_	_	start_char=57|end_char=61	O
+7	social	social	ADJ	JJ	Degree=Pos	6	_	_	start_char=62|end_char=68	O
+8	media	media	NOUN	NN	Number=Sing	7	_	_	start_char=69|end_char=74	O
+9	connectivity	connectivity	NOUN	NN	Number=Sing	8	_	_	start_char=75|end_char=87	O
+10	or	or	CCONJ	CC	_	9	_	_	start_char=88|end_char=90	O
+11	virtual	virtual	ADJ	JJ	Degree=Pos	10	_	_	start_char=91|end_char=98	O
+12	competition	competition	NOUN	NN	Number=Sing	11	_	_	start_char=99|end_char=110	O
+13	with	with	ADP	IN	_	12	_	_	start_char=111|end_char=115	O
+14	others	other	NOUN	NNS	Number=Plur	13	_	_	start_char=116|end_char=122	O
+15	in	in	ADP	IN	_	14	_	_	start_char=123|end_char=125	O
+16	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	15	_	_	start_char=126|end_char=128	O
+17	hiking	hiking	NOUN	NN	Number=Sing	16	_	_	start_char=129|end_char=135	O
+18	/	/	SYM	,	_	17	_	_	start_char=135|end_char=136	O
+19	cycling	cycling	NOUN	NN	Number=Sing	18	_	_	start_char=136|end_char=143	B-feature
+20	app	app	NOUN	NN	Number=Sing	19	_	_	start_char=144|end_char=147	O
+21	.	.	PUNCT	.	_	20	_	_	start_char=147|end_char=148	O
+
+</doc>
+
+<doc id="f7f63d6c-bbd8-47cb-806d-9f3b02d4b44a_s0" package_name="com.ilyabogdanovich.geotracker" app_name="Geo Tracker - GPS tracker" app_category="['Trail Tracking', 'POI Report', 'GPS/Maps', 'Weather']" google_play_category="['TRAVEL_AND_LOCAL']">
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=0|end_char=1	O
+2	use	use	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=2|end_char=5	O
+3	this	this	DET	DT	Number=Sing|PronType=Dem	2	_	_	start_char=6|end_char=10	O
+4	app	app	NOUN	NN	Number=Sing	3	_	_	start_char=11|end_char=14	O
+5	for	for	ADP	IN	_	4	_	_	start_char=15|end_char=18	O
+6	cycling	cycling	NOUN	NN	Number=Sing	5	_	_	start_char=19|end_char=26	B-feature
+7	.	.	PUNCT	.	_	6	_	_	start_char=26|end_char=27	O
+
+</doc>
+
+<doc id="69da3bbf-4870-45f6-9fc1-a81b1bd06a5d_s2" package_name="com.garmin.android.apps.phonelink" app_name="Garmin Smartphone Link" app_category="['Trail Tracking']" google_play_category="['TRAVEL_AND_LOCAL']">
+
+1	Automatically	automatically	ADV	RB	_	0	_	_	start_char=114|end_char=127	O
+2	turns	turn	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=128|end_char=133	O
+3	the	the	DET	DT	Definite=Def|PronType=Art	2	_	_	start_char=134|end_char=137	O
+4	Bluetooth	Bluetooth	PROPN	NNP	Number=Sing	3	_	_	start_char=138|end_char=147	O
+5	on	on	ADP	RP	_	4	_	_	start_char=148|end_char=150	O
+6	even	even	ADV	RB	_	5	_	_	start_char=151|end_char=155	O
+7	when	when	ADV	WRB	PronType=Int	6	_	_	start_char=156|end_char=160	O
+8	not	not	PART	RB	_	7	_	_	start_char=161|end_char=164	O
+9	using	use	VERB	VBG	VerbForm=Ger	8	_	_	start_char=165|end_char=170	O
+10	the	the	DET	DT	Definite=Def|PronType=Art	9	_	_	start_char=171|end_char=174	O
+11	GPS	GPS	PROPN	NNP	Number=Sing	10	_	_	start_char=175|end_char=178	B-feature
+12	Navigation	navigation	NOUN	NN	Number=Sing	11	_	_	start_char=179|end_char=189	I-feature
+13	device	device	NOUN	NN	Number=Sing	12	_	_	start_char=190|end_char=196	O
+14	.	.	PUNCT	.	_	13	_	_	start_char=196|end_char=197	O
+
+</doc>
+
+<doc id="92915d25-1870-4faf-bc4c-45599e6f8183_s3" package_name="com.garmin.android.apps.phonelink" app_name="Garmin Smartphone Link" app_category="['Trail Tracking']" google_play_category="['TRAVEL_AND_LOCAL']">
+
+1	The	the	DET	DT	Definite=Def|PronType=Art	0	_	_	start_char=332|end_char=335	O
+2	only	only	ADJ	JJ	Degree=Pos	1	_	_	start_char=336|end_char=340	O
+3	selling	sell	NOUN	NN	Number=Sing	2	_	_	start_char=341|end_char=348	O
+4	point	point	NOUN	NN	Number=Sing	3	_	_	start_char=349|end_char=354	O
+5	of	of	SCONJ	IN	_	4	_	_	start_char=355|end_char=357	O
+6	using	use	VERB	VBG	VerbForm=Ger	5	_	_	start_char=358|end_char=363	O
+7	a	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=364|end_char=365	O
+8	standalone	standalone	ADJ	JJ	Degree=Pos	7	_	_	start_char=366|end_char=376	O
+9	GPS	GPS	NOUN	NN	Number=Sing	8	_	_	start_char=377|end_char=380	B-feature
+10	navigation	navigation	NOUN	NN	Number=Sing	9	_	_	start_char=381|end_char=391	I-feature
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=392|end_char=394	O
+12	that	that	PRON	WDT	PronType=Rel	11	_	_	start_char=395|end_char=399	O
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=400|end_char=402	O
+14	OZ	oz	NOUN	NN	Number=Sing	13	_	_	start_char=403|end_char=405	O
+15	land	land	NOUN	NN	Number=Sing	14	_	_	start_char=406|end_char=410	O
+16	on	on	ADP	IN	_	15	_	_	start_char=411|end_char=413	O
+17	a	a	DET	DT	Definite=Ind|PronType=Art	16	_	_	start_char=414|end_char=415	O
+18	P	p	NOUN	NN	Number=Sing	17	_	_	start_char=416|end_char=417	O
+19	license	license	NOUN	NN	Number=Sing	18	_	_	start_char=418|end_char=425	O
+20	peeps	peep	NOUN	NNS	Number=Plur	19	_	_	start_char=426|end_char=431	O
+21	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	_	_	start_char=432|end_char=435	O
+22	not	not	PART	RB	_	21	_	_	start_char=436|end_char=439	O
+23	allowed	allow	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	22	_	_	start_char=440|end_char=447	O
+24	to	to	PART	TO	_	23	_	_	start_char=448|end_char=450	O
+25	use	use	VERB	VB	VerbForm=Inf	24	_	_	start_char=451|end_char=454	O
+26	"	"	PUNCT	``	_	25	_	_	start_char=455|end_char=456	O
+27	screen	screen	NOUN	NN	Number=Sing	26	_	_	start_char=456|end_char=462	O
+28	mirroring	mirroring	NOUN	NN	Number=Sing	27	_	_	start_char=463|end_char=472	O
+29	"	"	PUNCT	''	_	28	_	_	start_char=472|end_char=473	O
+30	lik	like	NOUN	NN	Number=Sing	29	_	_	start_char=474|end_char=477	O
+31	Android	Android	PROPN	NNP	Number=Sing	30	_	_	start_char=478|end_char=485	O
+32	Auto	Auto	PROPN	NNP	Number=Sing	31	_	_	start_char=486|end_char=490	O
+33	.	.	PUNCT	.	_	32	_	_	start_char=490|end_char=491	O
+
+</doc>
+
+<doc id="aeba44cb-ffa8-421b-820d-3267dc896f21_s0" package_name="com.garmin.android.apps.phonelink" app_name="Garmin Smartphone Link" app_category="['Trail Tracking']" google_play_category="['TRAVEL_AND_LOCAL']">
+
+1	Absolutely	absolutely	ADV	RB	_	0	_	_	start_char=0|end_char=10	O
+2	ridiculous	ridiculous	ADJ	JJ	Degree=Pos	1	_	_	start_char=11|end_char=21	O
+3	routing	routing	NOUN	NN	Number=Sing	2	_	_	start_char=22|end_char=29	B-feature
+4	.	.	PUNCT	.	_	3	_	_	start_char=29|end_char=30	O
+
+</doc>
+
+<doc id="f5830280-a0d1-4ffb-ac54-960e2e89cdfb_s2" package_name="com.garmin.android.apps.phonelink" app_name="Garmin Smartphone Link" app_category="['Trail Tracking']" google_play_category="['TRAVEL_AND_LOCAL']">
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	0	_	_	start_char=175|end_char=178	O
+2	cannot	cannot	AUX	MD	VerbForm=Fin	1	_	_	start_char=179|end_char=185	O
+3	send	send	VERB	VB	VerbForm=Inf	2	_	_	start_char=186|end_char=190	O
+4	routing	routing	NOUN	NN	Number=Sing	3	_	_	start_char=191|end_char=198	B-feature
+5	instructions	instruction	NOUN	NNS	Number=Plur	4	_	_	start_char=199|end_char=211	O
+6	to	to	ADP	IN	_	5	_	_	start_char=212|end_char=214	O
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=215|end_char=218	O
+8	Garmin	Garmin	PROPN	NNP	Number=Sing	7	_	_	start_char=219|end_char=225	O
+9	navigator	navigator	NOUN	NN	Number=Sing	8	_	_	start_char=226|end_char=235	O
+10	or	or	CCONJ	CC	_	9	_	_	start_char=236|end_char=238	O
+11	purchases	purchase	NOUN	NNS	Number=Plur	10	_	_	start_char=239|end_char=248	O
+12	live	live	ADJ	JJ	Degree=Pos	11	_	_	start_char=249|end_char=253	O
+13	services	service	NOUN	NNS	Number=Plur	12	_	_	start_char=254|end_char=262	O
+14	"	"	PUNCT	''	_	13	_	_	start_char=262|end_char=263	O
+15	hello	hello	INTJ	UH	_	14	_	_	start_char=264|end_char=269	O
+16	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	_	_	start_char=270|end_char=271	O
+17	paid	pay	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	16	_	_	start_char=272|end_char=276	O
+18	for	for	ADP	IN	_	17	_	_	start_char=277|end_char=280	O
+19	some	some	DET	DT	_	18	_	_	start_char=281|end_char=285	O
+20	extras	extra	NOUN	NNS	Number=Plur	19	_	_	start_char=286|end_char=292	O
+21	like	like	ADP	IN	_	20	_	_	start_char=293|end_char=297	O
+22	speed	speed	NOUN	NN	Number=Sing	21	_	_	start_char=298|end_char=303	O
+23	camera	camera	NOUN	NN	Number=Sing	22	_	_	start_char=304|end_char=310	O
+24	..	..	PUNCT	,	_	23	_	_	start_char=310|end_char=312	O
+25	anyway	anyway	ADV	RB	_	24	_	_	start_char=313|end_char=319	O
+26	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	25	_	_	start_char=320|end_char=321	O
+27	understandI	understandI	ADV	RB	_	26	_	_	start_char=322|end_char=333	O
+28	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	27	_	_	start_char=334|end_char=336	O
+29	n't	not	PART	RB	_	28	_	_	start_char=336|end_char=339	O
+30	get	get	VERB	VB	VerbForm=Inf	29	_	_	start_char=340|end_char=343	O
+31	Foursquare	Foursquare	PROPN	NNP	Number=Sing	30	_	_	start_char=344|end_char=354	O
+32	services	service	NOUN	NNS	Number=Plur	31	_	_	start_char=355|end_char=363	O
+33	as	as	ADV	RB	_	32	_	_	start_char=364|end_char=366	O
+34	well	well	ADV	RB	Degree=Pos	33	_	_	start_char=367|end_char=371	O
+35	...?	...?	PUNCT	.	_	34	_	_	start_char=371|end_char=375	O
+
+</doc>
+
+<doc id="9eb503c4-a670-48bb-9c1d-5d4e79877584_s2" package_name="com.garmin.android.apps.phonelink" app_name="Garmin Smartphone Link" app_category="['Trail Tracking']" google_play_category="['TRAVEL_AND_LOCAL']">
+
+1	Cycling	cycling	NOUN	NN	Number=Sing	0	_	_	start_char=173|end_char=180	B-feature
+2	12	12	NUM	CD	NumForm=Digit|NumType=Card	1	_	_	start_char=181|end_char=183	O
+3	v	v	NOUN	NN	Number=Sing	2	_	_	start_char=183|end_char=184	O
+4	power	power	NOUN	NN	Number=Sing	3	_	_	start_char=185|end_char=190	O
+5	to	to	ADP	IN	_	4	_	_	start_char=191|end_char=193	O
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=194|end_char=197	O
+7	DNX	DNX	PROPN	NNP	Number=Sing	6	_	_	start_char=198|end_char=201	O
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=202|end_char=204	O
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=205|end_char=208	O
+10	only	only	ADJ	JJ	Degree=Pos	9	_	_	start_char=209|end_char=213	O
+11	way	way	NOUN	NN	Number=Sing	10	_	_	start_char=214|end_char=217	O
+12	to	to	PART	TO	_	11	_	_	start_char=218|end_char=220	O
+13	restore	restore	VERB	VB	VerbForm=Inf	12	_	_	start_char=221|end_char=228	O
+14	operation	operation	NOUN	NN	Number=Sing	13	_	_	start_char=229|end_char=238	O
+15	.	.	PUNCT	.	_	14	_	_	start_char=238|end_char=239	O
+
+</doc>
+
+<doc id="dad2d5f7-310a-4a06-b5d6-94d60df9077f_s1" package_name="org.ligi.passandroid" app_name="PassAndroid Passbook viewer" app_category="['Calendar']" google_play_category="['TRAVEL_AND_LOCAL']">
+
+1	Easy	easy	ADJ	JJ	Degree=Pos	0	_	_	start_char=40|end_char=44	O
+2	and	and	CCONJ	CC	_	1	_	_	start_char=45|end_char=48	O
+3	intuitive	intuitive	ADJ	JJ	Degree=Pos	2	_	_	start_char=49|end_char=58	O
+4	category	category	NOUN	NN	Number=Sing	3	_	_	start_char=59|end_char=67	B-feature
+5	creation	creation	NOUN	NN	Number=Sing	4	_	_	start_char=68|end_char=76	O
+6	and	and	CCONJ	CC	_	5	_	_	start_char=77|end_char=80	O
+7	management	management	NOUN	NN	Number=Sing	6	_	_	start_char=81|end_char=91	O
+8	.	.	PUNCT	.	_	7	_	_	start_char=91|end_char=92	O
+
+</doc>
+
+<doc id="c1e5f16b-aa4c-4e59-a650-e2e3798c9210_s2" package_name="com.tripit" app_name="TripIt: Travel Planner" app_category="['POI Report', 'GPS/Maps', 'Task Manager']" google_play_category="['TRAVEL_AND_LOCAL']">
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	start_char=178|end_char=179	O
+2	feel	feel	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	_	_	start_char=180|end_char=184	O
+3	that	that	SCONJ	IN	_	2	_	_	start_char=185|end_char=189	O
+4	there	there	PRON	EX	_	3	_	_	start_char=190|end_char=195	O
+5	should	should	AUX	MD	VerbForm=Fin	4	_	_	start_char=196|end_char=202	O
+6	be	be	VERB	VB	VerbForm=Inf	5	_	_	start_char=203|end_char=205	O
+7	a	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=206|end_char=207	O
+8	way	way	NOUN	NN	Number=Sing	7	_	_	start_char=208|end_char=211	O
+9	of	of	SCONJ	IN	_	8	_	_	start_char=212|end_char=214	O
+10	marking	mark	VERB	VBG	VerbForm=Ger	9	_	_	start_char=215|end_char=222	O
+11	cancelled	cancel	VERB	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=223|end_char=232	O
+12	cruises	cruise	NOUN	NNS	Number=Plur	11	_	_	start_char=233|end_char=240	O
+13	so	so	SCONJ	IN	_	12	_	_	start_char=241|end_char=243	O
+14	that	that	SCONJ	IN	_	13	_	_	start_char=244|end_char=248	O
+15	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	_	_	start_char=249|end_char=253	O
+16	appear	appear	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	_	_	start_char=254|end_char=260	O
+17	in	in	ADP	IN	_	16	_	_	start_char=261|end_char=263	O
+18	a	a	DET	DT	Definite=Ind|PronType=Art	17	_	_	start_char=264|end_char=265	O
+19	separate	separate	ADJ	JJ	Degree=Pos	18	_	_	start_char=266|end_char=274	O
+20	category	category	NOUN	NN	Number=Sing	19	_	_	start_char=275|end_char=283	B-feature
+21	.	.	PUNCT	.	_	20	_	_	start_char=283|end_char=284	O
+
+</doc>
+
+<doc id="4a617771-2abb-49a1-95e9-8908fdd8bff6_s1" package_name="net.osmand" app_name="OsmAnd — Maps & GPS Offline" app_category="['POI Report', 'GPS/Maps']" google_play_category="['TRAVEL_AND_LOCAL']">
+
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	0	_	_	start_char=65|end_char=68	O
+2	can	can	AUX	MD	VerbForm=Fin	1	_	_	start_char=69|end_char=72	O
+3	additionally	additionally	ADV	RB	_	2	_	_	start_char=73|end_char=85	O
+4	add	add	VERB	VB	VerbForm=Inf	3	_	_	start_char=86|end_char=89	O
+5	information	information	NOUN	NN	Number=Sing	4	_	_	start_char=90|end_char=101	O
+6	about	about	ADP	IN	_	5	_	_	start_char=102|end_char=107	O
+7	the	the	DET	DT	Definite=Def|PronType=Art	6	_	_	start_char=108|end_char=111	O
+8	vehicle	vehicle	NOUN	NN	Number=Sing	7	_	_	start_char=112|end_char=119	O
+9	,	,	PUNCT	,	_	8	_	_	start_char=119|end_char=120	O
+10	eg	eg	NOUN	NN	Number=Sing	9	_	_	start_char=121|end_char=123	O
+11	top	top	NOUN	NN	Number=Sing	10	_	_	start_char=124|end_char=127	O
+12	speed	speed	NOUN	NN	Number=Sing	11	_	_	start_char=128|end_char=133	O
+13	,	,	PUNCT	,	_	12	_	_	start_char=133|end_char=134	O
+14	height	height	NOUN	NN	Number=Sing	13	_	_	start_char=135|end_char=141	O
+15	,	,	PUNCT	,	_	14	_	_	start_char=141|end_char=142	O
+16	etc	etc	NOUN	FW	Abbr=Yes|Number=Sing	15	_	_	start_char=143|end_char=146	O
+17	and	and	CCONJ	CC	_	16	_	_	start_char=147|end_char=150	O
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=151|end_char=154	O
+19	routing	routing	NOUN	NN	Number=Sing	18	_	_	start_char=155|end_char=162	B-feature
+20	will	will	AUX	MD	VerbForm=Fin	19	_	_	start_char=163|end_char=167	O
+21	take	take	VERB	VB	VerbForm=Inf	20	_	_	start_char=168|end_char=172	O
+22	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	_	_	start_char=173|end_char=175	O
+23	into	into	ADP	IN	_	22	_	_	start_char=176|end_char=180	O
+24	account	account	NOUN	NN	Number=Sing	23	_	_	start_char=181|end_char=188	O
+25	.	.	PUNCT	.	_	24	_	_	start_char=188|end_char=189	O
+
+</doc>
+
+<doc id="fc5042be-c276-46de-9fd2-f3fb3cb1a3f4_s0" package_name="net.osmand" app_name="OsmAnd — Maps & GPS Offline" app_category="['POI Report', 'GPS/Maps']" google_play_category="['TRAVEL_AND_LOCAL']">
+
+1	Excellent	excellent	ADJ	JJ	Degree=Pos	0	_	_	start_char=0|end_char=9	O
+2	app	app	NOUN	NN	Number=Sing	1	_	_	start_char=10|end_char=13	O
+3	which	which	PRON	WDT	PronType=Rel	2	_	_	start_char=14|end_char=19	O
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	_	_	start_char=20|end_char=21	O
+5	mostly	mostly	ADV	RB	_	4	_	_	start_char=22|end_char=28	O
+6	use	use	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	_	_	start_char=29|end_char=32	O
+7	for	for	SCONJ	IN	_	6	_	_	start_char=33|end_char=36	O
+8	finding	find	VERB	VBG	VerbForm=Ger	7	_	_	start_char=37|end_char=44	O
+9	walking	walking	NOUN	NN	Number=Sing	8	_	_	start_char=45|end_char=52	O
+10	and	and	CCONJ	CC	_	9	_	_	start_char=53|end_char=56	O
+11	cycling	cycling	NOUN	NN	Number=Sing	10	_	_	start_char=57|end_char=64	B-feature
+12	routes	route	NOUN	NNS	Number=Plur	11	_	_	start_char=65|end_char=71	O
+13	.	.	PUNCT	.	_	12	_	_	start_char=71|end_char=72	O
+
+</doc>
+
+<doc id="fc5042be-c276-46de-9fd2-f3fb3cb1a3f4_s1" package_name="net.osmand" app_name="OsmAnd — Maps & GPS Offline" app_category="['POI Report', 'GPS/Maps']" google_play_category="['TRAVEL_AND_LOCAL']">
+
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	start_char=73|end_char=75	O
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=75|end_char=77	O
+3	mostly	mostly	ADV	RB	_	2	_	_	start_char=78|end_char=84	O
+4	accurate	accurate	ADJ	JJ	Degree=Pos	3	_	_	start_char=85|end_char=93	O
+5	and	and	CCONJ	CC	_	4	_	_	start_char=94|end_char=97	O
+6	only	only	ADV	RB	_	5	_	_	start_char=98|end_char=102	O
+7	once	once	ADV	RB	NumType=Mult	6	_	_	start_char=103|end_char=107	O
+8	took	take	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	_	_	start_char=108|end_char=112	O
+9	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	8	_	_	start_char=113|end_char=115	O
+10	on	on	ADP	IN	_	9	_	_	start_char=116|end_char=118	O
+11	a	a	DET	DT	Definite=Ind|PronType=Art	10	_	_	start_char=119|end_char=120	O
+12	nearly	nearly	ADV	RB	_	11	_	_	start_char=121|end_char=127	O
+13	impossible	impossible	ADJ	JJ	Degree=Pos	12	_	_	start_char=128|end_char=138	O
+14	cycling	cycling	NOUN	NN	Number=Sing	13	_	_	start_char=139|end_char=146	B-feature
+15	trail	trail	NOUN	NN	Number=Sing	14	_	_	start_char=147|end_char=152	O
+16	involving	involve	VERB	VBG	VerbForm=Ger	15	_	_	start_char=153|end_char=162	O
+17	a	a	DET	DT	Definite=Ind|PronType=Art	16	_	_	start_char=163|end_char=164	O
+18	river	river	NOUN	NN	Number=Sing	17	_	_	start_char=165|end_char=170	O
+19	crossing	crossing	NOUN	NN	Number=Sing	18	_	_	start_char=171|end_char=179	O
+20	in	in	ADP	IN	_	19	_	_	start_char=180|end_char=182	O
+21	Portugal	Portugal	PROPN	NNP	Number=Sing	20	_	_	start_char=183|end_char=191	O
+22	!	!	PUNCT	.	_	21	_	_	start_char=191|end_char=192	O
+
+</doc>
+
+<doc id="d1d4c295-241f-4d41-a08f-ad8beec60dad_s0" package_name="com.jkfantasy.gpsmapcamera" app_name="GPS Map Camera" app_category="['POI Report', 'GPS/Maps']" google_play_category="['TRAVEL_AND_LOCAL']">
+
+1	Five	five	NUM	CD	NumForm=Word|NumType=Card	0	_	_	start_char=0|end_char=4	O
+2	Star	Star	PROPN	NNP	Number=Sing	1	_	_	start_char=5|end_char=9	O
+3	Category	category	NOUN	NN	Number=Sing	2	_	_	start_char=10|end_char=18	B-feature
+
+</doc>
+
+<doc id="790e3d79-ba2f-49b6-b926-e1817935787a_s1" package_name="com.mapswithme.maps.pro" app_name="MAPS.ME: Offline maps GPS Nav" app_category="['POI Report']" google_play_category="['TRAVEL_AND_LOCAL']">
+
+1	However	however	ADV	RB	_	0	_	_	start_char=23|end_char=30	O
+2	,	,	PUNCT	,	_	1	_	_	start_char=30|end_char=31	O
+3	recently	recently	ADV	RB	_	2	_	_	start_char=32|end_char=40	O
+4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	_	_	start_char=41|end_char=42	O
+5	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	_	_	start_char=43|end_char=45	O
+6	unable	unable	ADJ	JJ	Degree=Pos	5	_	_	start_char=46|end_char=52	O
+7	to	to	PART	TO	_	6	_	_	start_char=53|end_char=55	O
+8	find	find	VERB	VB	VerbForm=Inf	7	_	_	start_char=56|end_char=60	O
+9	routing	routing	NOUN	NN	Number=Sing	8	_	_	start_char=61|end_char=68	B-feature
+10	calculation	calculation	NOUN	NN	Number=Sing	9	_	_	start_char=69|end_char=80	O
+11	.	.	PUNCT	.	_	10	_	_	start_char=80|end_char=81	O
+
+</doc>
+
+<doc id="8d05e62e-431c-419c-9c29-09af3b4ff349_s0" package_name="com.mapswithme.maps.pro" app_name="MAPS.ME: Offline maps GPS Nav" app_category="['POI Report']" google_play_category="['TRAVEL_AND_LOCAL']">
+
+1	Last	last	ADJ	JJ	Degree=Pos	0	_	_	start_char=0|end_char=4	O
+2	several	several	ADJ	JJ	Degree=Pos	1	_	_	start_char=5|end_char=12	O
+3	updates	update	NOUN	NNS	Number=Plur	2	_	_	start_char=13|end_char=20	O
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	_	_	start_char=21|end_char=24	O
+5	have	have	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	_	_	start_char=25|end_char=29	O
+6	declared	declare	VERB	VBN	Tense=Past|VerbForm=Part	5	_	_	start_char=30|end_char=38	O
+7	:	:	PUNCT	:	_	6	_	_	start_char=38|end_char=39	O
+8	Added	add	VERB	VBN	Tense=Past|VerbForm=Part	7	_	_	start_char=40|end_char=45	O
+9	"	"	PUNCT	``	_	8	_	_	start_char=46|end_char=47	O
+10	View	view	NOUN	NN	Number=Sing	9	_	_	start_char=47|end_char=51	O
+11	on	on	ADP	IN	_	10	_	_	start_char=52|end_char=54	O
+12	Map	map	NOUN	NN	Number=Sing	11	_	_	start_char=55|end_char=58	O
+13	"	"	PUNCT	''	_	12	_	_	start_char=58|end_char=59	O
+14	in	in	ADP	IN	_	13	_	_	start_char=60|end_char=62	O
+15	Routing	routing	NOUN	NN	Number=Sing	14	_	_	start_char=63|end_char=70	B-feature
+16	screen	screen	NOUN	NN	Number=Sing	15	_	_	start_char=71|end_char=77	O
+17	.	.	PUNCT	.	_	16	_	_	start_char=77|end_char=78	O
+
+</doc>
+
+<doc id="0b1804e4-2ccd-4139-b3e5-5f2521a3280e_s2" package_name="com.mapswithme.maps.pro" app_name="MAPS.ME: Offline maps GPS Nav" app_category="['POI Report']" google_play_category="['TRAVEL_AND_LOCAL']">
+
+1	Also	also	ADV	RB	_	0	_	_	start_char=289|end_char=293	O
+2	,	,	PUNCT	,	_	1	_	_	start_char=293|end_char=294	O
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	_	_	start_char=295|end_char=297	O
+4	would	would	AUX	MD	VerbForm=Fin	3	_	_	start_char=298|end_char=303	O
+5	be	be	AUX	VB	VerbForm=Inf	4	_	_	start_char=304|end_char=306	O
+6	great	great	ADJ	JJ	Degree=Pos	5	_	_	start_char=307|end_char=312	O
+7	to	to	PART	TO	_	6	_	_	start_char=313|end_char=315	O
+8	be	be	AUX	VB	VerbForm=Inf	7	_	_	start_char=316|end_char=318	O
+9	able	able	ADJ	JJ	Degree=Pos	8	_	_	start_char=319|end_char=323	O
+10	to	to	PART	TO	_	9	_	_	start_char=324|end_char=326	O
+11	share	share	VERB	VB	VerbForm=Inf	10	_	_	start_char=327|end_char=332	O
+12	entire	entire	ADJ	JJ	Degree=Pos	11	_	_	start_char=333|end_char=339	O
+13	favorites	favorite	NOUN	NNS	Number=Plur	12	_	_	start_char=340|end_char=349	B-feature
+14	collections	collection	NOUN	NNS	Number=Plur	13	_	_	start_char=350|end_char=361	O
+15	/	/	SYM	,	_	14	_	_	start_char=361|end_char=362	O
+16	categories	category	NOUN	NNS	Number=Plur	15	_	_	start_char=362|end_char=372	B-feature
+17	...	...	PUNCT	.	_	16	_	_	start_char=372|end_char=375	O
+
+</doc>
+
+<doc id="357861df-b652-4ae1-b99b-c1838a25c070_s0" package_name="com.mapswithme.maps.pro" app_name="MAPS.ME: Offline maps GPS Nav" app_category="['POI Report']" google_play_category="['TRAVEL_AND_LOCAL']">
+
+1	Until	until	ADP	IN	_	0	_	_	start_char=0|end_char=5	O
+2	July	July	PROPN	NNP	Number=Sing	1	_	_	start_char=6|end_char=10	O
+3	2022	2022	NUM	CD	NumForm=Digit|NumType=Card	2	_	_	start_char=11|end_char=15	O
+4	Maps.me	Maps.me	PROPN	NNP	Number=Sing	3	_	_	start_char=16|end_char=23	O
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	_	_	start_char=24|end_char=27	O
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=28|end_char=31	O
+7	best	good	ADJ	JJS	Degree=Sup	6	_	_	start_char=32|end_char=36	O
+8	GPS	GPS	NOUN	NN	Number=Sing	7	_	_	start_char=37|end_char=40	B-feature
+9	navigation	navigation	NOUN	NN	Number=Sing	8	_	_	start_char=41|end_char=51	I-feature
+10	tool	tool	NOUN	NN	Number=Sing	9	_	_	start_char=52|end_char=56	O
+11	.	.	PUNCT	.	_	10	_	_	start_char=56|end_char=57	O
+
+</doc>
+
+<doc id="7366b877-a1d3-4eb4-9ca6-7201866bdd77_s4" package_name="com.mapswithme.maps.pro" app_name="MAPS.ME: Offline maps GPS Nav" app_category="['POI Report']" google_play_category="['TRAVEL_AND_LOCAL']">
+
+1	Planing	plane	VERB	VBG	VerbForm=Ger	0	_	_	start_char=162|end_char=169	O
+2	cycling	cycling	NOUN	NN	Number=Sing	1	_	_	start_char=170|end_char=177	B-feature
+3	/	/	SYM	,	_	2	_	_	start_char=177|end_char=178	O
+4	walking	walking	NOUN	NN	Number=Sing	3	_	_	start_char=178|end_char=185	O
+5	routes	route	NOUN	NNS	Number=Plur	4	_	_	start_char=186|end_char=192	O
+6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	_	_	start_char=193|end_char=196	O
+7	always	always	ADV	RB	_	6	_	_	start_char=197|end_char=203	O
+8	so	so	ADV	RB	_	7	_	_	start_char=204|end_char=206	O
+9	easy	easy	ADJ	JJ	Degree=Pos	8	_	_	start_char=207|end_char=211	O
+10	-	-	PUNCT	,	_	9	_	_	start_char=211|end_char=212	O
+11	now	now	ADV	RB	_	10	_	_	start_char=212|end_char=215	O
+12	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	_	_	start_char=216|end_char=218	O
+13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=219|end_char=221	O
+14	painful	painful	ADJ	JJ	Degree=Pos	13	_	_	start_char=222|end_char=229	O
+15	.	.	PUNCT	.	_	14	_	_	start_char=229|end_char=230	O
+
+</doc>
+
+<doc id="a860a6c9-f15c-4b85-8d5b-848939c81499_s1" package_name="com.mapswithme.maps.pro" app_name="MAPS.ME: Offline maps GPS Nav" app_category="['POI Report']" google_play_category="['TRAVEL_AND_LOCAL']">
+
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	0	_	_	start_char=29|end_char=33	O
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	_	_	start_char=34|end_char=37	O
+3	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	_	_	start_char=38|end_char=40	O
+4	favourite	favourite	ADJ	JJ	Degree=Pos	3	_	_	start_char=41|end_char=50	O
+5	travelling	travelling	NOUN	NN	Number=Sing	4	_	_	start_char=51|end_char=61	O
+6	app	app	NOUN	NN	Number=Sing	5	_	_	start_char=62|end_char=65	O
+7	for	for	ADP	IN	_	6	_	_	start_char=66|end_char=69	O
+8	hiking	hiking	NOUN	NN	Number=Sing	7	_	_	start_char=70|end_char=76	O
+9	and	and	CCONJ	CC	_	8	_	_	start_char=77|end_char=80	O
+10	cycling	cycling	NOUN	NN	Number=Sing	9	_	_	start_char=81|end_char=88	B-feature
+11	and	and	CCONJ	CC	_	10	_	_	start_char=89|end_char=92	O
+12	navigation	navigation	NOUN	NN	Number=Sing	11	_	_	start_char=93|end_char=103	O
+13	around	around	ADP	IN	_	12	_	_	start_char=104|end_char=110	O
+14	towns	town	NOUN	NNS	Number=Plur	13	_	_	start_char=111|end_char=116	O
+15	.	.	PUNCT	.	_	14	_	_	start_char=116|end_char=117	O
+
+</doc>
+
+<doc id="32f05783-20e2-43c2-87fe-c86a7a226386_s6" package_name="com.mapswithme.maps.pro" app_name="MAPS.ME: Offline maps GPS Nav" app_category="['POI Report']" google_play_category="['TRAVEL_AND_LOCAL']">
+
+1	Half	half	DET	PDT	NumForm=Word|NumType=Frac|PronType=Neg	0	_	_	start_char=302|end_char=306	O
+2	the	the	DET	DT	Definite=Def|PronType=Art	1	_	_	start_char=307|end_char=310	O
+3	screen	screen	NOUN	NN	Number=Sing	2	_	_	start_char=311|end_char=317	O
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=318|end_char=320	O
+5	taken	take	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	_	_	start_char=321|end_char=326	O
+6	up	up	ADP	RP	_	5	_	_	start_char=327|end_char=329	O
+7	by	by	ADP	IN	_	6	_	_	start_char=330|end_char=332	O
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=333|end_char=336	O
+9	routing	routing	NOUN	NN	Number=Sing	8	_	_	start_char=337|end_char=344	B-feature
+10	-	-	PUNCT	HYPH	_	9	_	_	start_char=345|end_char=346	O
+11	bring	bring	VERB	VB	Mood=Imp|VerbForm=Fin	10	_	_	start_char=347|end_char=352	O
+12	back	back	ADP	RP	_	11	_	_	start_char=353|end_char=357	O
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=358|end_char=361	O
+14	simple	simple	ADJ	JJ	Degree=Pos	13	_	_	start_char=362|end_char=368	O
+15	uncluttered	uncluttered	ADJ	JJ	Degree=Pos	14	_	_	start_char=369|end_char=380	O
+16	previous	previous	ADJ	JJ	Degree=Pos	15	_	_	start_char=381|end_char=389	O
+17	version	version	NOUN	NN	Number=Sing	16	_	_	start_char=390|end_char=397	O
+18	.	.	PUNCT	.	_	17	_	_	start_char=397|end_char=398	O
+
+</doc>
+
+<doc id="f9820d61-a822-4bc6-9dbe-928b0b642cc3_s1" package_name="com.mapswithme.maps.pro" app_name="MAPS.ME: Offline maps GPS Nav" app_category="['POI Report']" google_play_category="['TRAVEL_AND_LOCAL']">
+
+1	But	but	CCONJ	CC	_	0	_	_	start_char=73|end_char=76	O
+2	now	now	ADV	RB	_	1	_	_	start_char=77|end_char=80	O
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	_	_	start_char=81|end_char=83	O
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	_	_	start_char=84|end_char=86	O
+5	totally	totally	ADV	RB	_	4	_	_	start_char=87|end_char=94	O
+6	useless	useless	ADJ	JJ	Degree=Pos	5	_	_	start_char=95|end_char=102	O
+7	;	;	PUNCT	,	_	6	_	_	start_char=102|end_char=103	O
+8	the	the	DET	DT	Definite=Def|PronType=Art	7	_	_	start_char=104|end_char=107	O
+9	routing	routing	NOUN	NN	Number=Sing	8	_	_	start_char=108|end_char=115	B-feature
+10	looks	look	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	_	_	start_char=116|end_char=121	O
+11	buggy	buggy	ADJ	JJ	Degree=Pos	10	_	_	start_char=122|end_char=127	O
+12	,	,	PUNCT	,	_	11	_	_	start_char=127|end_char=128	O
+13	the	the	DET	DT	Definite=Def|PronType=Art	12	_	_	start_char=129|end_char=132	O
+14	new	new	ADJ	JJ	Degree=Pos	13	_	_	start_char=133|end_char=136	O
+15	UI	ui	NOUN	NN	Number=Sing	14	_	_	start_char=137|end_char=139	O
+16	which	which	PRON	WDT	PronType=Rel	15	_	_	start_char=140|end_char=145	O
+17	covers	cover	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	_	_	start_char=146|end_char=152	O
+18	a	a	DET	DT	Definite=Ind|PronType=Art	17	_	_	start_char=153|end_char=154	O
+19	bigger	big	ADJ	JJR	Degree=Cmp	18	_	_	start_char=155|end_char=161	O
+20	part	part	NOUN	NN	Number=Sing	19	_	_	start_char=162|end_char=166	O
+21	of	of	ADP	IN	_	20	_	_	start_char=167|end_char=169	O
+22	the	the	DET	DT	Definite=Def|PronType=Art	21	_	_	start_char=170|end_char=173	O
+23	screen	screen	NOUN	NN	Number=Sing	22	_	_	start_char=174|end_char=180	O
+24	hiding	hide	VERB	VBG	VerbForm=Ger	23	_	_	start_char=181|end_char=187	O
+25	a	a	DET	DT	Definite=Ind|PronType=Art	24	_	_	start_char=188|end_char=189	O
+26	part	part	NOUN	NN	Number=Sing	25	_	_	start_char=190|end_char=194	O
+27	of	of	ADP	IN	_	26	_	_	start_char=195|end_char=197	O
+28	the	the	DET	DT	Definite=Def|PronType=Art	27	_	_	start_char=198|end_char=201	O
+29	map	map	NOUN	NN	Number=Sing	28	_	_	start_char=202|end_char=205	O
+30	,	,	PUNCT	,	_	29	_	_	start_char=205|end_char=206	O
+31	and	and	CCONJ	CC	_	30	_	_	start_char=207|end_char=210	O
+32	no	no	DET	DT	_	31	_	_	start_char=211|end_char=213	O
+33	elevation	elevation	NOUN	NN	Number=Sing	32	_	_	start_char=214|end_char=223	O
+34	data	datum	NOUN	NNS	Number=Sing	33	_	_	start_char=224|end_char=228	O
+35	of	of	ADP	IN	_	34	_	_	start_char=229|end_char=231	O
+36	the	the	DET	DT	Definite=Def|PronType=Art	35	_	_	start_char=232|end_char=235	O
+37	pointed	point	VERB	VBN	Tense=Past|VerbForm=Part	36	_	_	start_char=236|end_char=243	O
+38	places	place	NOUN	NNS	Number=Plur	37	_	_	start_char=244|end_char=250	O
+39	anymore	anymore	ADV	RB	_	38	_	_	start_char=251|end_char=258	O
+40	.	.	PUNCT	.	_	39	_	_	start_char=258|end_char=259	O
+
+</doc>
+
+<doc id="f1a537fa-d485-4a2d-ab49-5597b70c2494_s4" package_name="com.mapswithme.maps.pro" app_name="MAPS.ME: Offline maps GPS Nav" app_category="['POI Report']" google_play_category="['TRAVEL_AND_LOCAL']">
+
+1	Having	have	VERB	VBG	VerbForm=Ger	0	_	_	start_char=213|end_char=219	O
+2	a	a	DET	DT	Definite=Ind|PronType=Art	1	_	_	start_char=220|end_char=221	O
+3	lot	lot	NOUN	NN	Number=Sing	2	_	_	start_char=222|end_char=225	O
+4	of	of	ADP	IN	_	3	_	_	start_char=226|end_char=228	O
+5	colors	color	NOUN	NNS	Number=Plur	4	_	_	start_char=229|end_char=235	O
+6	for	for	ADP	IN	_	5	_	_	start_char=236|end_char=239	O
+7	bookmarks	bookmark	NOUN	NNS	Number=Plur	6	_	_	start_char=240|end_char=249	B-feature
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=250|end_char=252	O
+9	useless	useless	ADJ	JJ	Degree=Pos	8	_	_	start_char=253|end_char=260	O
+10	,	,	PUNCT	,	_	9	_	_	start_char=260|end_char=261	O
+11	named	name	VERB	VBN	Tense=Past|VerbForm=Part	10	_	_	start_char=262|end_char=267	O
+12	categories	category	NOUN	NNS	Number=Plur	11	_	_	start_char=268|end_char=278	B-feature
+13	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	_	_	start_char=279|end_char=282	O
+14	the	the	DET	DT	Definite=Def|PronType=Art	13	_	_	start_char=283|end_char=286	O
+15	way	way	NOUN	NN	Number=Sing	14	_	_	start_char=287|end_char=290	O
+16	to	to	PART	TO	_	15	_	_	start_char=291|end_char=293	O
+17	go	go	VERB	VB	VerbForm=Inf	16	_	_	start_char=294|end_char=296	O
+18	.	.	PUNCT	.	_	17	_	_	start_char=296|end_char=297	O
+
+</doc>
+
+<doc id="ba76a860-a14b-476c-abda-19288d837904_s4" package_name="com.mapswithme.maps.pro" app_name="MAPS.ME: Offline maps GPS Nav" app_category="['POI Report']" google_play_category="['TRAVEL_AND_LOCAL']">
+
+1	Point	point	NOUN	NN	Number=Sing	0	_	_	start_char=131|end_char=136	O
+2	to	to	ADP	IN	_	1	_	_	start_char=137|end_char=139	O
+3	point	point	NOUN	NN	Number=Sing	2	_	_	start_char=140|end_char=145	O
+4	routing	routing	NOUN	NN	Number=Sing	3	_	_	start_char=146|end_char=153	B-feature
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	_	_	start_char=154|end_char=156	O
+6	now	now	ADV	RB	_	5	_	_	start_char=157|end_char=160	O
+7	a	a	DET	DT	Definite=Ind|PronType=Art	6	_	_	start_char=161|end_char=162	O
+8	hustle	hustle	NOUN	NN	Number=Sing	7	_	_	start_char=163|end_char=169	O
+9	,	,	PUNCT	,	_	8	_	_	start_char=169|end_char=170	O
+10	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	_	_	start_char=171|end_char=173	O
+11	goes	go	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	_	_	start_char=174|end_char=178	O
+12	back	back	ADV	RB	_	11	_	_	start_char=179|end_char=183	O
+13	to	to	ADP	IN	_	12	_	_	start_char=184|end_char=186	O
+14	previous	previous	ADJ	JJ	Degree=Pos	13	_	_	start_char=187|end_char=195	O
+15	routed	rout	VERB	VBN	Tense=Past|VerbForm=Part	14	_	_	start_char=196|end_char=202	O
+16	points	point	NOUN	NNS	Number=Plur	15	_	_	start_char=203|end_char=209	O
+
+</doc>
+
+<doc id="796a5d93-f0a8-4511-b5da-8372d689d78a_s4" package_name="com.mapswithme.maps.pro" app_name="MAPS.ME: Offline maps GPS Nav" app_category="['POI Report']" google_play_category="['TRAVEL_AND_LOCAL']">
+
+1	Literally	literally	ADV	RB	_	0	_	_	start_char=209|end_char=218	O
+2	NOTHING	nothing	PRON	NN	Number=Sing|PronType=Neg	1	_	_	start_char=219|end_char=226	O
+3	works	work	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	_	_	start_char=227|end_char=232	O
+4	anymore	anymore	ADV	RB	_	3	_	_	start_char=233|end_char=240	O
+5	in	in	ADP	IN	_	4	_	_	start_char=241|end_char=243	O
+6	the	the	DET	DT	Definite=Def|PronType=Art	5	_	_	start_char=244|end_char=247	O
+7	new	new	ADJ	JJ	Degree=Pos	6	_	_	start_char=248|end_char=251	O
+8	update	update	NOUN	NN	Number=Sing	7	_	_	start_char=252|end_char=258	O
+9	for	for	ADP	IN	_	8	_	_	start_char=259|end_char=262	O
+10	hiking	hiking	NOUN	NN	Number=Sing	9	_	_	start_char=263|end_char=269	O
+11	,	,	PUNCT	,	_	10	_	_	start_char=269|end_char=270	O
+12	cycling	cycling	NOUN	NN	Number=Sing	11	_	_	start_char=271|end_char=278	B-feature
+13	,	,	PUNCT	,	_	12	_	_	start_char=278|end_char=279	O
+14	etcetera	etcetera	NOUN	FW	Number=Sing	13	_	_	start_char=280|end_char=288	O
+15	.	.	PUNCT	.	_	14	_	_	start_char=288|end_char=289	O
+
+</doc>
+
+<doc id="66570856-a525-4c52-9467-83190f6946f7_s1" package_name="com.mapswithme.maps.pro" app_name="MAPS.ME: Offline maps GPS Nav" app_category="['POI Report']" google_play_category="['TRAVEL_AND_LOCAL']">
+
+1	Routing	routing	NOUN	NN	Number=Sing	0	_	_	start_char=22|end_char=29	B-feature
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=30|end_char=32	O
+3	harder	hard	ADJ	JJR	Degree=Cmp	2	_	_	start_char=33|end_char=39	O
+4	and	and	CCONJ	CC	_	3	_	_	start_char=40|end_char=43	O
+5	the	the	DET	DT	Definite=Def|PronType=Art	4	_	_	start_char=44|end_char=47	O
+6	bookmark	bookmark	NOUN	NN	Number=Sing	5	_	_	start_char=48|end_char=56	B-feature
+7	icon	icon	NOUN	NN	Number=Sing	6	_	_	start_char=57|end_char=61	O
+8	covers	cover	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	_	_	start_char=62|end_char=68	O
+9	the	the	DET	DT	Definite=Def|PronType=Art	8	_	_	start_char=69|end_char=72	O
+10	distance	distance	NOUN	NN	Number=Sing	9	_	_	start_char=73|end_char=81	O
+11	ffs	ffs	ADV	RB	_	10	_	_	start_char=82|end_char=85	O
+12	!	!	PUNCT	.	_	11	_	_	start_char=85|end_char=86	O
+
+</doc>
+
+<doc id="4339e97f-c9a5-47b6-a74e-f79552221db3_s1" package_name="com.mapswithme.maps.pro" app_name="MAPS.ME: Offline maps GPS Nav" app_category="['POI Report']" google_play_category="['TRAVEL_AND_LOCAL']">
+
+1	Routing	routing	NOUN	NN	Number=Sing	0	_	_	start_char=40|end_char=47	B-feature
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	_	_	start_char=48|end_char=50	O
+3	not	not	PART	RB	_	2	_	_	start_char=51|end_char=54	O
+4	very	very	ADV	RB	_	3	_	_	start_char=55|end_char=59	O
+5	good	good	ADJ	JJ	Degree=Pos	4	_	_	start_char=60|end_char=64	O
+6	and	and	CCONJ	CC	_	5	_	_	start_char=65|end_char=68	O
+7	with	with	ADP	IN	_	6	_	_	start_char=69|end_char=73	O
+8	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	_	_	start_char=74|end_char=76	O
+9	new	new	ADJ	JJ	Degree=Pos	8	_	_	start_char=77|end_char=80	O
+10	phone	phone	NOUN	NN	Number=Sing	9	_	_	start_char=81|end_char=86	O
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	_	_	start_char=87|end_char=88	O
+12	can't	can't	AUX	MD	VerbForm=Fin	11	_	_	start_char=89|end_char=94	O
+13	share	share	VERB	VB	VerbForm=Inf	12	_	_	start_char=95|end_char=100	O
+14	(	(	PUNCT	-LRB-	_	13	_	_	start_char=101|end_char=102	O
+15	or	or	CCONJ	CC	_	14	_	_	start_char=102|end_char=104	O
+16	backup	backup	NOUN	NN	Number=Sing	15	_	_	start_char=105|end_char=111	O
+17	)	)	PUNCT	-RRB-	_	16	_	_	start_char=111|end_char=112	O
+18	the	the	DET	DT	Definite=Def|PronType=Art	17	_	_	start_char=113|end_char=116	O
+19	bookmarks	bookmark	NOUN	NNS	Number=Plur	18	_	_	start_char=117|end_char=126	B-feature
+20	unless	unless	SCONJ	IN	_	19	_	_	start_char=127|end_char=133	O
+21	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	20	_	_	start_char=134|end_char=135	O
+22	send	send	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	21	_	_	start_char=136|end_char=140	O
+23	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	22	_	_	start_char=141|end_char=145	O
+24	via	via	ADP	IN	_	23	_	_	start_char=146|end_char=149	O
+25	bt	bt	PROPN	NNP	Number=Sing	24	_	_	start_char=150|end_char=152	O
+26	to	to	ADP	IN	_	25	_	_	start_char=153|end_char=155	O
+27	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	26	_	_	start_char=156|end_char=158	O
+28	old	old	ADJ	JJ	Degree=Pos	27	_	_	start_char=159|end_char=162	O
+29	phone	phone	NOUN	NN	Number=Sing	28	_	_	start_char=163|end_char=168	O
+30	.	.	PUNCT	.	_	29	_	_	start_char=168|end_char=169	O
+
+</doc>
+
+<doc id="50ad4396-5ba2-4a68-b37a-082ae1f69e16_s0" package_name="com.mapswithme.maps.pro" app_name="MAPS.ME: Offline maps GPS Nav" app_category="['POI Report']" google_play_category="['TRAVEL_AND_LOCAL']">
+
+1	Excellent	excellent	ADJ	JJ	Degree=Pos	0	_	_	start_char=0|end_char=9	O
+2	for	for	ADP	IN	_	1	_	_	start_char=10|end_char=13	O
+3	Cycling	cycling	NOUN	NN	Number=Sing	2	_	_	start_char=14|end_char=21	B-feature
+4	and	and	CCONJ	CC	_	3	_	_	start_char=22|end_char=25	O
+5	Walking	walk	NOUN	NN	Number=Sing	4	_	_	start_char=26|end_char=33	O
+6	routes	route	NOUN	NNS	Number=Plur	5	_	_	start_char=34|end_char=40	O
+
+</doc>
+
