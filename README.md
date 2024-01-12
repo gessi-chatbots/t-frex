@@ -4,6 +4,8 @@ Please cite this research as:
 
 _Q. Motger, A. Miaschi, F. Dell’Orletta, X. Franch, and J. Marco, ‘T-FREX: A Transformer-based Feature Extraction Method from Mobile App Reviews’, in Proceedings of The IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2024. Pre-print available at: https://arxiv.org/abs/2401.03833_
 
+---
+
 T-FREX is a transformer-based feature extraction method for mobile app reviews based on fine-tuning Large Language Models (LLMs) for a named entity recognition task. We collect a dataset of ground truth features from users in a real crowdsourced software recommendation platform, and we use this dataset to fine-tune multiple LLMs under different data configurations. We assess the performance of T-FREX with respect to this ground truth, and we complement our analysis by comparing T-FREX with a baseline method from the field. Finally, we assess the quality of new features predicted by T-FREX through an external human evaluation. Results show that T-FREX outperforms on average the traditional syntactic-based method, especially when discovering new features from a domain for which the model has been fine-tuned.
 
 
