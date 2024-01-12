@@ -1,5 +1,6 @@
 # T-FREX: A Transformer-based Feature Extraction Method for Mobile App Reviews
 
+---
 Please cite this research as:
 
 _Q. Motger, A. Miaschi, F. Dell’Orletta, X. Franch, and J. Marco, ‘T-FREX: A Transformer-based Feature Extraction Method from Mobile App Reviews’, in Proceedings of The IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2024. Pre-print available at: https://arxiv.org/abs/2401.03833_
