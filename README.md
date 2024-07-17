@@ -31,7 +31,7 @@ This repository is structured in 3 main folders:
 
 In the upcoming sections we refer to the practical use of each of the previous artefacts.
 
-Additionally, we published the fine-tuned versions of the models used for experimentation in the original research, which are ready to be used for model inference:
+Additionally, we published the fine-tuned versions of the models used for experimentation in the original research, which are ready to be used for model inference (available in the HuggingFace  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="20"/>  [collection](https://huggingface.co/collections/quim-motger/t-frex-65e98922014f4be34f8bd74c)):
 
 - [**t-frex-bert-base-uncased**](https://huggingface.co/quim-motger/t-frex-bert-base-uncased)
 - [**t-frex-bert-large-uncased**](https://huggingface.co/quim-motger/t-frex-bert-large-uncased)
