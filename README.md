@@ -2,17 +2,18 @@
 
 T-FREX is a transformer-based feature extraction method for mobile app reviews based on fine-tuning Large Language Models (LLMs) for a named entity recognition task. We collect a dataset of ground truth features from users in a real crowdsourced software recommendation platform, and we use this dataset to fine-tune multiple LLMs under different data configurations. We assess the performance of T-FREX with respect to this ground truth, and we complement our analysis by comparing T-FREX with a baseline method from the field. Finally, we assess the quality of new features predicted by T-FREX through an external human evaluation. Results show that T-FREX outperforms on average the traditional syntactic-based method, especially when discovering new features from a domain for which the model has been fine-tuned.
 
+![T-FREX design\label{t-frex}](design.png)
+
 ## Related Hugging Face Collections
 
 For public access to models related to feature extraction and extended pre-training, check out the following collections:
 
-1. [Fine-Tuned LLMs for Feature Extraction](https://huggingface.co/collections/quim-motger/t-frex-65e98922014f4be34f8bd74c)
+1. [Fine-Tuned LLMs for Feature Extraction](https://huggingface.co/collections/quim-motger/t-frex-65e98922014f4be34f8bd74c) <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="20"/> 
    - A curated collection of models fine-tuned for feature extraction tasks from mobile app reviews.
 
-2. [LLMs with Extended Pre-Training](https://huggingface.co/collections/quim-motger/review-llms-6697b9002c3a5f680eb57572)
+2. [LLMs with Extended Pre-Training](https://huggingface.co/collections/quim-motger/review-llms-6697b9002c3a5f680eb57572) <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="20"/> 
    - This collection features models that have undergone extended pre-training, enhancing their performance on specific tasks in the context of mobile app reviews.
 
-![T-FREX design\label{t-frex}](design.png)
 
 ## Structure
 
