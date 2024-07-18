@@ -19,7 +19,8 @@ For public access to models related to feature extraction and extended pre-train
 
 2. [LLMs with Extended Pre-Training](https://huggingface.co/collections/quim-motger/review-llms-6697b9002c3a5f680eb57572) <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="20"/> 
    - This collection features models that have undergone extended pre-training, enhancing their performance on specific tasks in the context of mobile app reviews.
-
+  
+Model cards include tutorials and code snippets to run models for inference.
 
 ## Structure
 
@@ -36,17 +37,6 @@ This repository is structured in 3 main folders:
 - **evaluation** - Contains extended data on the evaluation results of T-FREX.
 
 In the upcoming sections we refer to the practical use of each of the previous artefacts.
-
-Additionally, we published the fine-tuned versions of the models used for experimentation in the original research, which are ready to be used for model inference (available in the HuggingFace  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="20"/>  [collection](https://huggingface.co/collections/quim-motger/t-frex-65e98922014f4be34f8bd74c)):
-
-- [**t-frex-bert-base-uncased**](https://huggingface.co/quim-motger/t-frex-bert-base-uncased)
-- [**t-frex-bert-large-uncased**](https://huggingface.co/quim-motger/t-frex-bert-large-uncased)
-- [**t-frex-roberta-base**](https://huggingface.co/quim-motger/t-frex-roberta-base)
-- [**t-frex-roberta-large**](https://huggingface.co/quim-motger/t-frex-roberta-large)
-- [**t-frex-xlnet-base-cased**](https://huggingface.co/quim-motger/t-frex-xlnet-base-cased)
-- [**t-frex-xlnet-large-cased**](https://huggingface.co/quim-motger/t-frex-xlnet-large-cased)
-
-Instructions on how to load these models and use them for inference are available [here](https://huggingface.co/docs/transformers/tasks/token_classification#inference).
 
 ## Data Pre-processing and Feature Transfer
 
