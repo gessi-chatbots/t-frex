@@ -10,7 +10,7 @@ Finally, we assess the quality of new features predicted by T-FREX through an ex
 
 <!---![T-FREX design\label{t-frex}](design.png)--->
 
-## Related Hugging Face Collections
+## Related Hugging Face Collections <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="30"/> 
 
 For public access to models related to feature extraction and extended pre-training, check out the following collections:
 
