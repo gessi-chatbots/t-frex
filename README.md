@@ -1,8 +1,14 @@
 # T-FREX: A Transformer-based Feature Extraction Method for Mobile App Reviews
 
-T-FREX is a transformer-based feature extraction method for mobile app reviews based on fine-tuning Large Language Models (LLMs) for a named entity recognition task. We collect a dataset of ground truth features from users in a real crowdsourced software recommendation platform, and we use this dataset to fine-tune multiple LLMs under different data configurations. We assess the performance of T-FREX with respect to this ground truth, and we complement our analysis by comparing T-FREX with a baseline method from the field. Finally, we assess the quality of new features predicted by T-FREX through an external human evaluation. Results show that T-FREX outperforms on average the traditional syntactic-based method, especially when discovering new features from a domain for which the model has been fine-tuned.
+T-FREX is a transformer-based feature extraction method for mobile app reviews based on fine-tuning Large Language Models (LLMs) for a named entity recognition task. We collect a dataset of ground truth features from users in a real crowdsourced software recommendation platform, and we use this dataset to fine-tune multiple LLMs under different data configurations. We assess the performance of T-FREX with respect to this ground truth, and we complement our analysis by comparing T-FREX with a baseline method from the field. In addition, we explore the potential of:
 
-![T-FREX design\label{t-frex}](design.png)
+- **Extended pre-training**: we compare the performance of T-FREX baseline design with a set of encoder-only LLMs with extended pre-training in the field of mobile app reviews using a large dataset from reviews collected from Google Play and other mobile app repositories.
+
+- **Instance selection**: we apply instance selection mechanisms to reduce the size of the training sets to improve performance efficiency while maintaining - or even improving - the functional correctness of feature extraction.
+
+Finally, we assess the quality of new features predicted by T-FREX through an external human evaluation. Results show that T-FREX outperforms on average the traditional syntactic-based method, especially when discovering new features from a domain for which the model has been fine-tuned.
+
+<!---![T-FREX design\label{t-frex}](design.png)--->
 
 ## Related Hugging Face Collections
 
@@ -135,6 +141,42 @@ We refer to the required parameters in the following list:
 Below we provide an example to fine-tune BERT base using the data partition to test out-of-domain PRODUCTIVITY feature extraction (i.e., PRODUCTIVITY feature extraction is evaluated on a model trained with all reviews except from those belonging to a PRODUCTIVITY app, making the PRODUCTIVITY domain an unkwnown field for the model). The script is set to measure quality metrics using a token-level evaluation function, and using the parameters depicted in the previous table.
 
 ```python .\code\fine_tuning.py -m 'bert-base-uncased' -if .\data\T-FREX\out-of-domain\PRODUCTIVITY\ -of .\models\bert-base-uncased -e token-level -ep 2 -lr '2e-5' -bs 16```
+
+## Extended pre-training
+
+The extended pre-training script allows for further training of a language model on a specific domain to improve its performance. Below are the instructions to run the extended pre-training process:
+
+1. Prepare the environment:
+   - Ensure you have all dependencies installed. You can add them to your requirements.txt file if not already included.
+   - Install any missing dependencies using: ```pip install -r requirements.txt```
+
+2. Run the extended pre-training script:
+   - ```python code/extended_pretraining.py -f data/reviews_annotated.txt -o models/extended_pretraining -b 16 -e 10 -m bert-base-uncased```
+
+	The parameters are:
+	
+	    -f or --file: Path to the file containing the raw data.
+	    -o or --output: Path to the folder to save the checkpoints.
+	    -b or --batch-size: Batch size (default: 16).
+	    -e or --epochs: Number of epochs (default: 10).
+	    -m or --model: Model name or path from Hugging Face Model Hub.
+
+## Instance selection
+
+The instance selection script is used to select the most representative instances from the dataset for fine-tuning. Below are the instructions to run the instance selection process:
+
+1. Prepare the environment:
+   - Ensure you have all dependencies installed. You can add them to your requirements.txt file if not already included.
+   - Install any missing dependencies using: ```pip install -r requirements.txt```
+
+2. Run the instance selection script:
+   - ```python code/instance_selection.py -if data/T-FREX/out-of-domain -of data/selected_instances -sf bin```
+
+	The parameters are:
+	
+	    -if or --input-folder: Path to the folder containing the training and test sets.
+	    -of or --output-folder: Path to the folder to save the selected instances.
+	    -sf or --sub-folders: Sub-folder iteration strategy, either none, category, or bin.
 
 ## Evaluation
 
