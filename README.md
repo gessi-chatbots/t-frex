@@ -58,19 +58,19 @@ To transform the original **reviews.json** into the **reviews_annotated.txt** pr
 
 1. Run the review pre-processing script to apply the Stanza neural pipeline to the set of reviews and extract the syntactic and morphological features in CoNLL format. This pipeline is configured to run the following steps: tokenization, multi-word token expansion, part-of-speech tagging, morphological feature extraction, and lemmatization.
 
-	```python .\code\document_preprocessing.py -i .\data\reviews.json -o .\data\reviews.txt```
+	```python ./code/document_preprocessing.py -i ./data/reviews.json -o ./data/reviews.txt```
 
     
 
 2. Run the feature pre-processing script to apply the Stanza neural pipeline to the set of features and extract the syntactic and morphological features in CoNLL format.
 
-	```python .\code\feature_preprocessing.py -i .\data\reviews.json -o .\data\features.txt```
+	```python ./code/feature_preprocessing.py -i ./data/reviews.json -o ./data/features.txt```
 
     
 
 3. Run the feature transfer script to apply the label transferring from the app features to the reviews. 
 
-	```python .\code\feature_transfer.py -f .\data\features.txt -r .\data\reviews.txt -o .\data\reviews_annotated.txt```
+	```python ./code/feature_transfer.py -f ./data/features.txt -r ./data/reviews.txt -o ./data/reviews_annotated.txt```
 
 
 
@@ -108,15 +108,15 @@ Below we provide the complete list of LLMs and the specific checkpoints (from ht
 
 The usage of the fine-tuning script is illustrated below:
 
-```python .\code\fine_tuning.py -m [model] -if [input_folder] -of [output_folder] -e [eval] -ep [epochs] -lr [learning_rate] -bs [batch_size]```
+```python ./code/fine_tuning.py -m [model] -if [input_folder] -of [output_folder] -e [eval] -ep [epochs] -lr [learning_rate] -bs [batch_size]```
 
 We refer to the required parameters in the following list:
 
 - **model** - ID of the model checkpoint (from from https://huggingface.co/) used to tokenize the reviews and conduct the fine-tuning process for a token classification tasks. Different model architectures require different tokenizers and set up criteria. E.g.: ```bert-base-uncased```
 
-- **input_folder** - Path to the subfolder (from ```data/T-FREX/in-domain``` or  ```data/T-FREX/out-of-domain```) used for training and testing. E.g.: ```.\data\T-FREX\out-of-domain\PRODUCTIVITY\```
+- **input_folder** - Path to the subfolder (from ```data/T-FREX/in-domain``` or  ```data/T-FREX/out-of-domain```) used for training and testing. E.g.: ```./data/T-FREX/out-of-domain/PRODUCTIVITY/```
 
-- **output_folder** - Path to the folder to save the model checkpoints. E.g.: ```.\models\bert-base-uncased``` 
+- **output_folder** - Path to the folder to save the model checkpoints. E.g.: ```./models/bert-base-uncased``` 
 
 - **eval** - Evaluation function used to measure quality metrics. It must be either ```token-level``` (i.e., metrics are computed for each token) or ```feature-level``` (i.e., metrics are computed for each feature).
 
@@ -130,7 +130,7 @@ We refer to the required parameters in the following list:
 
 Below we provide an example to fine-tune BERT base using the data partition to test out-of-domain PRODUCTIVITY feature extraction (i.e., PRODUCTIVITY feature extraction is evaluated on a model trained with all reviews except from those belonging to a PRODUCTIVITY app, making the PRODUCTIVITY domain an unkwnown field for the model). The script is set to measure quality metrics using a token-level evaluation function, and using the parameters depicted in the previous table.
 
-```python .\code\fine_tuning.py -m 'bert-base-uncased' -if .\data\T-FREX\out-of-domain\PRODUCTIVITY\ -of .\models\bert-base-uncased -e token-level -ep 2 -lr '2e-5' -bs 16```
+```python ./code/fine_tuning.py -m 'bert-base-uncased' -if ./data/T-FREX/out-of-domain/PRODUCTIVITY/ -of ./models/bert-base-uncased -e token-level -ep 2 -lr '2e-5' -bs 16```
 
 ## Extended pre-training
 
@@ -140,8 +140,8 @@ The extended pre-training script allows for further training of a language model
    - Ensure you have all dependencies installed. You can add them to your requirements.txt file if not already included.
    - Install any missing dependencies using: ```pip install -r requirements.txt```
 
-2. Run the extended pre-training script:
-   - ```python code/extended_pretraining.py -f data/reviews_annotated.txt -o models/extended_pretraining -b 16 -e 10 -m bert-base-uncased```
+2. Run the extended pre-training script with [dataset for extended pre-training](https://github.com/gessi-chatbots/t-frex):
+   - ```python code/extended_pretraining.py -f data/T-FREX-EP/reviews.txt -o models/extended_pretraining/bert-base-uncased -b 16 -e 10 -m bert-base-uncased```
 
 	The parameters are:
 	
@@ -150,6 +150,9 @@ The extended pre-training script allows for further training of a language model
 	    -b or --batch-size: Batch size (default: 16).
 	    -e or --epochs: Number of epochs (default: 10).
 	    -m or --model: Model name or path from Hugging Face Model Hub.
+
+3. Use path to model checkpoints for fine-tuning T-FREX with a model with extended pre-training:
+   - ```python ./code/fine_tuning.py -m models/extended_pretraining/bert-base-uncased/checkpoint-2155 -if ./data/T-FREX/in-domain/bin0/ -of ./models/bert-base-uncased -e token-level -ep 2 -lr '2e-5' -bs 16```
 
 ## Instance selection
 
@@ -160,13 +163,16 @@ The instance selection script is used to select the most representative instance
    - Install any missing dependencies using: ```pip install -r requirements.txt```
 
 2. Run the instance selection script:
-   - ```python code/instance_selection.py -if data/T-FREX/out-of-domain -of data/selected_instances -sf bin```
+   - ```python code/instance_selection.py -if data/T-FREX/out-of-domain -of data/T-FREX-IS -sf bin```
 
 	The parameters are:
 	
 	    -if or --input-folder: Path to the folder containing the training and test sets.
 	    -of or --output-folder: Path to the folder to save the selected instances.
 	    -sf or --sub-folders: Sub-folder iteration strategy, either none, category, or bin.
+
+3. Use an instance selection training split for fine-tuning T-FREX with a filtered data partition:
+   - ```python ./code/fine_tuning.py -m models/extended_pretraining/bert-base-uncased/checkpoint-2155 -if ./data/T-FREX-IS/bin0 -of ./models/bert-base-uncased -e token-level -ep 2 -lr '2e-5' -bs 16```
 
 ## Evaluation
 
@@ -190,11 +196,11 @@ To test any of the fine-tuned LLMs as a NER model, we provide an interactive scr
 
 The usage of the script for model inference is shown below:
 
-```python.exe .\code\token_classifier.py --checkpoint [checkpoint]```
+```python.exe ./code/token_classifier.py --checkpoint [checkpoint]```
 
 Where ```checkpoint``` is the path to the model checkpoint used to load the NER pipeline. For example:
 
-```python .\code\token_classifier.py --checkpoint .\models\bert-base-uncased\checkpoint-1676\```
+```python ./code/token_classifier.py --checkpoint ./models/bert-base-uncased/checkpoint-1676/```
 
 Below we provide a sample list of review examples for testing:
 
