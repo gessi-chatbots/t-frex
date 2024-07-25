@@ -39,7 +39,7 @@ else:
     subfolders = ['']
 
 # Specify the path to your JSON file
-json_file_path = os.path.join("data", "feature-review-wo-game.json")
+json_file_path = os.path.join("data", "feature-reviews.json")
 metadata = []
 
 # Load BERT model and tokenizer
