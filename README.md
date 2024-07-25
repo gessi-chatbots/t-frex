@@ -92,7 +92,7 @@ In addition to the complete dataset of reviews and features, the ```data``` fold
 
 ## Model fine-tuning
 
-The previous folders can be used as input files for experimentation and fine-tuning of multiple LLMs. For simplicity, in this repository we provide the code for running 1 single fine-tuning scennario. Replication of the evaluation tasks can be conducted through automatic runs of the provided code with different parameters.
+The previous folders can be used as input files for experimentation and fine-tuning of multiple LLMs. For simplicity, in this repository, we provide the code for running 1 single fine-tuning scennario. Replication of the evaluation tasks can be conducted through automatic runs of the provided code with different parameters.
 
 Below we provide the complete list of LLMs and the specific checkpoints (from https://huggingface.co/) used for experimentation. Additionally, we detail the parameters we used for training. Experiments were conducted on two NVIDIA GeForce RTX 4090 GPUs.
 
@@ -133,6 +133,8 @@ Below we provide an example to fine-tune BERT base using the data partition to t
 ```python ./code/fine_tuning.py -m 'bert-base-uncased' -if ./data/T-FREX/out-of-domain/PRODUCTIVITY/ -of ./models/bert-base-uncased -e token-level -ep 2 -lr '2e-5' -bs 16```
 
 ## Extended pre-training
+
+The dataset used for extended pre-training can be found in ````data/T-FREX-EP``` folder.
 
 The extended pre-training script allows for further training of a language model on a specific domain to improve its performance. Below are the instructions to run the extended pre-training process:
 
