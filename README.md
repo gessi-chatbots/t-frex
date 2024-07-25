@@ -134,7 +134,7 @@ Below we provide an example to fine-tune BERT base using the data partition to t
 
 ## Extended pre-training
 
-The dataset used for extended pre-training can be found in ````data/T-FREX-EP``` folder.
+The dataset used for extended pre-training can be found in ```data/T-FREX-EP``` folder.
 
 The extended pre-training script allows for further training of a language model on a specific domain to improve its performance. Below are the instructions to run the extended pre-training process:
 
