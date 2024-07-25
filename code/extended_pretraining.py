@@ -4,18 +4,10 @@ from CoNLL_reader import convert_reviews_to_dict
 from CoNLL_reader import read_doc
 
 from transformers import XLNetTokenizer, AutoTokenizer, AutoModelForMaskedLM, AutoModelForCausalLM, Trainer, TrainingArguments, DataCollatorForLanguageModeling
-import torch
 from torch.utils.data import Dataset
 from datasets import Dataset, DatasetDict
 from sklearn.model_selection import train_test_split
 
-
-## WANDB set up
-import wandb
-wandb.login()
-
-wandb.init(project="extended-pretraining")
-##
 
 def convert_dict_to_set(dict):
     data_set = []
@@ -67,7 +59,7 @@ output_path = args['output']
 batch_size = args['batch_size']
 epochs = args['epochs']
 model_name = args['model']
-wandb.run.name = model_name
+#wandb.run.name = model_name
 
 # Step 1: Load data
 set_file = read_doc(file_path)
@@ -126,7 +118,7 @@ training_args = TrainingArguments(
     #eval_steps=100,
     #max_steps=100,
     #save_steps=100,
-    report_to="wandb"
+    #report_to="wandb"
 )
 
 trainer = Trainer(
