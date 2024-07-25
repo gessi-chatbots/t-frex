@@ -142,7 +142,7 @@ The extended pre-training script allows for further training of a language model
    - Install any missing dependencies using: ```pip install -r requirements.txt```
 
 2. Run the extended pre-training script with [dataset for extended pre-training](https://github.com/gessi-chatbots/t-frex):
-   - ```python code/extended_pretraining.py -f data/T-FREX-EP/reviews.txt -o models/extended_pretraining/bert-base-uncased -b 16 -e 10 -m bert-base-uncased```
+   - ```python code/extended_pretraining.py -f data/T-FREX-EP/reviews-extended-pretraining.txt -o models/extended_pretraining/bert-base-uncased -b 16 -e 10 -m bert-base-uncased```
 
 	The parameters are:
 	
