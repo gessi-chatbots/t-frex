@@ -118,7 +118,7 @@ We refer to the required parameters in the following list:
 
 - **output_folder** - Path to the folder to save the model checkpoints. E.g.: ```./models/bert-base-uncased``` 
 
-- **eval** - Evaluation function used to measure quality metrics. It must be either ```token-level``` (i.e., metrics are computed for each token) or ```feature-level``` (i.e., metrics are computed for each feature).
+- **eval** - Evaluation function used to measure quality metrics. It must be either ```token_level``` (i.e., metrics are computed for each token) or ```feature_level``` (i.e., metrics are computed for each feature).
 
 - **epochs** - Total number of training epochs to perform. E.g.: ```2```
 
@@ -130,7 +130,7 @@ We refer to the required parameters in the following list:
 
 Below we provide an example to fine-tune BERT base using the data partition to test out-of-domain PRODUCTIVITY feature extraction (i.e., PRODUCTIVITY feature extraction is evaluated on a model trained with all reviews except from those belonging to a PRODUCTIVITY app, making the PRODUCTIVITY domain an unkwnown field for the model). The script is set to measure quality metrics using a token-level evaluation function, and using the parameters depicted in the previous table.
 
-```python ./code/fine_tuning.py -m 'bert-base-uncased' -if ./data/T-FREX/out-of-domain/PRODUCTIVITY/ -of ./models/bert-base-uncased -e token-level -ep 2 -lr '2e-5' -bs 16```
+```python ./code/fine_tuning.py -m 'bert-base-uncased' -if ./data/T-FREX/out-of-domain/PRODUCTIVITY/ -of ./models/bert-base-uncased -e token_level -ep 2 -lr '2e-5' -bs 16```
 
 ## Extended pre-training
 
@@ -154,7 +154,7 @@ The extended pre-training script allows for further training of a language model
 	    -m or --model: Model name or path from Hugging Face Model Hub.
 
 3. Use path to model checkpoints for fine-tuning T-FREX with a model with extended pre-training:
-   - ```python ./code/fine_tuning.py -m models/extended_pretraining/bert-base-uncased/checkpoint-2155 -if ./data/T-FREX/in-domain/bin0/ -of ./models/bert-base-uncased -e token-level -ep 2 -lr '2e-5' -bs 16```
+   - ```python ./code/fine_tuning.py -m models/extended_pretraining/bert-base-uncased/checkpoint-2155 -if ./data/T-FREX/in-domain/bin0/ -of ./models/bert-base-uncased -e token_level -ep 2 -lr '2e-5' -bs 16```
 
 ## Instance selection
 
@@ -174,7 +174,7 @@ The instance selection script is used to select the most representative instance
 	    -sf or --sub-folders: Sub-folder iteration strategy, either none, category, or bin.
 
 3. Use an instance selection training split for fine-tuning T-FREX with a filtered data partition:
-   - ```python ./code/fine_tuning.py -m models/extended_pretraining/bert-base-uncased/checkpoint-2155 -if ./data/T-FREX-IS/bin0 -of ./models/bert-base-uncased -e token-level -ep 2 -lr '2e-5' -bs 16```
+   - ```python ./code/fine_tuning.py -m models/extended_pretraining/bert-base-uncased/checkpoint-2155 -if ./data/T-FREX-IS/bin0 -of ./models/bert-base-uncased -e token_level -ep 2 -lr '2e-5' -bs 16```
 
 ## Evaluation
 
