@@ -139,7 +139,6 @@ Below we provide an example to fine-tune BERT base using the data partition to t
 The extended pre-training script allows for further training of a language model on a specific domain to improve its performance. Below are the instructions to run the extended pre-training process:
 
 1. Prepare the environment:
-   - Ensure you have all dependencies installed. You can add them to your requirements.txt file if not already included.
    - Install any missing dependencies using: ```pip install -r requirements.txt```
 
 2. Run the extended pre-training script with [dataset for extended pre-training](https://github.com/gessi-chatbots/t-frex):
@@ -161,7 +160,6 @@ The extended pre-training script allows for further training of a language model
 The instance selection script is used to select the most representative instances from the dataset for fine-tuning. Below are the instructions to run the instance selection process:
 
 1. Prepare the environment:
-   - Ensure you have all dependencies installed. You can add them to your requirements.txt file if not already included.
    - Install any missing dependencies using: ```pip install -r requirements.txt```
 
 2. Run the instance selection script:
