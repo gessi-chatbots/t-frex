@@ -182,8 +182,8 @@ output_folder = args['output_folder']
 eval = args['eval']
 
 epochs = args['epochs']
-learning_r = args['learning-rate']
-batch_size = args['batch-size']
+learning_r = args['learning_rate']
+batch_size = args['batch_size']
 
 # Validate model is expected value
 if model_name not in models:
