@@ -163,7 +163,7 @@ The instance selection script is used to select the most representative instance
    - Install any missing dependencies using: ```pip install -r requirements.txt```
 
 2. Run the instance selection script:
-   - ```python code/instance_selection.py -if data/T-FREX/out-of-domain -of data/T-FREX-IS -sf bin```
+   - ```python code/instance_selection.py -if data/T-FREX/in-domain -of data/T-FREX-IS -sf bin```
 
 	The parameters are:
 	
