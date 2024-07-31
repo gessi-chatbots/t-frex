@@ -202,7 +202,7 @@ Where ```checkpoint``` is the path to the model checkpoint used to load the NER 
 
 ```python ./code/token_classifier.py --checkpoint ./models/bert-base-uncased/checkpoint-1676/```
 
-Alternatively, you can use any of the models available in the HuggingFace collection: 
+Alternatively, you can use any of the models available in the [HuggingFace collection](https://huggingface.co/collections/quim-motger/t-frex-65e98922014f4be34f8bd74c) <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="20"/>: 
 
 ```python ./code/token_classifier.py --checkpoint quim-motger/t-frex-xlnet-large-cased```
 
