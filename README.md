@@ -8,6 +8,16 @@ T-FREX is a transformer-based feature extraction method for mobile app reviews b
 
 Finally, we assess the quality of new features predicted by T-FREX through an external human evaluation. Results show that T-FREX outperforms on average the traditional syntactic-based method, especially when discovering new features from a domain for which the model has been fine-tuned.
 
+### Publications
+
+For more information, please check and cite the following publications:
+
+<ul>
+<li>Q. Motger, A. Miaschi, F. Dell'Orletta, X. Franch, and J. Marco, "Leveraging Large Language Models for Mobile App Review Feature Extraction," arXiv preprint arXiv:2408.01063 [Cs.CL]. Available: http://arxiv.org/abs/2408.01063. Pre-print under review.</li>
+<li>Q. Motger, A. Miaschi, F. Dell'Orletta, X. Franch, and J. Marco, "T-FREX: A Transformer-based Feature Extraction Method from Mobile App Reviews," 2024 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Rovaniemi, Finland, 2024, pp. 227-238, doi: https://doi.org/10.1109/SANER60148.2024.00030.</li>
+</ul>
+</div>
+
 <!---![T-FREX design\label{t-frex}](design.png)--->
 
 ## Related Hugging Face Collections <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="30"/> 
