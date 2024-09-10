@@ -10,7 +10,7 @@ def main():
     parser = argparse.ArgumentParser(description="Feature extraction from reviews")
     parser.add_argument("input_file", help="Path to the CSV file containing review data")
     parser.add_argument("output_file", help="Path to save the processed data")
-    parser.add_argument("--model_id", default="quim-motger/t-frex-xlnet-large-cased", help="Hugging Face model ID for feature extraction")
+    parser.add_argument("--model_id", default="quim-motger/t-frex-bert-base-uncased", help="Hugging Face model ID for feature extraction")
     args = parser.parse_args()
 
     reviews = read_csv_file(args.input_file)
@@ -52,7 +52,7 @@ def main():
                 processed_features.append(current_feature.strip())
             
             # Update the 'FeatureLabel' column
-            reviews.at[idx, 'FeatureLabel'] = ', '.join(processed_features)
+            reviews.at[idx, 'FeatureLabel'] = '; '.join(processed_features)
         
         # Update the progress bar
         progress_bar.update(len(batch))
