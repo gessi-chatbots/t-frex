@@ -35,24 +35,30 @@ def main():
         
         for idx, review in batch.iterrows():
             review_text = review['ReviewText']
-            features = feature_extractor(review_text)
             
-            # Process the extracted features
-            processed_features = []
-            current_feature = ""
-            for feature in features:
-                if feature['entity'] == 'B-feature':
-                    if current_feature:
-                        processed_features.append(current_feature.strip())
-                    current_feature = feature['word']
-                elif feature['entity'] == 'I-feature':
-                    current_feature += " " + feature['word']
-            
-            if current_feature:
-                processed_features.append(current_feature.strip())
-            
-            # Update the 'FeatureLabel' column
-            reviews.at[idx, 'FeatureLabel'] = '; '.join(processed_features)
+            # Check if review_text is not empty or None
+            if review_text and not pd.isna(review_text):
+                features = feature_extractor(review_text)
+                
+                # Process the extracted features
+                processed_features = []
+                current_feature = ""
+                for feature in features:
+                    if feature['entity'] == 'B-feature':
+                        if current_feature:
+                            processed_features.append(current_feature.strip())
+                        current_feature = feature['word']
+                    elif feature['entity'] == 'I-feature':
+                        current_feature += " " + feature['word']
+                
+                if current_feature:
+                    processed_features.append(current_feature.strip())
+                
+                # Update the 'FeatureLabel' column
+                reviews.at[idx, 'FeatureLabel'] = '; '.join(processed_features)
+            else:
+                # Handle empty or None review_text
+                reviews.at[idx, 'FeatureLabel'] = ''
         
         # Update the progress bar
         progress_bar.update(len(batch))
